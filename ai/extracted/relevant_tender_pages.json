@@ -1,0 +1,225 @@
+[
+    {
+        "page": 1,
+        "text": "FICTIONAL TRAINING DOCUMENT\nMODEL TENDER DOCUMENT FOR PROCUREMENT OF GOODS\nDepartment of Digital Learning Infrastructure (DDLI)\nOpen Tender for Supply, Installation and\nSupport of Laptop Computers\nTender Reference Number: DDLI/PROC/GOODS/2026-27/014\nTender Type: Open Tender – Domestic | Form of Contract: Item Rate | Bidding System:\nSingle Stage, Two Covers\nParticular Tender Detail\nTender issue date 10 September 2026\nBid submission deadline 05 October 2026, 15:00 hrs\nTechno-commercial bid opening 06 October 2026, 15:30 hrs\nFinancial bid opening To be intimated to technically qualified bidders\nBid validity 120 days from date of tender opening\nQuantity 50 laptop computer sets\nDelivery Within 60 calendar days from contract effective date\nIMPORTANT: This is a fictional mock tender created solely for software development, NLP/RAG testing and demonstration. It is\nNOT a Government of India tender, does not create any procurement obligation, and must not be represented as an official\nprocurement document.\nThe structure and terminology are adapted from the uploaded Government of India Model Tender Document for Procurement of Goods. The\nsource MTD describes Sections I–VIII and bidder forms including the Schedule of Requirements, Technical Specifications, Qualification Criteria\nand compliance forms. nfilecitenturn5file0nL28-L55n\nDDLI/PROC/GOODS/2026-27/014 | FICTIONAL TRAINING DOCUMENT Page 1",
+        "reason": "section + requirement language",
+        "matched_sections": [
+            "qualification criteria",
+            "technical specifications"
+        ],
+        "matched_patterns": [
+            "\\bmust\\b"
+        ]
+    },
+    {
+        "page": 3,
+        "text": "Section I: Notice Inviting Tender (NIT)\n1. Notice Inviting Tender\nDepartment of Digital Learning Infrastructure (DDLI) invites bids for entering into an item-rate contract for supply,\ninstallation, configuration and warranty support of laptop computer sets for government training and administrative\nfacilities. The tender reference is DDLI/PROC/GOODS/2026-27/014.\nBidders shall read the complete Tender Document before submitting a bid. The Tender Information Summary below\nprovides salient information but does not replace the detailed clauses.\n2. Tender Information Summary\nParameter Filled Tender Information\nTender title Open Tender for Supply, Installation and Support of Laptop Computers\nTender reference number DDLI/PROC/GOODS/2026-27/014\nTender ID DDLI2026LAPTOP014\nTender type Open Tender – Domestic\nTender category Goods\nForm of contract Item Rate\nBidding system Single Stage – Two Covers\ne-Reverse Auction No\nProcuring organisation Department of Digital Learning Infrastructure (DDLI)\nTender Inviting Authority Ms. Kavya Menon, Director (Procurement), DDLI\nOffice address Procurement Division, 4th Floor, Civic Technology Complex, New Delhi – 110020\nClarification contact procurement.mock@ddli.example.org\nPortal for mock workflow https://procurement-mock.example.org/tenders/DDLI2026LAPTOP014\nDDLI/PROC/GOODS/2026-27/014 | FICTIONAL TRAINING DOCUMENT Page 3",
+        "reason": "requirement language",
+        "matched_sections": [],
+        "matched_patterns": [
+            "\\bshall\\b"
+        ]
+    },
+    {
+        "page": 4,
+        "text": "Section I: NIT – Critical Dates and Eligibility\nEvent Date / Time\nTender published 10 September 2026, 10:00 hrs\nDocument download starts 10 September 2026, 10:00 hrs\nClarification start 10 September 2026, 10:00 hrs\nClarification end 23 September 2026, 17:00 hrs\nBid submission starts 12 September 2026, 10:00 hrs\nBid submission closes 05 October 2026, 15:00 hrs\nTechno-commercial bid opening 06 October 2026, 15:30 hrs\nFinancial bid opening To be intimated\n3. Eligibility Criteria\n(cid:127) Bidder shall be a manufacturer of the offered laptops or an authorised dealer/distributor of the OEM.\n(cid:127) Bidder shall possess valid PAN and GST registration applicable to the offered business.\n(cid:127) Bidder shall not be insolvent, bankrupt, under receivership or wound up.\n(cid:127) Bidder shall not be blacklisted, banned or debarred by the procuring organisation or otherwise declared ineligible under\napplicable procurement rules.\n(cid:127) Bidder shall declare absence of a conflict of interest with other bidders and the procuring organisation.\n(cid:127) Where the bidder is an authorised dealer, a tender-specific OEM authorisation letter shall be submitted.\n(cid:127) Bidder shall meet the qualification criteria in Section VIII.\n4. Bid Security and Performance Security\nFor this mock tender, a Bid Securing Declaration shall be submitted in Form 7. Performance Security shall be applicable\nat 3% of the accepted contract value and shall be furnished in the prescribed form within the period stated in the Letter of\nAward.\n5. Submission and Opening\nBids shall be uploaded electronically in two covers: Cover 1 – Techno-commercial bid and Cover 2 – Financial bid/BOQ.\nThe financial bid shall be opened only for bidders whose techno-commercial bid is found responsive and technically\nsuitable.\nDDLI/PROC/GOODS/2026-27/014 | FICTIONAL TRAINING DOCUMENT Page 4",
+        "reason": "section + requirement language",
+        "matched_sections": [
+            "eligibility criteria",
+            "qualification criteria"
+        ],
+        "matched_patterns": [
+            "\\bshall\\b",
+            "\\bdeclare\\b"
+        ]
+    },
+    {
+        "page": 5,
+        "text": "Section II: Instructions to Bidders (ITB)\n1. Tender Document and Bid Structure\nThe Tender Document comprises the NIT/TIS, ITB, AITB, GCC, SCC, Schedule of Requirements, Technical\nSpecifications and Quality Assurance, Qualification Criteria and Bidding Forms. The financial BOQ is an integral part of\nthe tender.\nThe reference MTD states that Section VI covers goods, quantities, HSN codes, delivery, destination, transportation and\nincidental services; Section VII covers technical and quality requirements; and Section VIII covers qualification criteria.\nnfilecitenturn6file2nL148-L205n\n2. Clarifications\nBidders may submit written clarification requests through the mock procurement portal up to 23 September 2026, 17:00\nhrs. DDLI may issue consolidated clarifications or corrigenda before the bid submission deadline.\n3. Preparation of Bids\n(cid:127) The bidder shall submit one complete techno-commercial bid and one financial BOQ.\n(cid:127) All uploaded documents shall be legible and signed where required.\n(cid:127) Scanned copies shall be self-attested where the tender requires self-attestation.\n(cid:127) Technical deviations shall be clearly listed in Form 3 and commercial deviations in Form 5.\n(cid:127) Conditional offers may be treated as non-responsive where the condition affects a material requirement.\n4. Bid Validity\nThe bid shall remain valid for 120 days from the date of opening of the techno-commercial bid. DDLI may request an\nextension in writing where permitted.\n5. Evaluation\nEvaluation will proceed in stages: preliminary scrutiny, eligibility and documentary checks, qualification assessment,\ntechnical compliance, commercial/terms compliance, and financial evaluation among responsive bidders. The lowest\nevaluated responsive offer will be considered in accordance with the stated evaluation conditions and applicable\npreferences.\nDDLI/PROC/GOODS/2026-27/014 | FICTIONAL TRAINING DOCUMENT Page 5",
+        "reason": "section + requirement language",
+        "matched_sections": [
+            "qualification criteria",
+            "quality assurance"
+        ],
+        "matched_patterns": [
+            "\\bshall\\b",
+            "\\brequired\\b",
+            "\\bsubmit\\b"
+        ]
+    },
+    {
+        "page": 6,
+        "text": "Section III: Appendix to Instructions to Bidders (AITB)\nClause Tender-specific provision\nAITB 1 – Portal Mock e-procurement portal specified in TIS.\nAITB 2 – Covers Two covers: techno-commercial and financial.\nAITB 3 – Alternate bids Not allowed. One bid per bidder.\nAITB 4 – Physical originals No routine physical submission. DDLI may call for originals for verification.\nAITB 5 – Pre-bid conference No mandatory pre-bid conference. Written clarifications permitted.\nAITB 6 – Inspection Pre-dispatch inspection may be conducted on a sample basis at the supplier premises.\nAITB 7 – Delivery 60 calendar days from effective date of contract.\nAITB 8 – Warranty Minimum 3 years comprehensive onsite warranty.\nAITB 9 – Installation Installation/configuration at each consignee location included in quoted price.\nAITB 10 – Training One half-day administrator orientation session at the consignee location.\nAITB 11 – Price variation Not applicable; prices shall remain firm during the contract period.\nDocuments to be Uploaded\nThe MTD identifies bidder forms including Form 1, Form 1.1, Form 1.2, Form 1.3 where applicable, Form 2, Form 3, Form\n4, Form 4.1, Form 5, Form 6, Form 7 and Form 8 where applicable. nfilecitenturn5file2nL154-L170n\n(cid:127) Bid Form and Bidder Information\n(cid:127) PAN and GST registration\n(cid:127) Eligibility declarations and non-blacklisting declaration\n(cid:127) OEM authorisation, where bidder is not the manufacturer\n(cid:127) Schedule of Requirements compliance\n(cid:127) Technical specification compliance with supporting datasheets\n(cid:127) Qualification criteria compliance and performance statement\n(cid:127) Commercial/terms compliance\n(cid:127) Bid Securing Declaration\n(cid:127) Price BOQ\nDDLI/PROC/GOODS/2026-27/014 | FICTIONAL TRAINING DOCUMENT Page 6",
+        "reason": "section + requirement language",
+        "matched_sections": [
+            "qualification criteria"
+        ],
+        "matched_patterns": [
+            "\\bshall\\b",
+            "\\bminimum\\b"
+        ]
+    },
+    {
+        "page": 7,
+        "text": "Section IV: General Conditions of Contract (GCC)\n1. Contract Documents and Precedence\nThe contract shall comprise the Letter of Award, accepted bid, Tender Document, Schedule of Requirements, Technical\nSpecifications, SCC, agreed clarifications/corrigenda and other documents expressly incorporated into the contract. In\ncase of conflict, the order of precedence stated in the contract shall apply.\n2. Supplier Obligations\n(cid:127) Maintain eligibility and qualification during contract execution.\n(cid:127) Supply new, unused and genuine goods meeting the specified technical requirements.\n(cid:127) Provide all accessories, cables, adapters and documentation necessary for normal operation.\n(cid:127) Complete installation/configuration and handover at the consignee location.\n(cid:127) Provide warranty support for the complete warranty period.\n(cid:127) Protect confidential information received during contract performance.\n3. Inspection and Quality Assurance\nDDLI or its nominated inspection representative may inspect and test goods before dispatch and/or after delivery. Initial\ninspection or acceptance shall not remove the consignee's right to reject goods later found not to conform to the contract.\nThe uploaded MTD specifically provides for inspection before dispatch and retains the consignee's right to reject goods\nlater found deficient against technical specifications and quality requirements. nfilecitenturn5file8nL565-L605n\n4. Packing and Transportation\nGoods shall be securely packed in manufacturer-standard protective packaging suitable for road transportation and\nhandling. The supplier shall bear transportation and transit risk until delivery at the stated destination.\n5. Delivery Delays\nTime is of the essence. Delays not covered by approved extension provisions may attract liquidated damages at 0.5% of\nthe value of delayed goods per completed week, subject to a maximum of 5% of the delayed portion, without prejudice to\nother contractual remedies.\nDDLI/PROC/GOODS/2026-27/014 | FICTIONAL TRAINING DOCUMENT Page 7",
+        "reason": "section + requirement language",
+        "matched_sections": [
+            "technical specifications",
+            "technical requirements",
+            "quality assurance"
+        ],
+        "matched_patterns": [
+            "\\bshall\\b",
+            "\\bprovide\\b"
+        ]
+    },
+    {
+        "page": 8,
+        "text": "Section IV: GCC – Prices, Payments, Warranty and Disputes\n6. Prices and Taxes\nQuoted prices shall be firm and inclusive of packing, forwarding, freight, insurance, installation, configuration and\nincidental services up to the consignee location. GST and other statutory taxes shall be shown separately in the financial\nBOQ.\n7. Payment\nPayment shall normally be made within 30 days of successful delivery, installation, acceptance and submission of an\nundisputed invoice with required supporting documents. No advance payment is applicable.\n8. Warranty\nThe supplier shall provide a minimum three-year comprehensive onsite warranty from the date of acceptance. Warranty\nservice shall include repair or replacement of defective components and reasonable technical support without additional\ncharge.\n9. Performance Security\nThe successful bidder shall furnish performance security equal to 3% of the accepted contract value in the prescribed\nform within the period stated in the Letter of Award.\n10. Dispute Resolution\nThe parties shall first attempt resolution through the designated procurement officers. Unresolved disputes may be\nreferred to the arbitration mechanism stated in the contract, with the seat of arbitration in New Delhi and proceedings\ngoverned by applicable Indian law.\n11. Termination\nThe procuring entity may terminate the contract for material breach, persistent delay, insolvency or other grounds\nspecified in the contract, subject to applicable contractual procedure.\n12. Code of Integrity\nBidders and the supplier shall not engage in bribery, collusion, coercion, fraudulent practice, conflict-of-interest\nconcealment or other prohibited conduct in connection with the tender or contract.\nDDLI/PROC/GOODS/2026-27/014 | FICTIONAL TRAINING DOCUMENT Page 8",
+        "reason": "requirement language",
+        "matched_sections": [],
+        "matched_patterns": [
+            "\\bshall\\b",
+            "\\brequired\\b",
+            "\\bminimum\\b",
+            "\\bprovide\\b"
+        ]
+    },
+    {
+        "page": 9,
+        "text": "Section V: Special Conditions of Contract (SCC)\nSCC No. Special condition\nSCC-01 The goods shall be brand-new, unused and manufactured not earlier than 12 months before the date of supply.\nSCC-02 Each laptop shall carry a minimum three-year comprehensive onsite warranty.\nSCC-03 Delivery shall be completed within 60 calendar days of contract effective date.\nSCC-04 Destination: DDLI Central Stores, Civic Technology Complex, New Delhi – 110020.\nSCC-05 Installation, OS configuration, device setup and basic network configuration are included.\nSCC-06 Supplier shall provide serial-number-wise asset list and warranty details at handover.\nSCC-07 Supplier shall provide one administrator orientation session for up to 10 DDLI staff.\nSCC-08 Price variation is not permitted.\nSCC-09 Part supply requires prior written approval and shall not alter the overall delivery obligation.\nSCC-10 All laptops shall be supplied with genuine manufacturer adapters and required accessories.\nSCC-11 Any proposed equivalent specification must meet or exceed the stated minimum and must be clearly demonstrated in the technical bid.\nSCC-12 The procuring entity may request clarification of submitted documents where permitted; clarification shall not ordinarily permit material alteration of the bid.\nDDLI/PROC/GOODS/2026-27/014 | FICTIONAL TRAINING DOCUMENT Page 9",
+        "reason": "requirement language",
+        "matched_sections": [],
+        "matched_patterns": [
+            "\\bshall\\b",
+            "\\bmust\\b",
+            "\\brequired\\b",
+            "\\bminimum\\b",
+            "\\bprovide\\b"
+        ]
+    },
+    {
+        "page": 10,
+        "text": "Section VI: Schedule of Requirements\nThe MTD indicates that the Schedule of Requirements should state goods, HSN codes, quantity, units, delivery\nrequirements, destination/state, transportation, terms of delivery, accessories/spares and incidental works/services.\nnfilecitenturn6file2nL148-L186n\nSchedule Item HSN Description Qty Unit Delivery Destination\n1 1.1 8471 Business laptop computer set 50 Set 60 days New Delhi, Delhi\n1 1.2 8473 Wireless optical mouse 50 Nos. With laptops New Delhi, Delhi\n1 1.3 4202 Laptop carry bag 50 Nos. With laptops New Delhi, Delhi\nBackground and Intended Use\nThe laptops are intended for departmental training rooms, administrative work, secure office productivity, document\nprocessing, online meetings, data analysis and general professional use.\nTransportation and Delivery\n(cid:127) Road transportation is the preferred mode.\n(cid:127) Delivery shall be Free at Destination to DDLI Central Stores, New Delhi.\n(cid:127) Supplier shall provide delivery challan, packing list, serial-number list and invoice.\n(cid:127) Goods shall be protected against transit damage and moisture.\n(cid:127) Installation/configuration shall be completed after physical delivery.\nIncidental Works and Services\n(cid:127) Unpacking and physical installation.\n(cid:127) Operating system activation/configuration.\n(cid:127) Basic device naming and configuration according to DDLI instructions.\n(cid:127) Asset tagging and serial-number recording.\n(cid:127) Administrator orientation and handover documentation.\nDDLI/PROC/GOODS/2026-27/014 | FICTIONAL TRAINING DOCUMENT Page 10",
+        "reason": "requirement language",
+        "matched_sections": [],
+        "matched_patterns": [
+            "\\bshall\\b",
+            "\\bprovide\\b"
+        ]
+    },
+    {
+        "page": 11,
+        "text": "Section VII: Technical Specifications and Quality Assurance\nSl. Parameter Minimum Requirement\n1 Processor Intel Core i5 12th Gen or equivalent current-generation processor; minimum 4 performance cores or equivalent capability.\n2 Memory 16 GB DDR4/DDR5 RAM, expandable preferred.\n3 Storage 512 GB NVMe SSD or higher.\n4 Display 14-inch or larger, Full HD (1920×1080) or higher, anti-glare.\n5 Operating system Genuine Windows 11 Pro 64-bit, properly licensed.\n6 Wireless Wi-Fi 6 (802.11ax) or better.\n7 Bluetooth Bluetooth 5.0 or better.\n8 Camera Integrated HD webcam with microphone.\n9 Ports At least 2 USB-A, 1 USB-C, HDMI or equivalent external display output, audio combo jack.\n10 Keyboard Full-size business keyboard, spill-resistant preferred; English layout.\n11 Power Genuine manufacturer power adapter supplied with each laptop.\n12 Warranty Minimum 3 years comprehensive onsite warranty.\n13 Accessories Laptop bag and wireless optical mouse for each laptop.\n14 Documentation User manual, warranty information and serial-number/asset list.\n15 Condition Brand-new, unused, genuine and free from manufacturing defects.\nDDLI/PROC/GOODS/2026-27/014 | FICTIONAL TRAINING DOCUMENT Page 11",
+        "reason": "section + requirement language",
+        "matched_sections": [
+            "technical specifications",
+            "quality assurance"
+        ],
+        "matched_patterns": [
+            "\\bminimum\\b",
+            "\\bat least\\b"
+        ]
+    },
+    {
+        "page": 12,
+        "text": "Section VII: Quality Assurance, Inspection and Acceptance\n1. Quality Assurance\n(cid:127) Manufacturer/OEM serial numbers shall be traceable to the supplied units.\n(cid:127) Software licenses shall be genuine and correspond to the supplied devices.\n(cid:127) Technical datasheets submitted with the bid shall identify the proposed make/model.\n(cid:127) DDLI may verify key parameters against manufacturer documentation.\n(cid:127) Any discrepancy between the quoted model and supplied model may be treated as a material deviation.\n2. Pre-dispatch Inspection\nDDLI may inspect a representative sample at the supplier's premises before dispatch. The supplier shall provide access\nto the offered model, serial-number information and relevant manufacturer documentation.\n3. Delivery Acceptance\nFinal acceptance will be based on quantity, physical condition, serial-number verification, technical conformity,\ninstallation/configuration and satisfactory demonstration of the specified operating environment.\n4. Warranty Service Levels\nService Requirement\nComplaint acknowledgement Within 1 business day\nOnsite visit for hardware issue Within 2 business days where onsite service is required\nResolution/replacement target Within 5 business days, subject to part availability\nEscalation contact Named OEM/supplier service manager to be provided at handover\nDDLI/PROC/GOODS/2026-27/014 | FICTIONAL TRAINING DOCUMENT Page 12",
+        "reason": "section + requirement language",
+        "matched_sections": [
+            "quality assurance"
+        ],
+        "matched_patterns": [
+            "\\bshall\\b",
+            "\\brequired\\b",
+            "\\bis required\\b",
+            "\\bprovide\\b"
+        ]
+    },
+    {
+        "page": 13,
+        "text": "Section VIII: Qualification Criteria\nQualification criteria are intended to establish whether the bidder has the capability and experience required for the\nprocurement. The MTD states that bidders should attach statements/documents supporting qualification and submit Form\n4 and Form 4.1. nfilecitenturn6file8nL650-L683n\nID Qualification requirement Evidence expected\nQ1 Bidder has been in the business of supply of IT/laptop/computer equipmeCnet rftoifri caatt ele aosf ti n3c oyerpaorsra.tion/registration plus business evidence.\nQ2 Average annual turnover of at least INR 5 crore during FY 2023-24, 2024A-2u5d iatendd f2in0a2n5c-i2a6l .statements and/or CA-certified turnover certificate.\nQ3 At least 3 completed or substantially completed similar laptop/computer sPuuprpclhya osred eorrsd edrusr/icnogn tthraec ltass pt l5u sy ecaorms,p eleatciohn v/daelulievedr ay/ta ncocte lpetsasn tchea env IiNdeRn 2c5e .lakh.\nQ4 Bidder has required service capability for warranty support in Delhi/NCR.Service centre details and support declaration.\nQ5 Bidder is manufacturer or authorised dealer/distributor of the offered OEMO.EM authorisation letter or manufacturer declaration.\nQ6 No blacklisting/debarment affecting eligibility. Signed eligibility/non-blacklisting declaration.\nQ7 No material conflict of interest with another bidder in this tender. Signed conflict-of-interest declaration.\nDDLI/PROC/GOODS/2026-27/014 | FICTIONAL TRAINING DOCUMENT Page 13",
+        "reason": "section + requirement language",
+        "matched_sections": [
+            "qualification criteria"
+        ],
+        "matched_patterns": [
+            "\\brequired\\b",
+            "\\bat least\\b",
+            "\\bsubmit\\b"
+        ]
+    },
+    {
+        "page": 14,
+        "text": "BIDDING FORMS\nForm 1: Bid Form (Covering Letter)\nTo: The President of India, through Head of Procurement, Department of Digital Learning Infrastructure (DDLI)\nRef: DDLI/PROC/GOODS/2026-27/014 | Tender Title: Open Tender for Supply, Installation and Support of Laptop\nComputers\nWe, the undersigned, having examined the Tender Document, submit our techno-commercial and financial bid for the\nsupply of the Goods and incidental services in conformity with the Tender Document.\nWe certify that the bidder meets the eligibility and qualification requirements, that the information submitted is true to the\nbest of our knowledge, and that the bid shall remain valid for 120 days from tender opening.\nBidder name Apex Office Systems Pvt. Ltd. (Mock Bidder)\nRegistered address 18 Technology Park, Gurugram, Haryana – 122018\nAuthorised signatory Rohan Mehta, Director – Government Business\nBidder reference AOS/DDLI/2026/091\nDate 04 October 2026\nSignature: ____________________ Name: Rohan Mehta Designation: Director – Government Business\nDDLI/PROC/GOODS/2026-27/014 | FICTIONAL TRAINING DOCUMENT Page 14",
+        "reason": "section + requirement language",
+        "matched_sections": [
+            "qualification requirements"
+        ],
+        "matched_patterns": [
+            "\\bshall\\b",
+            "\\bsubmit\\b"
+        ]
+    },
+    {
+        "page": 15,
+        "text": "Form 1.1: Bidder Information\nField Mock bidder information\nLegal name Apex Office Systems Pvt. Ltd.\nConstitution Private Limited Company\nCountry of incorporation India\nRegistered office 18 Technology Park, Gurugram, Haryana – 122018\nPAN AAECA1234K (mock identifier)\nGSTIN 06AAECA1234K1ZX (mock identifier)\nAuthorised representative Rohan Mehta, Director – Government Business\nEmail tenders@apexoffice.example\nTelephone +91-11-4000-1200\nOEM proposed NovaTech Systems India Pvt. Ltd. (fictional OEM)\nAll identifiers in this mock bidder profile are fictional and must not be used for real-world verification.\nForm 1.2: Eligibility Declarations\n(cid:127) We are not insolvent, bankrupt, under receivership or being wound up.\n(cid:127) We are not blacklisted, banned or debarred in a manner that makes us ineligible for this tender.\n(cid:127) We have no material conflict of interest with another bidder.\n(cid:127) We shall maintain eligibility until award of contract.\n(cid:127) We have disclosed all information required by the tender.\nDDLI/PROC/GOODS/2026-27/014 | FICTIONAL TRAINING DOCUMENT Page 15",
+        "reason": "requirement language",
+        "matched_sections": [],
+        "matched_patterns": [
+            "\\bshall\\b",
+            "\\bmust\\b",
+            "\\brequired\\b"
+        ]
+    },
+    {
+        "page": 16,
+        "text": "Form 1.3: OEM Authorization\nTo: DDLI Procurement Division\nNovaTech Systems India Pvt. Ltd. (fictional OEM) authorises Apex Office Systems Pvt. Ltd. to quote, supply, install and\nprovide warranty support for NovaTech Model NTB-14P laptops against Tender Ref. DDLI/PROC/GOODS/2026-27/014.\nAuthorisation validity: From 10 September 2026 to completion of the resulting contract. The OEM confirms that the\noffered model will be supported through the stated warranty period.\nAuthorised OEM representative: Priya Nair, Head – Institutional Sales (mock).\nForm 2: Schedule of Requirements – Compliance\nItem Required Bidder offer Status\n1.1 Laptop computer se5t0, 5s0e tssets NovaTech NTB-14P, 50 sets Comply\n1.2 Wireless optical mo5u0s eN, o5s0. NovaTech WM-200, 50 Nos. Comply\n1.3 Laptop bag, 50 50 Nos. NovaTech NB-14, 50 Nos. Comply\nDelivery 60 days 55 days offered Comply\nDestination DDLI Central Stores, New Delhi Accepted Comply\nDDLI/PROC/GOODS/2026-27/014 | FICTIONAL TRAINING DOCUMENT Page 16",
+        "reason": "requirement language",
+        "matched_sections": [],
+        "matched_patterns": [
+            "\\brequired\\b",
+            "\\bprovide\\b"
+        ]
+    },
+    {
+        "page": 17,
+        "text": "Form 3: Technical Specifications and Quality Assurance –\nCompliance\nSl. Requirement Bidder's offered specification Status\n1 Processor: i5 12th Gen or equivalent Intel Core i5-1245U Comply\n2 RAM: minimum 16 GB 16 GB DDR5 Comply\n3 Storage: minimum 512 GB NVMe 512 GB NVMe SSD Comply\n4 Display: 14-inch FHD or higher 14-inch FHD anti-glare Comply\n5 Windows 11 Pro Windows 11 Pro 64-bit Comply\n6 Wi-Fi 6 Wi-Fi 6 Comply\n7 Bluetooth 5.0+ Bluetooth 5.3 Comply\n8 HD webcam 1080p webcam Comply\n9 3-year onsite warranty 3-year comprehensive onsite Comply\nSupporting documents: OEM datasheet NTB-14P, warranty declaration, product brochure and model-specific technical\ncompliance sheet.\nDDLI/PROC/GOODS/2026-27/014 | FICTIONAL TRAINING DOCUMENT Page 17",
+        "reason": "section + requirement language",
+        "matched_sections": [
+            "technical specifications",
+            "quality assurance"
+        ],
+        "matched_patterns": [
+            "\\bminimum\\b"
+        ]
+    },
+    {
+        "page": 22,
+        "text": "Form 7: Bid Securing Declaration\nTender Reference: DDLI/PROC/GOODS/2026-27/014\nWe, Apex Office Systems Pvt. Ltd. (fictional bidder), declare that we understand that the bid must remain valid for the\nprescribed period and that we may be subject to applicable consequences if we withdraw the bid or fail to honour the\nobligations associated with the bid, in accordance with the Tender Document.\nAuthorised Signatory: Rohan Mehta\nDate: 04 October 2026\nDDLI/PROC/GOODS/2026-27/014 | FICTIONAL TRAINING DOCUMENT Page 22",
+        "reason": "requirement language",
+        "matched_sections": [],
+        "matched_patterns": [
+            "\\bmust\\b",
+            "\\bdeclare\\b"
+        ]
+    },
+    {
+        "page": 23,
+        "text": "Form 8: Integrity Pact – Mock Version\nThe bidder and the procuring entity commit to maintain integrity, transparency and fair competition throughout the\nprocurement process. Neither party shall offer, solicit or accept improper advantage in connection with the tender.\nFor this mock tender, no Independent External Monitor is appointed. The clause is included to provide a realistic\ndocument structure for NLP extraction and compliance testing.\nBidder: Apex Office Systems Pvt. Ltd. (fictional)\nAuthorised signatory: Rohan Mehta\nDDLI/PROC/GOODS/2026-27/014 | FICTIONAL TRAINING DOCUMENT Page 23",
+        "reason": "requirement language",
+        "matched_sections": [],
+        "matched_patterns": [
+            "\\bshall\\b",
+            "\\bprovide\\b"
+        ]
+    },
+    {
+        "page": 24,
+        "text": "Formats and Annexures\nFormat 1: Contract Form – Key Particulars\nField Contract entry\nContract reference DDLI/CON/GOODS/2026-27/014\nSupplier Apex Office Systems Pvt. Ltd. (fictional)\nGoods 50 laptop computer sets with accessories\nDelivery period 60 calendar days\nWarranty 3 years comprehensive onsite\nPerformance security 3% of accepted contract value\nDestination DDLI Central Stores, New Delhi\nFormat 1.1: Performance Security – Key Particulars\nSecurity amount: 3% of accepted contract value. Beneficiary: Head of Procurement, DDLI. Validity: contractually\nprescribed period plus claim period.\nFormat 1.2: No Claim Certificate – Key Particulars\nSupplier shall certify, where applicable at contract closure, that all amounts due under the contract have been received\nand no further claim remains except claims expressly preserved under the contract.\nFormat 2: Pre-bid Conference Authorization\nNot applicable because no mandatory pre-bid conference is scheduled for this mock tender.\nDDLI/PROC/GOODS/2026-27/014 | FICTIONAL TRAINING DOCUMENT Page 24",
+        "reason": "requirement language",
+        "matched_sections": [],
+        "matched_patterns": [
+            "\\bshall\\b"
+        ]
+    }
+]

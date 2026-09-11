@@ -1,0 +1,282 @@
+[
+    {
+        "requirement_id": "REQ_001",
+        "category": "ELIGIBILITY",
+        "subcategory": "",
+        "requirement": "Bidder shall be a manufacturer of the offered laptops or an authorised dealer/distributor of the OEM.",
+        "source_page": 4
+    },
+    {
+        "requirement_id": "REQ_002",
+        "category": "ELIGIBILITY",
+        "subcategory": "",
+        "requirement": "Bidder shall possess valid PAN and GST registration applicable to the offered business.",
+        "source_page": 4
+    },
+    {
+        "requirement_id": "REQ_003",
+        "category": "ELIGIBILITY",
+        "subcategory": "",
+        "requirement": "Bidder shall not be insolvent, bankrupt, under receivership or wound up.",
+        "source_page": 4
+    },
+    {
+        "requirement_id": "REQ_004",
+        "category": "ELIGIBILITY",
+        "subcategory": "",
+        "requirement": "Bidder shall not be blacklisted, banned or debarred by the procuring organisation or otherwise declared ineligible under applicable procurement rules.",
+        "source_page": 4
+    },
+    {
+        "requirement_id": "REQ_005",
+        "category": "ELIGIBILITY",
+        "subcategory": "",
+        "requirement": "Bidder shall declare absence of a conflict of interest with other bidders and the procuring organisation.",
+        "source_page": 4
+    },
+    {
+        "requirement_id": "REQ_006",
+        "category": "ELIGIBILITY",
+        "subcategory": "",
+        "requirement": "Where the bidder is an authorised dealer, a tender-specific OEM authorisation letter shall be submitted.",
+        "source_page": 4
+    },
+    {
+        "requirement_id": "REQ_007",
+        "category": "ELIGIBILITY",
+        "subcategory": "",
+        "requirement": "Bidder shall meet the qualification criteria in Section VIII.",
+        "source_page": 4
+    },
+    {
+        "requirement_id": "REQ_008",
+        "category": "ELIGIBILITY",
+        "subcategory": "",
+        "requirement": "Maintain eligibility and qualification during contract execution."
+    },
+    {
+        "requirement_id": "REQ_009",
+        "category": "TECHNICAL",
+        "subcategory": "",
+        "requirement": "Supply new, unused and genuine goods meeting the specified technical requirements."
+    },
+    {
+        "requirement_id": "REQ_010",
+        "category": "TECHNICAL",
+        "subcategory": "",
+        "requirement": "Provide all accessories, cables, adapters and documentation necessary for normal operation."
+    },
+    {
+        "requirement_id": "REQ_011",
+        "category": "TECHNICAL",
+        "subcategory": "",
+        "requirement": "Complete installation/configuration and handover at the consignee location."
+    },
+    {
+        "requirement_id": "REQ_012",
+        "category": "TECHNICAL",
+        "subcategory": "",
+        "requirement": "Provide warranty support for the complete warranty period."
+    },
+    {
+        "requirement_id": "REQ_013",
+        "category": "TECHNICAL",
+        "subcategory": "",
+        "requirement": "Protect confidential information received during contract performance."
+    },
+    {
+        "requirement_id": "REQ_014",
+        "category": "TECHNICAL",
+        "subcategory": "COMPLIANCE",
+        "requirement": "The goods shall be brand-new, unused and manufactured not earlier than 12 months before the date of supply."
+    },
+    {
+        "requirement_id": "REQ_015",
+        "category": "TECHNICAL",
+        "subcategory": "WARRANTY",
+        "requirement": "Each laptop shall carry a minimum three-year comprehensive onsite warranty."
+    },
+    {
+        "requirement_id": "REQ_016",
+        "category": "TECHNICAL",
+        "subcategory": "DELIVERY",
+        "requirement": "Delivery shall be completed within 60 calendar days of contract effective date."
+    },
+    {
+        "requirement_id": "REQ_017",
+        "category": "TECHNICAL",
+        "subcategory": "DELIVERY",
+        "requirement": "Destination: DDLI Central Stores, Civic Technology Complex, New Delhi – 110020."
+    },
+    {
+        "requirement_id": "REQ_018",
+        "category": "TECHNICAL",
+        "subcategory": "DELIVERY",
+        "requirement": "Supplier shall provide serial-number-wise asset list and warranty details at handover."
+    },
+    {
+        "requirement_id": "REQ_019",
+        "category": "TECHNICAL",
+        "subcategory": "DELIVERY",
+        "requirement": "Supplier shall provide one administrator orientation session for up to 10 DDLI staff."
+    },
+    {
+        "requirement_id": "REQ_020",
+        "category": "TECHNICAL",
+        "subcategory": "PRICE",
+        "requirement": "Price variation is not permitted."
+    },
+    {
+        "requirement_id": "REQ_021",
+        "category": "TECHNICAL",
+        "subcategory": "SPECIFICATION",
+        "requirement": "Any proposed equivalent specification must meet or exceed the stated minimum and must be clearly demonstrated in the technical bid."
+    },
+    {
+        "requirement_id": "REQ_022",
+        "category": "TECHNICAL",
+        "subcategory": "PROCESSOR",
+        "requirement": "Exact or closely copied requirement text",
+        "source_page": 10
+    },
+    {
+        "requirement_id": "REQ_023",
+        "category": "TECHNICAL",
+        "subcategory": "PROCESSOR",
+        "requirement": "Processor Intel Core i5 12th Gen or equivalent current-generation processor; minimum 4 performance cores or equivalent capability.",
+        "source_page": 11
+    },
+    {
+        "requirement_id": "REQ_024",
+        "category": "TECHNICAL",
+        "subcategory": "PROCESSOR",
+        "requirement": "Technical datasheets submitted with the bid shall identify the proposed make/model.",
+        "source_page": 12
+    },
+    {
+        "requirement_id": "REQ_025",
+        "category": "ELIGIBILITY",
+        "subcategory": "",
+        "requirement": "Bidder has been in the business of supply of IT/laptop/computer equipment registration plus business evidence.",
+        "source_page": 13
+    },
+    {
+        "requirement_id": "REQ_026",
+        "category": "FINANCIAL",
+        "subcategory": "",
+        "requirement": "Average annual turnover of at least INR 5 crore during FY 2023-24, 2024A-2025.",
+        "source_page": 13
+    },
+    {
+        "requirement_id": "REQ_027",
+        "category": "EXPERIENCE / QUALIFICATION",
+        "subcategory": "",
+        "requirement": "At least 3 completed or substantially completed similar laptop/computer sales.",
+        "source_page": 13
+    },
+    {
+        "requirement_id": "REQ_028",
+        "category": "COMMERCIAL",
+        "subcategory": "",
+        "requirement": "Bidder has required service capability for warranty support in Delhi/NCR. Service centre details and support declaration.",
+        "source_page": 13
+    },
+    {
+        "requirement_id": "REQ_029",
+        "category": "COMMERCIAL",
+        "subcategory": "",
+        "requirement": "Bidder is manufacturer or authorised dealer/distributor of the offered OEM. Authorisation letter or manufacturer declaration.",
+        "source_page": 13
+    },
+    {
+        "requirement_id": "REQ_030",
+        "category": "ELIGIBILITY",
+        "subcategory": "",
+        "requirement": "No blacklisting/debarment affecting eligibility. Signed eligibility/non-blacklisting declaration.",
+        "source_page": 13
+    },
+    {
+        "requirement_id": "REQ_031",
+        "category": "COMMERCIAL",
+        "subcategory": "",
+        "requirement": "No material conflict of interest with another bidder in this tender. Signed conflict-of-interest declaration.",
+        "source_page": 13
+    },
+    {
+        "requirement_id": "REQ_032",
+        "category": "TECHNICAL",
+        "subcategory": "PROCESSOR",
+        "requirement": "Processor: i5 12th Gen or equivalent Intel Core i5-1245U",
+        "source_page": 17
+    },
+    {
+        "requirement_id": "REQ_033",
+        "category": "ELIGIBILITY",
+        "subcategory": "",
+        "requirement": "Valid PAN registration Yes NIT 3",
+        "source_page": 26
+    },
+    {
+        "requirement_id": "REQ_034",
+        "category": "ELIGIBILITY",
+        "subcategory": "",
+        "requirement": "Valid GST registration Yes NIT 3",
+        "source_page": 26
+    },
+    {
+        "requirement_id": "REQ_035",
+        "category": "ELIGIBILITY",
+        "subcategory": "",
+        "requirement": "Not blacklisted/debarred Yes NIT 3",
+        "source_page": 26
+    },
+    {
+        "requirement_id": "REQ_036",
+        "category": "EXPERIENCE",
+        "subcategory": "",
+        "requirement": "3 similar orders in last 5 years, each ‡ n25 lakh Yes Section VIII Q3",
+        "source_page": 26
+    },
+    {
+        "requirement_id": "REQ_037",
+        "category": "FINANCIAL",
+        "subcategory": "",
+        "requirement": "Average annual turnover ‡ n5 crore for FY23-24 to FY25-26 Yes Section VIII Q2",
+        "source_page": 26
+    },
+    {
+        "requirement_id": "REQ_038",
+        "category": "TECHNICAL",
+        "subcategory": "PROCESSOR",
+        "requirement": "Processor i5 12th Gen or equivalent Yes Section VII 1",
+        "source_page": 26
+    },
+    {
+        "requirement_id": "REQ_039",
+        "category": "TECHNICAL",
+        "subcategory": "MEMORY",
+        "requirement": "RAM ‡ 16 GB Yes Section VII 2",
+        "source_page": 26
+    },
+    {
+        "requirement_id": "REQ_040",
+        "category": "TECHNICAL",
+        "subcategory": "DISK",
+        "requirement": "SSD ‡ 512 GB NVMe Yes Section VII 3",
+        "source_page": 26
+    },
+    {
+        "requirement_id": "REQ_041",
+        "category": "TECHNICAL",
+        "subcategory": "OPERATING_SYSTEM",
+        "requirement": "Windows 11 Pro Yes Section VII 5",
+        "source_page": 26
+    },
+    {
+        "requirement_id": "REQ_042",
+        "category": "CERTIFICATION / QUALITY",
+        "subcategory": "",
+        "requirement": "Genuine manufacturer goods and traceable serial numbers Yes Section VII",
+        "source_page": 26
+    }
+]
