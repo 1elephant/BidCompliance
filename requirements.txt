@@ -19,3 +19,4 @@ pymupdf==1.28.2
 pypdfium2==5.13.0
 typing-inspection==0.4.4
 typing_extensions==4.16.0
+pytesseract
