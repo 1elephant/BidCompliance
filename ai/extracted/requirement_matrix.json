@@ -1,0 +1,186 @@
+[
+  {
+    "requirement_id": "REQ_001",
+    "category": "FINANCIAL",
+    "requirement": "The tenderer/bidder shall furnish EMD, as mentioned below at the time of submission of bid.",
+    "requirement_type": "MANDATORY",
+    "source": {
+      "pages": [
+        2
+      ],
+      "contexts": [
+        "CTX_0002"
+      ]
+    },
+    "rag": {
+      "query": "The tenderer/bidder shall furnish EMD, as mentioned below at the time of submission of bid.",
+      "retrieved_evidence": []
+    },
+    "compliance": {
+      "status": "NOT_EVALUATED",
+      "evidence": [],
+      "remarks": ""
+    }
+  },
+  {
+    "requirement_id": "REQ_002",
+    "category": "FINANCIAL",
+    "requirement": "The successful tenderer/Bidder shall be required to furnish SD amount of 10% of purchase order value within 21 days from the date of Purchase Order.",
+    "requirement_type": "MANDATORY",
+    "source": {
+      "pages": [
+        3
+      ],
+      "contexts": [
+        "CTX_0003"
+      ]
+    },
+    "rag": {
+      "query": "The successful tenderer/Bidder shall be required to furnish SD amount of 10% of purchase order value within 21 days from the date of Purchase Order.",
+      "retrieved_evidence": []
+    },
+    "compliance": {
+      "status": "NOT_EVALUATED",
+      "evidence": [],
+      "remarks": ""
+    }
+  },
+  {
+    "requirement_id": "REQ_003",
+    "category": "FINANCIAL",
+    "requirement": "The bidder shall furnish EMD as per Select NIT",
+    "requirement_type": "MANDATORY",
+    "source": {
+      "pages": [
+        5
+      ],
+      "contexts": [
+        "CTX_0005"
+      ]
+    },
+    "rag": {
+      "query": "The bidder shall furnish EMD as per Select NIT",
+      "retrieved_evidence": []
+    },
+    "compliance": {
+      "status": "NOT_EVALUATED",
+      "evidence": [],
+      "remarks": ""
+    }
+  },
+  {
+    "requirement_id": "REQ_004",
+    "category": "LEGAL / DOCUMENTARY",
+    "requirement": "Integrity Pact along with Undertaking form has to be sign & stamped by the respective bidder by mentioning the tender reference number & date details and the same document has to be uploaded in the e-tenderng portal.",
+    "requirement_type": "MANDATORY",
+    "source": {
+      "pages": [
+        5
+      ],
+      "contexts": [
+        "CTX_0005"
+      ]
+    },
+    "rag": {
+      "query": "Integrity Pact along with Undertaking form has to be sign & stamped by the respective bidder by mentioning the tender reference number & date details and the same document has to be uploaded in the e-tenderng portal.",
+      "retrieved_evidence": []
+    },
+    "compliance": {
+      "status": "NOT_EVALUATED",
+      "evidence": [],
+      "remarks": ""
+    }
+  },
+  {
+    "requirement_id": "REQ_005",
+    "category": "TECHNICAL",
+    "requirement": "The bidder to provide 3 (three) sets of technical literature for operation, maintenance & repair indicating all components with schematic drawings, part number etc. along with offer.",
+    "requirement_type": "MANDATORY",
+    "source": {
+      "pages": [
+        8
+      ],
+      "contexts": [
+        "CTX_0008"
+      ]
+    },
+    "rag": {
+      "query": "The bidder to provide 3 (three) sets of technical literature for operation, maintenance & repair indicating all components with schematic drawings, part number etc. along with offer.",
+      "retrieved_evidence": []
+    },
+    "compliance": {
+      "status": "NOT_EVALUATED",
+      "evidence": [],
+      "remarks": ""
+    }
+  },
+  {
+    "requirement_id": "REQ_006",
+    "category": "TECHNICAL",
+    "requirement": "Three (3) sets of instruction cum operation manual, recommended parts list etc are to be supplied along with the supply in the event of order. Bidder has to confirm the same in the technical bid.",
+    "requirement_type": "MANDATORY",
+    "source": {
+      "pages": [
+        8
+      ],
+      "contexts": [
+        "CTX_0008"
+      ]
+    },
+    "rag": {
+      "query": "Three (3) sets of instruction cum operation manual, recommended parts list etc are to be supplied along with the supply in the event of order. Bidder has to confirm the same in the technical bid.",
+      "retrieved_evidence": []
+    },
+    "compliance": {
+      "status": "NOT_EVALUATED",
+      "evidence": [],
+      "remarks": ""
+    }
+  },
+  {
+    "requirement_id": "REQ_007",
+    "category": "DELIVERY",
+    "requirement": "Installation & Commissioning charges must be quoted separately on lumpsum basis which shall be considered for evaluation of the offers.",
+    "requirement_type": "MANDATORY",
+    "source": {
+      "pages": [
+        8
+      ],
+      "contexts": [
+        "CTX_0008"
+      ]
+    },
+    "rag": {
+      "query": "Installation & Commissioning charges must be quoted separately on lumpsum basis which shall be considered for evaluation of the offers.",
+      "retrieved_evidence": []
+    },
+    "compliance": {
+      "status": "NOT_EVALUATED",
+      "evidence": [],
+      "remarks": ""
+    }
+  },
+  {
+    "requirement_id": "REQ_008",
+    "category": "EXPERIENCE / QUALIFICATION",
+    "requirement": "The bidder should have supplied /taken up minimum two installations of similar type of works within 5 years with minimum of Rs. 8.32 lakhs.",
+    "requirement_type": "MANDATORY",
+    "source": {
+      "pages": [
+        9
+      ],
+      "contexts": [
+        "CTX_0009"
+      ]
+    },
+    "rag": {
+      "query": "The bidder should have supplied /taken up minimum two installations of similar type of works within 5 years with minimum of Rs. 8.32 lakhs.",
+      "retrieved_evidence": []
+    },
+    "compliance": {
+      "status": "NOT_EVALUATED",
+      "evidence": [],
+      "remarks": ""
+    }
+  }
+]

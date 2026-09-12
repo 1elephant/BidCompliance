@@ -1,1325 +1,1919 @@
 [
     {
         "page": 1,
-        "text": "FICTIONAL TRAINING DOCUMENT\nMODEL TENDER DOCUMENT FOR PROCUREMENT OF GOODS\nDepartment of Digital Learning Infrastructure (DDLI)\nOpen Tender for Supply, Installation and\nSupport of Laptop Computers\nTender Reference Number: DDLI/PROC/GOODS/2026-27/014\nTender Type: Open Tender – Domestic | Form of Contract: Item Rate | Bidding System:\nSingle Stage, Two Covers\nParticular Tender Detail\nTender issue date 10 September 2026\nBid submission deadline 05 October 2026, 15:00 hrs\nTechno-commercial bid opening 06 October 2026, 15:30 hrs\nFinancial bid opening To be intimated to technically qualified bidders\nBid validity 120 days from date of tender opening\nQuantity 50 laptop computer sets\nDelivery Within 60 calendar days from contract effective date\nIMPORTANT: This is a fictional mock tender created solely for software development, NLP/RAG testing and demonstration. It is\nNOT a Government of India tender, does not create any procurement obligation, and must not be represented as an official\nprocurement document.\nThe structure and terminology are adapted from the uploaded Government of India Model Tender Document for Procurement of Goods. The\nsource MTD describes Sections I–VIII and bidder forms including the Schedule of Requirements, Technical Specifications, Qualification Criteria\nand compliance forms. nfilecitenturn5file0nL28-L55n\nDDLI/PROC/GOODS/2026-27/014 | FICTIONAL TRAINING DOCUMENT Page 1",
+        "text": "CHECKLIST OF TENDER DOCUMENTS\nSL. DESCRIPTION OF TENDER DOCUMENTS NO OF\nNO PAGES\n1 GeM Tender Notice 02 Pages\n2 Agree Terms and Conditions 03 Pages\n3 Scope of Work 03 Pages\n4 Technical Specifications (Annexure-I, II & III) 33 Pages\n5 Eligibility Criteria 01 Pages\n6 Bill of Quantities 02 Pages\n7 Bid Security Declaration 01 Pages\n8 Declaration by Vendors along with Bid (Mandatory) on their Letter 01 Pages\nHead in Case the value of Procurement Is more than 5 Lakhs\n9 General Terms and Conditions 08 Pages\n10 Make In India Order 09 Pages\n11 Commercial Offer (Un-priced) 01 Pages\n12 Price Breakup BOQ (to be submitted in Cover-II/Price Bid) 01 Pages\n13 Price Bid Format 01 Pages\n14 Formats of Bank Guarantees 04 Pages",
         "tables": [
             [
                 [
-                    "Particular",
-                    "Tender Detail"
+                    "SL.\nNO",
+                    "DESCRIPTION OF TENDER DOCUMENTS",
+                    "NO OF\nPAGES"
                 ],
                 [
-                    "Tender issue date",
-                    "10 September 2026"
+                    "1",
+                    "GeM Tender Notice",
+                    "02 Pages"
                 ],
                 [
-                    "Bid submission deadline",
-                    "05 October 2026, 15:00 hrs"
+                    "2",
+                    "Agree Terms and Conditions",
+                    "03 Pages"
                 ],
                 [
-                    "Techno-commercial bid opening",
-                    "06 October 2026, 15:30 hrs"
+                    "3",
+                    "Scope of Work",
+                    "03 Pages"
                 ],
                 [
-                    "Financial bid opening",
-                    "To be intimated to technically qualified bidders"
+                    "4",
+                    "Technical Specifications (Annexure-I, II & III)",
+                    "33 Pages"
                 ],
                 [
-                    "Bid validity",
-                    "120 days from date of tender opening"
+                    "5",
+                    "Eligibility Criteria",
+                    "01 Pages"
                 ],
                 [
-                    "Quantity",
-                    "50 laptop computer sets"
+                    "6",
+                    "Bill of Quantities",
+                    "02 Pages"
                 ],
                 [
-                    "Delivery",
-                    "Within 60 calendar days from contract effective date"
+                    "7",
+                    "Bid Security Declaration",
+                    "01 Pages"
+                ],
+                [
+                    "8",
+                    "Declaration by Vendors along with Bid (Mandatory) on their Letter\nHead in Case the value of Procurement Is more than 5 Lakhs",
+                    "01 Pages"
+                ],
+                [
+                    "9",
+                    "General Terms and Conditions",
+                    "08 Pages"
+                ],
+                [
+                    "10",
+                    "Make In India Order",
+                    "09 Pages"
+                ],
+                [
+                    "11",
+                    "Commercial Offer (Un-priced)",
+                    "01 Pages"
+                ],
+                [
+                    "12",
+                    "Price Breakup BOQ (to be submitted in Cover-II/Price Bid)",
+                    "01 Pages"
+                ],
+                [
+                    "13",
+                    "Price Bid Format",
+                    "01 Pages"
+                ],
+                [
+                    "14",
+                    "Formats of Bank Guarantees",
+                    "04 Pages"
                 ]
             ]
         ]
     },
     {
         "page": 2,
-        "text": "Table of Contents\nSection Title\nI Notice Inviting Tender (NIT) and Tender Information Summary\nII Instructions to Bidders (ITB)\nIII Appendix to Instructions to Bidders (AITB)\nIV General Conditions of Contract (GCC)\nV Special Conditions of Contract (SCC)\nVI Schedule of Requirements\nVII Technical Specifications and Quality Assurance\nVIII Qualification Criteria\nForms Forms 1–8 and bidder compliance schedules\nFormats Contract, security, declarations and supporting formats\nFor this mock, repetitive statutory boilerplate from the 170-page reference template is condensed while keeping the procurement\ninformation needed for realistic document extraction and compliance testing.\nDDLI/PROC/GOODS/2026-27/014 | FICTIONAL TRAINING DOCUMENT Page 2",
+        "text": "NIT DOCUMENT\nMISHRA DHATU NIGAM LIMITED\n(Government of India Enterprise)\nIMT Rohtak, Haryana\nWebsite: www.midhani-india.in\nEmail ID: h.manali@midhani-india.in\nvikram.c@midhani-india.in / subhadip.g@midhani-india.in\nGEM-TENDER NOTICE\nTenders (online bid) are invited through GeM portal from the eligible bidders from any agency\nauthorized by Controller of Certifying Authority (CCA), Govt of India.\nSl. No MATERIAL Estimated\nRequirement\nDescription & Specification\nQTY Units\n1. Design and Supply of materials for Fire Fighting Systems for 01 SET\nShed-4 & Admin Building at Rohtak plant as per (Annexure-\nI,II,III)\n2. Installation, Erection, Commissioning & Testing of the above 01 LUMPSUM\nsystems as per tender\nSpecification As per Annexure-I, II, III\nMaterial Supply within 60 days from the date of receipt of PO &\nDelivery Required By Installation, Erection and Commissioning within 60 days from the\ndate of site clearance.\nFOR Supply: 90% payment along with 100% taxes, within 30 days from\nthe date of receipt and acceptance of the material at MIDHANI.\nFor Service: 90% payment along with 100% taxes, within 30 days from\nthe date of erection & commissioning on Indenter’s certification.\nTerms of Payment\nBalance 10% payment of both supply and service shall be done after\nacceptance of the material at our end, successful commissioning and\nagainst submission of Performance Bank Guarantee for 10% value of\nthe order valid till Guarantee / Warranty Period.\nThe offer should be valid for a minimum period of 180 Days from\nValidity of the offer\nthe date of opening of tender.\nAcceptance Criteria As per Specification and Scope of Work.\nEARNEST MONEY DEPOSIT (EMD AMOUNT):-NIL\nThe tenderer/bidder shall furnish EMD, as mentioned below at the time of submission of bid.\nFor complete details, refer GENERAL TERMS AND CONDITIONS document clause No. 17\nEMD Exemption: Procurement under this bid is reserved for purchase from Micro and Small\nEnterprises, whose credentials are validated online through Udyog Aadhaar for that",
         "tables": [
             [
                 [
-                    "Section",
-                    "Title"
+                    "Sl. No",
+                    "MATERIAL\nDescription & Specification",
+                    "Estimated\nRequirement",
+                    null
                 ],
                 [
-                    "I",
-                    "Notice Inviting Tender (NIT) and Tender Information Summary"
+                    null,
+                    null,
+                    "QTY",
+                    "Units"
                 ],
                 [
-                    "II",
-                    "Instructions to Bidders (ITB)"
+                    "1.",
+                    "Design and Supply of materials for Fire Fighting Systems for\nShed-4 & Admin Building at Rohtak plant as per (Annexure-\nI,II,III)",
+                    "01",
+                    "SET"
                 ],
                 [
-                    "III",
-                    "Appendix to Instructions to Bidders (AITB)"
+                    "2.",
+                    "Installation, Erection, Commissioning & Testing of the above\nsystems as per tender",
+                    "01",
+                    "LUMPSUM"
+                ]
+            ],
+            [
+                [
+                    "Specification",
+                    "As per Annexure-I, II, III"
                 ],
                 [
-                    "IV",
-                    "General Conditions of Contract (GCC)"
+                    "Delivery Required By",
+                    "Material Supply within 60 days from the date of receipt of PO &\nInstallation, Erection and Commissioning within 60 days from the\ndate of site clearance."
                 ],
                 [
-                    "V",
-                    "Special Conditions of Contract (SCC)"
+                    "Terms of Payment",
+                    "FOR Supply: 90% payment along with 100% taxes, within 30 days from\nthe date of receipt and acceptance of the material at MIDHANI.\nFor Service: 90% payment along with 100% taxes, within 30 days from\nthe date of erection & commissioning on Indenter’s certification.\nBalance 10% payment of both supply and service shall be done after\nacceptance of the material at our end, successful commissioning and\nagainst submission of Performance Bank Guarantee for 10% value of\nthe order valid till Guarantee / Warranty Period."
                 ],
                 [
-                    "VI",
-                    "Schedule of Requirements"
+                    "Validity of the offer",
+                    "The offer should be valid for a minimum period of 180 Days from\nthe date of opening of tender."
                 ],
                 [
-                    "VII",
-                    "Technical Specifications and Quality Assurance"
+                    "Acceptance Criteria",
+                    "As per Specification and Scope of Work."
                 ],
                 [
-                    "VIII",
-                    "Qualification Criteria"
-                ],
-                [
-                    "Forms",
-                    "Forms 1–8 and bidder compliance schedules"
-                ],
-                [
-                    "Formats",
-                    "Contract, security, declarations and supporting formats"
+                    "EARNEST MONEY DEPOSIT (EMD AMOUNT):-NIL\nThe tenderer/bidder shall furnish EMD, as mentioned below at the time of submission of bid.\nFor complete details, refer GENERAL TERMS AND CONDITIONS document clause No. 17\nEMD Exemption: Procurement under this bid is reserved for purchase from Micro and Small\nEnterprises, whose credentials are validated online through Udyog Aadhaar for that",
+                    null
                 ]
             ]
         ]
     },
     {
         "page": 3,
-        "text": "Section I: Notice Inviting Tender (NIT)\n1. Notice Inviting Tender\nDepartment of Digital Learning Infrastructure (DDLI) invites bids for entering into an item-rate contract for supply,\ninstallation, configuration and warranty support of laptop computer sets for government training and administrative\nfacilities. The tender reference is DDLI/PROC/GOODS/2026-27/014.\nBidders shall read the complete Tender Document before submitting a bid. The Tender Information Summary below\nprovides salient information but does not replace the detailed clauses.\n2. Tender Information Summary\nParameter Filled Tender Information\nTender title Open Tender for Supply, Installation and Support of Laptop Computers\nTender reference number DDLI/PROC/GOODS/2026-27/014\nTender ID DDLI2026LAPTOP014\nTender type Open Tender – Domestic\nTender category Goods\nForm of contract Item Rate\nBidding system Single Stage – Two Covers\ne-Reverse Auction No\nProcuring organisation Department of Digital Learning Infrastructure (DDLI)\nTender Inviting Authority Ms. Kavya Menon, Director (Procurement), DDLI\nOffice address Procurement Division, 4th Floor, Civic Technology Complex, New Delhi – 110020\nClarification contact procurement.mock@ddli.example.org\nPortal for mock workflow https://procurement-mock.example.org/tenders/DDLI2026LAPTOP014\nDDLI/PROC/GOODS/2026-27/014 | FICTIONAL TRAINING DOCUMENT Page 3",
+        "text": "NIT DOCUMENT\nproduct/service category. If the bidder wants to avail the reservation benefit, the bidder must be\nthe manufacturer of the offered product in case of bid for supply of goods. Traders are excluded\nfrom the purview of Public Procurement Policy for Micro and Small Enterprises. Relevant\ndocumentary evidence in this regard shall be uploaded along with the bid in respect of the offered\nproduct or service.\nSECURITY DEPOSIT (SD): The successful tenderer/Bidder shall be required to furnish SD amount\nof 10% of purchase order value within 21 days from the date of Purchase Order.\nFor complete details, refer GENERAL TERMS AND CONDITIONS document clause No. 18\nSD Exemption: All Central PSU and Govt. departments may be exempt from submission of SD in\nall tenders.\nNote: If you are submitting Bank Guarantee (BG) in Place of SD, BG shall have a claim period of\none year from the date of its expiry. In case, SD is not submitted within 21 days from the date of\nPO, interest@12% shall be levied for the period of delay beyond 21 days.\nCONTACT DETAILS For any Technical Clarifications:\nMr Mallareddy Marri, Ph:040-2418 4525\nFor Commercial and Tender Related Clarifications:\nShri Raj Kumar (DGM-Purchase) Ph:040-2418 4578\nE-mail: rajkumar@midhani-india.in\nDiptimoy Mohanty (AM-Materials)\nE-mail: diptimoy.mohanty@midhani-india.in\nContact-7013952395\nFor Make In India & Vendor Registration Clarifications:\nShri Raj Kumar (DGM-Purchase) Ph:040-2418 4578\nEmail: rajkumar@midhani-india.in\nNote:\n1. Please refer for complete specification, tender terms & conditions and other additional\ndocuments under work item section.\n2. MIDHANI Reserves the right to conduct discovery through OLSB or OLSB Submission,\nfollowed by RAP\n3. Payment shall be released only after filing of GSTR1 and GSTR3B including availability of\ninvoices in GSTR2A of MIDHANI",
         "tables": [
             [
                 [
-                    "Parameter",
-                    "Filled Tender Information"
+                    "product/service category. If the bidder wants to avail the reservation benefit, the bidder must be\nthe manufacturer of the offered product in case of bid for supply of goods. Traders are excluded\nfrom the purview of Public Procurement Policy for Micro and Small Enterprises. Relevant\ndocumentary evidence in this regard shall be uploaded along with the bid in respect of the offered\nproduct or service.",
+                    null
                 ],
                 [
-                    "Tender title",
-                    "Open Tender for Supply, Installation and Support of Laptop Computers"
+                    "SECURITY DEPOSIT (SD): The successful tenderer/Bidder shall be required to furnish SD amount\nof 10% of purchase order value within 21 days from the date of Purchase Order.\nFor complete details, refer GENERAL TERMS AND CONDITIONS document clause No. 18\nSD Exemption: All Central PSU and Govt. departments may be exempt from submission of SD in\nall tenders.\nNote: If you are submitting Bank Guarantee (BG) in Place of SD, BG shall have a claim period of\none year from the date of its expiry. In case, SD is not submitted within 21 days from the date of\nPO, interest@12% shall be levied for the period of delay beyond 21 days.",
+                    null
                 ],
                 [
-                    "Tender reference number",
-                    "DDLI/PROC/GOODS/2026-27/014"
+                    "CONTACT DETAILS",
+                    "For any Technical Clarifications:\nMr Mallareddy Marri, Ph:040-2418 4525\nFor Commercial and Tender Related Clarifications:\nShri Raj Kumar (DGM-Purchase) Ph:040-2418 4578\nE-mail: rajkumar@midhani-india.in\nDiptimoy Mohanty (AM-Materials)\nE-mail: diptimoy.mohanty@midhani-india.in\nContact-7013952395\nFor Make In India & Vendor Registration Clarifications:\nShri Raj Kumar (DGM-Purchase) Ph:040-2418 4578\nEmail: rajkumar@midhani-india.in"
                 ],
                 [
-                    "Tender ID",
-                    "DDLI2026LAPTOP014"
-                ],
-                [
-                    "Tender type",
-                    "Open Tender – Domestic"
-                ],
-                [
-                    "Tender category",
-                    "Goods"
-                ],
-                [
-                    "Form of contract",
-                    "Item Rate"
-                ],
-                [
-                    "Bidding system",
-                    "Single Stage – Two Covers"
-                ],
-                [
-                    "e-Reverse Auction",
-                    "No"
-                ],
-                [
-                    "Procuring organisation",
-                    "Department of Digital Learning Infrastructure (DDLI)"
-                ],
-                [
-                    "Tender Inviting Authority",
-                    "Ms. Kavya Menon, Director (Procurement), DDLI"
-                ],
-                [
-                    "Office address",
-                    "Procurement Division, 4th Floor, Civic Technology Complex, New Delhi – 110020"
-                ],
-                [
-                    "Clarification contact",
-                    "procurement.mock@ddli.example.org"
-                ],
-                [
-                    "Portal for mock workflow",
-                    "https://procurement-mock.example.org/tenders/DDLI2026LAPTOP014"
+                    "Note:\n1. Please refer for complete specification, tender terms & conditions and other additional\ndocuments under work item section.\n2. MIDHANI Reserves the right to conduct discovery through OLSB or OLSB Submission,\nfollowed by RAP\n3. Payment shall be released only after filing of GSTR1 and GSTR3B including availability of\ninvoices in GSTR2A of MIDHANI",
+                    null
                 ]
             ]
         ]
     },
     {
         "page": 4,
-        "text": "Section I: NIT – Critical Dates and Eligibility\nEvent Date / Time\nTender published 10 September 2026, 10:00 hrs\nDocument download starts 10 September 2026, 10:00 hrs\nClarification start 10 September 2026, 10:00 hrs\nClarification end 23 September 2026, 17:00 hrs\nBid submission starts 12 September 2026, 10:00 hrs\nBid submission closes 05 October 2026, 15:00 hrs\nTechno-commercial bid opening 06 October 2026, 15:30 hrs\nFinancial bid opening To be intimated\n3. Eligibility Criteria\n(cid:127) Bidder shall be a manufacturer of the offered laptops or an authorised dealer/distributor of the OEM.\n(cid:127) Bidder shall possess valid PAN and GST registration applicable to the offered business.\n(cid:127) Bidder shall not be insolvent, bankrupt, under receivership or wound up.\n(cid:127) Bidder shall not be blacklisted, banned or debarred by the procuring organisation or otherwise declared ineligible under\napplicable procurement rules.\n(cid:127) Bidder shall declare absence of a conflict of interest with other bidders and the procuring organisation.\n(cid:127) Where the bidder is an authorised dealer, a tender-specific OEM authorisation letter shall be submitted.\n(cid:127) Bidder shall meet the qualification criteria in Section VIII.\n4. Bid Security and Performance Security\nFor this mock tender, a Bid Securing Declaration shall be submitted in Form 7. Performance Security shall be applicable\nat 3% of the accepted contract value and shall be furnished in the prescribed form within the period stated in the Letter of\nAward.\n5. Submission and Opening\nBids shall be uploaded electronically in two covers: Cover 1 – Techno-commercial bid and Cover 2 – Financial bid/BOQ.\nThe financial bid shall be opened only for bidders whose techno-commercial bid is found responsive and technically\nsuitable.\nDDLI/PROC/GOODS/2026-27/014 | FICTIONAL TRAINING DOCUMENT Page 4",
+        "text": "AGREED TERMS & CONDITIONS (ATC)\nDesign, Supply, Erection, Commissioning and Testing of Fire Fighting Systems for 4th Shed & Admin building at\nTENDER TITLE\nRohtak plant per Annexure-I, II & III\nBidder Name:\nVendor’s\nconfirmation\nS.NO. Tender Requirement REMARKS in Max 500 Characters\n(ARGREE\n/DISAGREE)\n*1 Supply the material as per MIDHANI Tender Quantity and Select\nSpecification without any deviation.\n*2 Specify Agree/Disagree of GEM Tender Notice Inviting Select\nTender (NIT) All the Terms and Conditions.\n*3 Basis of quoted prices. Select\nFOR (FREE ON RAIL/ROAD) MIDHANI, ROHTAK-124001\n*4 Payment Terms as per NIT Select\n*5 Validity of Quote- 180 days Select",
         "tables": [
             [
                 [
-                    "Event",
-                    "Date / Time"
+                    "AGREED TERMS & CONDITIONS (ATC)",
+                    null,
+                    null,
+                    null,
+                    null
                 ],
                 [
-                    "Tender published",
-                    "10 September 2026, 10:00 hrs"
+                    "TENDER TITLE",
+                    null,
+                    "Design, Supply, Erection, Commissioning and Testing of Fire Fighting Systems for 4th Shed & Admin building at\nRohtak plant per Annexure-I, II & III",
+                    null,
+                    null
                 ],
                 [
-                    "Document download starts",
-                    "10 September 2026, 10:00 hrs"
+                    "Bidder Name:",
+                    null,
+                    "",
+                    null,
+                    null
                 ],
                 [
-                    "Clarification start",
-                    "10 September 2026, 10:00 hrs"
+                    "S.NO.",
+                    "Tender Requirement",
+                    null,
+                    "Vendor’s\nconfirmation\n(ARGREE\n/DISAGREE)",
+                    "REMARKS in Max 500 Characters"
                 ],
                 [
-                    "Clarification end",
-                    "23 September 2026, 17:00 hrs"
+                    "*1",
+                    "Supply the material as per MIDHANI Tender Quantity and\nSpecification without any deviation.",
+                    null,
+                    "Select",
+                    ""
                 ],
                 [
-                    "Bid submission starts",
-                    "12 September 2026, 10:00 hrs"
+                    "*2",
+                    "Specify Agree/Disagree of GEM Tender Notice Inviting\nTender (NIT) All the Terms and Conditions.",
+                    null,
+                    "Select",
+                    ""
                 ],
                 [
-                    "Bid submission closes",
-                    "05 October 2026, 15:00 hrs"
+                    "*3",
+                    "Basis of quoted prices.\nFOR (FREE ON RAIL/ROAD) MIDHANI, ROHTAK-124001",
+                    null,
+                    "Select",
+                    ""
                 ],
                 [
-                    "Techno-commercial bid opening",
-                    "06 October 2026, 15:30 hrs"
+                    "*4",
+                    "Payment Terms as per NIT",
+                    null,
+                    "Select",
+                    ""
                 ],
                 [
-                    "Financial bid opening",
-                    "To be intimated"
+                    "*5",
+                    "Validity of Quote- 180 days",
+                    null,
+                    "Select",
+                    ""
                 ]
             ]
         ]
     },
     {
         "page": 5,
-        "text": "Section II: Instructions to Bidders (ITB)\n1. Tender Document and Bid Structure\nThe Tender Document comprises the NIT/TIS, ITB, AITB, GCC, SCC, Schedule of Requirements, Technical\nSpecifications and Quality Assurance, Qualification Criteria and Bidding Forms. The financial BOQ is an integral part of\nthe tender.\nThe reference MTD states that Section VI covers goods, quantities, HSN codes, delivery, destination, transportation and\nincidental services; Section VII covers technical and quality requirements; and Section VIII covers qualification criteria.\nnfilecitenturn6file2nL148-L205n\n2. Clarifications\nBidders may submit written clarification requests through the mock procurement portal up to 23 September 2026, 17:00\nhrs. DDLI may issue consolidated clarifications or corrigenda before the bid submission deadline.\n3. Preparation of Bids\n(cid:127) The bidder shall submit one complete techno-commercial bid and one financial BOQ.\n(cid:127) All uploaded documents shall be legible and signed where required.\n(cid:127) Scanned copies shall be self-attested where the tender requires self-attestation.\n(cid:127) Technical deviations shall be clearly listed in Form 3 and commercial deviations in Form 5.\n(cid:127) Conditional offers may be treated as non-responsive where the condition affects a material requirement.\n4. Bid Validity\nThe bid shall remain valid for 120 days from the date of opening of the techno-commercial bid. DDLI may request an\nextension in writing where permitted.\n5. Evaluation\nEvaluation will proceed in stages: preliminary scrutiny, eligibility and documentary checks, qualification assessment,\ntechnical compliance, commercial/terms compliance, and financial evaluation among responsive bidders. The lowest\nevaluated responsive offer will be considered in accordance with the stated evaluation conditions and applicable\npreferences.\nDDLI/PROC/GOODS/2026-27/014 | FICTIONAL TRAINING DOCUMENT Page 5",
-        "tables": []
-    },
-    {
-        "page": 6,
-        "text": "Section III: Appendix to Instructions to Bidders (AITB)\nClause Tender-specific provision\nAITB 1 – Portal Mock e-procurement portal specified in TIS.\nAITB 2 – Covers Two covers: techno-commercial and financial.\nAITB 3 – Alternate bids Not allowed. One bid per bidder.\nAITB 4 – Physical originals No routine physical submission. DDLI may call for originals for verification.\nAITB 5 – Pre-bid conference No mandatory pre-bid conference. Written clarifications permitted.\nAITB 6 – Inspection Pre-dispatch inspection may be conducted on a sample basis at the supplier premises.\nAITB 7 – Delivery 60 calendar days from effective date of contract.\nAITB 8 – Warranty Minimum 3 years comprehensive onsite warranty.\nAITB 9 – Installation Installation/configuration at each consignee location included in quoted price.\nAITB 10 – Training One half-day administrator orientation session at the consignee location.\nAITB 11 – Price variation Not applicable; prices shall remain firm during the contract period.\nDocuments to be Uploaded\nThe MTD identifies bidder forms including Form 1, Form 1.1, Form 1.2, Form 1.3 where applicable, Form 2, Form 3, Form\n4, Form 4.1, Form 5, Form 6, Form 7 and Form 8 where applicable. nfilecitenturn5file2nL154-L170n\n(cid:127) Bid Form and Bidder Information\n(cid:127) PAN and GST registration\n(cid:127) Eligibility declarations and non-blacklisting declaration\n(cid:127) OEM authorisation, where bidder is not the manufacturer\n(cid:127) Schedule of Requirements compliance\n(cid:127) Technical specification compliance with supporting datasheets\n(cid:127) Qualification criteria compliance and performance statement\n(cid:127) Commercial/terms compliance\n(cid:127) Bid Securing Declaration\n(cid:127) Price BOQ\nDDLI/PROC/GOODS/2026-27/014 | FICTIONAL TRAINING DOCUMENT Page 6",
+        "text": "*6 Delivery Schedule as per NIT Select\n*7 Bidder are informed to comply the \"Make In India\" (MII) Select\nGeneral Terms & Conditions (GTC) Clause No.19. As per\nGTC 19(f) the Class-I Local Supplier and Class-II Local\nSupplier has to provide the following details in bidder\ncompany letter head with the authorized sign and stamp of\nthe organization.\n(i) Tender Reference No______Date______\n(ii) Percentage of Local Content.------------\n*8 Bidder shall furnish Earnest Money Deposit (EMD) as per Select\nNIT\n*9 Integrity Pact along with Undertaking form has to be sign Select\n& stamped by the respective bidder by mentioning the\ntender reference number & date details and the same\ndocument has to be uploaded in the e-tenderng portal.\n*10 Bidder has to comply all the General Terms & Conditions Select\n(GTC) of the document.\n*11 Unconditional acceptance of all commercial terms & Select\nConditions\n*12 SPECIFY OFFER MAKE and\nPRODUCT SPECIFICATION",
         "tables": [
             [
                 [
-                    "Clause",
-                    "Tender-specific provision"
+                    "*6",
+                    "Delivery Schedule as per NIT",
+                    "Select",
+                    ""
                 ],
                 [
-                    "AITB 1 – Portal",
-                    "Mock e-procurement portal specified in TIS."
+                    "*7",
+                    "Bidder are informed to comply the \"Make In India\" (MII)\nGeneral Terms & Conditions (GTC) Clause No.19. As per\nGTC 19(f) the Class-I Local Supplier and Class-II Local\nSupplier has to provide the following details in bidder\ncompany letter head with the authorized sign and stamp of\nthe organization.\n(i) Tender Reference No______Date______\n(ii) Percentage of Local Content.------------",
+                    "Select",
+                    ""
                 ],
                 [
-                    "AITB 2 – Covers",
-                    "Two covers: techno-commercial and financial."
+                    "*8",
+                    "Bidder shall furnish Earnest Money Deposit (EMD) as per\nNIT",
+                    "Select",
+                    ""
                 ],
                 [
-                    "AITB 3 – Alternate bids",
-                    "Not allowed. One bid per bidder."
+                    "*9",
+                    "Integrity Pact along with Undertaking form has to be sign\n& stamped by the respective bidder by mentioning the\ntender reference number & date details and the same\ndocument has to be uploaded in the e-tenderng portal.",
+                    "Select",
+                    ""
                 ],
                 [
-                    "AITB 4 – Physical originals",
-                    "No routine physical submission. DDLI may call for originals for verification."
+                    "*10",
+                    "Bidder has to comply all the General Terms & Conditions\n(GTC) of the document.",
+                    "Select",
+                    ""
                 ],
                 [
-                    "AITB 5 – Pre-bid conference",
-                    "No mandatory pre-bid conference. Written clarifications permitted."
+                    "*11",
+                    "Unconditional acceptance of all commercial terms &\nConditions",
+                    "Select",
+                    ""
                 ],
                 [
-                    "AITB 6 – Inspection",
-                    "Pre-dispatch inspection may be conducted on a sample basis at the supplier premises."
+                    "*12",
+                    "SPECIFY OFFER MAKE and\nPRODUCT SPECIFICATION",
+                    "",
+                    null
+                ]
+            ]
+        ]
+    },
+    {
+        "page": 6,
+        "text": "*13 Indicate PO Address (to be released), GST NO. No. & HSN &\nSAC Code (Item Wise)\n*14 Indicate Taxes and Duties applicable with rate percentage.\n*15 Any Other Terms / Deviations (If Any).\n*Confirm your acceptance of our terms (S.NO. 1 to 10) by selecting AGREE option , if DISAGREE enter your remarks in respective cell.\n** For Sl no 11 to 15 enter only remarks in respective cell.\nTenderer’s offer must conform in all respects with the applicable specifications and terms and conditions(T&C) of the tender. In case of,\ndeviation if any, from the tender specifications or terms and conditions must be clearly and explicitly stated. Technical deviations and\nCommercial deviations shall be furnished at SNO.15 (Above) Only along with reasons for taking such deviations. Deviation(s) mentioned\nelsewhere shall not be accepted. T&C agreed at ATC are final.",
+        "tables": [
+            [
+                [
+                    "*13",
+                    "Indicate PO Address (to be released), GST NO. No. & HSN &\nSAC Code (Item Wise)",
+                    ""
                 ],
                 [
-                    "AITB 7 – Delivery",
-                    "60 calendar days from effective date of contract."
+                    "*14",
+                    "Indicate Taxes and Duties applicable with rate percentage.",
+                    ""
                 ],
                 [
-                    "AITB 8 – Warranty",
-                    "Minimum 3 years comprehensive onsite warranty."
+                    "*15",
+                    "Any Other Terms / Deviations (If Any).",
+                    ""
                 ],
                 [
-                    "AITB 9 – Installation",
-                    "Installation/configuration at each consignee location included in quoted price."
+                    "*Confirm your acceptance of our terms (S.NO. 1 to 10) by selecting AGREE option , if DISAGREE enter your remarks in respective cell.",
+                    null,
+                    null
                 ],
                 [
-                    "AITB 10 – Training",
-                    "One half-day administrator orientation session at the consignee location."
+                    "** For Sl no 11 to 15 enter only remarks in respective cell.",
+                    null,
+                    null
                 ],
                 [
-                    "AITB 11 – Price variation",
-                    "Not applicable; prices shall remain firm during the contract period."
+                    "Tenderer’s offer must conform in all respects with the applicable specifications and terms and conditions(T&C) of the tender. In case of,\ndeviation if any, from the tender specifications or terms and conditions must be clearly and explicitly stated. Technical deviations and\nCommercial deviations shall be furnished at SNO.15 (Above) Only along with reasons for taking such deviations. Deviation(s) mentioned\nelsewhere shall not be accepted. T&C agreed at ATC are final.",
+                    null,
+                    null
                 ]
             ]
         ]
     },
     {
         "page": 7,
-        "text": "Section IV: General Conditions of Contract (GCC)\n1. Contract Documents and Precedence\nThe contract shall comprise the Letter of Award, accepted bid, Tender Document, Schedule of Requirements, Technical\nSpecifications, SCC, agreed clarifications/corrigenda and other documents expressly incorporated into the contract. In\ncase of conflict, the order of precedence stated in the contract shall apply.\n2. Supplier Obligations\n(cid:127) Maintain eligibility and qualification during contract execution.\n(cid:127) Supply new, unused and genuine goods meeting the specified technical requirements.\n(cid:127) Provide all accessories, cables, adapters and documentation necessary for normal operation.\n(cid:127) Complete installation/configuration and handover at the consignee location.\n(cid:127) Provide warranty support for the complete warranty period.\n(cid:127) Protect confidential information received during contract performance.\n3. Inspection and Quality Assurance\nDDLI or its nominated inspection representative may inspect and test goods before dispatch and/or after delivery. Initial\ninspection or acceptance shall not remove the consignee's right to reject goods later found not to conform to the contract.\nThe uploaded MTD specifically provides for inspection before dispatch and retains the consignee's right to reject goods\nlater found deficient against technical specifications and quality requirements. nfilecitenturn5file8nL565-L605n\n4. Packing and Transportation\nGoods shall be securely packed in manufacturer-standard protective packaging suitable for road transportation and\nhandling. The supplier shall bear transportation and transit risk until delivery at the stated destination.\n5. Delivery Delays\nTime is of the essence. Delays not covered by approved extension provisions may attract liquidated damages at 0.5% of\nthe value of delayed goods per completed week, subject to a maximum of 5% of the delayed portion, without prejudice to\nother contractual remedies.\nDDLI/PROC/GOODS/2026-27/014 | FICTIONAL TRAINING DOCUMENT Page 7",
+        "text": "MISHRA DHATU NIGAM LIMITED:\nROHTAK\nFIRE FIGHTING SYSTEMS FOR 4th SHED & ADMIN BUIDLING\nSCOPE OF WORK\nSupply, installation, testing, commissioning of Fire Fighting Systems for 4th Shed & Admin\nbuilding 1st and 2nd floor as per the technical specification.\n Location: Material should be installed at Midhani at Rohtak Plant, Haryana State\n For all items mentioned in CPR- the order will be placed on overall Lowest (L1)\nbidder only.\n This system to be paneled/connected to the existing Fire Fighting systems available in\nother sheds and also connected to centralized Fire control room.\n Technical Specifications is as per the Annexure-I, II & III\nI. COMPLETION PERIOD\nSupply the material within 60 days from the date of P.O & Installation and Commissioning\nwithin 60 days from the date of site clearance.\nII. INSTALLATION, COMMISSIONING & TRAINING\nThe installation, testing and commissioning of the equipment/fire protection system shall be\ncarried out by competent engineers/technicians of the Tenderer at the work site. After\ncommissioning, the party’s engineer / technician shall impart necessary training to Owner’s\npersonnel in operating and maintaining the installed fire protection system. No separate\ncharge shall be payable by the Owner for the purpose.\nIII. QUANITITY VARIATION\nThe quantity as mentioned in the Schedule of Work/ Price Bid is indicative. The selected\nbidder/Contractor shall however ascertain the exact quantity required at site and supply and\ninstall accordingly. As the work progresses, it is possible that there will be quantity\nvariations to any extent & omission of items. Under all such circumstances, the rates should\nbe firm. The quantity of tolerance shall be +/-10%.\nIV. PERFORMANCE GUARANTEE:\n1 Performance Guarantee:\na) The Contractor shall guarantee that the equipment and workmanship of work done and\nany fittings designed / manufactured / supplied by him are as specified in the tender",
         "tables": []
     },
     {
         "page": 8,
-        "text": "Section IV: GCC – Prices, Payments, Warranty and Disputes\n6. Prices and Taxes\nQuoted prices shall be firm and inclusive of packing, forwarding, freight, insurance, installation, configuration and\nincidental services up to the consignee location. GST and other statutory taxes shall be shown separately in the financial\nBOQ.\n7. Payment\nPayment shall normally be made within 30 days of successful delivery, installation, acceptance and submission of an\nundisputed invoice with required supporting documents. No advance payment is applicable.\n8. Warranty\nThe supplier shall provide a minimum three-year comprehensive onsite warranty from the date of acceptance. Warranty\nservice shall include repair or replacement of defective components and reasonable technical support without additional\ncharge.\n9. Performance Security\nThe successful bidder shall furnish performance security equal to 3% of the accepted contract value in the prescribed\nform within the period stated in the Letter of Award.\n10. Dispute Resolution\nThe parties shall first attempt resolution through the designated procurement officers. Unresolved disputes may be\nreferred to the arbitration mechanism stated in the contract, with the seat of arbitration in New Delhi and proceedings\ngoverned by applicable Indian law.\n11. Termination\nThe procuring entity may terminate the contract for material breach, persistent delay, insolvency or other grounds\nspecified in the contract, subject to applicable contractual procedure.\n12. Code of Integrity\nBidders and the supplier shall not engage in bribery, collusion, coercion, fraudulent practice, conflict-of-interest\nconcealment or other prohibited conduct in connection with the tender or contract.\nDDLI/PROC/GOODS/2026-27/014 | FICTIONAL TRAINING DOCUMENT Page 8",
+        "text": "schedule and wherever there is nothing specifically mentioned shall correspond to the best\navailable grade and quality as required for the application.\nb) The Contractor shall also guarantee that the work done and any fittings designed,\nmanufactured, supplied, erected shall be as per prevailing relevant standard, codes and\nstatutory practices / stipulations.\n2. Warranty:\nThe Contractor will repair and/or replace all defective parts, components / fittings,\naccessories etc. which shall be notified to them in writing within the Defect Liability Period\nPromptly at free of cost. The Contractor will provide similar warranty on the parts,\ncomponents, fittings, accessories etc. repaired and/ or replaced.\n3. General Notes for Bidders:\n(Bidders should confirm each & every point clearly. Deviations, if any, should be\nhighlighted in the quotation.)\n1.0 Bidders other than the Original Equipment Manufacturer (OEM), must enclose proper\nauthorization certificate.\n2.0 The bidder to provide 3 (three) sets of technical literature for operation, maintenance &\nrepair indicating all components with schematic drawings, part number etc. along with\noffer.\n2.1 Three (3) sets of instruction cum operation manual, recommended parts list etc are to be\nsupplied along with the supply in the event of order. Bidder has to confirm the same in the\ntechnical bid.\n4. Warranty / Guarantee:\nThe Systems must be under guarantee / warrantee by the bidder for a minimum period of\nnot less than 18 months from the date of dispatch or 12 months from the date of successful\ncommissioning of the complete unit at site, whichever is earlier. Defective goods / materials\nor parts notified by Midhani to the Seller shall be replaced immediately by the Seller on\nF.O.R destination basis including payment of all taxes and duties at Seller's expense. This\nguarantee shall survive and hold good not-withstanding inspection, payment for and\nacceptance of the goods.\n5. Pre-dispatch Inspection & Testing Charges:\nThe material shall be inspected by Midhani deputed engineer at manufacturers’ works /\nfactory prior to dispatch. However, such inspection will not relieve the supplier of his\nresponsibility to ensure that the equipment supplied conforms to the correct specifications\nand is free from manufacturing and all other defects. Test certificates and controllers shall\nhave to be forwarded along with delivery of material.\n6. Installation & Commissioning:\nInstallation & Commissioning charges must be quoted separately on lumpsum basis which\nshall be considered for evaluation of the offers. While quoting Installation &\ncommissioning charges, bidders should take into account all charges including to & fro fare,",
         "tables": []
     },
     {
         "page": 9,
-        "text": "Section V: Special Conditions of Contract (SCC)\nSCC No. Special condition\nSCC-01 The goods shall be brand-new, unused and manufactured not earlier than 12 months before the date of supply.\nSCC-02 Each laptop shall carry a minimum three-year comprehensive onsite warranty.\nSCC-03 Delivery shall be completed within 60 calendar days of contract effective date.\nSCC-04 Destination: DDLI Central Stores, Civic Technology Complex, New Delhi – 110020.\nSCC-05 Installation, OS configuration, device setup and basic network configuration are included.\nSCC-06 Supplier shall provide serial-number-wise asset list and warranty details at handover.\nSCC-07 Supplier shall provide one administrator orientation session for up to 10 DDLI staff.\nSCC-08 Price variation is not permitted.\nSCC-09 Part supply requires prior written approval and shall not alter the overall delivery obligation.\nSCC-10 All laptops shall be supplied with genuine manufacturer adapters and required accessories.\nSCC-11 Any proposed equivalent specification must meet or exceed the stated minimum and must be clearly demonstrated in the technical bid.\nSCC-12 The procuring entity may request clarification of submitted documents where permitted; clarification shall not ordinarily permit material alteration of the bid.\nDDLI/PROC/GOODS/2026-27/014 | FICTIONAL TRAINING DOCUMENT Page 9",
-        "tables": [
-            [
-                [
-                    "SCC No.",
-                    "Special condition"
-                ],
-                [
-                    "SCC-01",
-                    "The goods shall be brand-new, unused and manufactured not earlier than 12 months before the date of supply."
-                ],
-                [
-                    "SCC-02",
-                    "Each laptop shall carry a minimum three-year comprehensive onsite warranty."
-                ],
-                [
-                    "SCC-03",
-                    "Delivery shall be completed within 60 calendar days of contract effective date."
-                ],
-                [
-                    "SCC-04",
-                    "Destination: DDLI Central Stores, Civic Technology Complex, New Delhi – 110020."
-                ],
-                [
-                    "SCC-05",
-                    "Installation, OS configuration, device setup and basic network configuration are included."
-                ],
-                [
-                    "SCC-06",
-                    "Supplier shall provide serial-number-wise asset list and warranty details at handover."
-                ],
-                [
-                    "SCC-07",
-                    "Supplier shall provide one administrator orientation session for up to 10 DDLI staff."
-                ],
-                [
-                    "SCC-08",
-                    "Price variation is not permitted."
-                ],
-                [
-                    "SCC-09",
-                    "Part supply requires prior written approval and shall not alter the overall delivery obligation."
-                ],
-                [
-                    "SCC-10",
-                    "All laptops shall be supplied with genuine manufacturer adapters and required accessories."
-                ],
-                [
-                    "SCC-11",
-                    "Any proposed equivalent specification must meet or exceed the stated minimum and must be clearly demonstrated in the te"
-                ],
-                [
-                    "SCC-12",
-                    "The procuring entity may request clarification of submitted documents where permitted; clarification shall not ordinarily perm"
-                ]
-            ]
-        ]
+        "text": "boarding / lodging, local transport at Rohtak and other daily expenses of the commissioning\npersonnel.\n7. Care of building:\nCare shall be taken while handling and installing the equipment to avoid damage to the\nbuilding. On completion of the installation, the contractor shall arrange to repair all\ndamages to the building caused during installation so as to bring to the original condition.\n8. Painting and protection:\nMetal work of all equipment to be supplied (except the detectors) shall be given the final\ncoat of paint over the primer after necessary treatment at the works before dispatch. All\ndamages to painting during transport and installation shall be set right or repainted to the\nentire satisfaction of the Engineer-in-Charge before handing over.\n9. PRE-QUALIFICATION CRITERIA:\n1. The bidder should have supplied /taken up minimum two installations of similar type\nof works within 5 years with minimum of Rs. 8.32 lakhs.\n2. The parties should give the details of the works taken up with full details of the\ncontact persons along with telephone nos. Supporting documents for successful\ncompletion of the work shall be enclosed along with offers.\n3. Midhani has the right to disqualify any supplier depending on the supporting\ndocuments/ after assessing the performance of systems supplied.\n4. Midhani may depute their Engineers to those installations to assess the work done,\nand the party has to arrange the visit. Expenses for visits if any will be borne by\nMidhani",
+        "tables": []
     },
     {
         "page": 10,
-        "text": "Section VI: Schedule of Requirements\nThe MTD indicates that the Schedule of Requirements should state goods, HSN codes, quantity, units, delivery\nrequirements, destination/state, transportation, terms of delivery, accessories/spares and incidental works/services.\nnfilecitenturn6file2nL148-L186n\nSchedule Item HSN Description Qty Unit Delivery Destination\n1 1.1 8471 Business laptop computer set 50 Set 60 days New Delhi, Delhi\n1 1.2 8473 Wireless optical mouse 50 Nos. With laptops New Delhi, Delhi\n1 1.3 4202 Laptop carry bag 50 Nos. With laptops New Delhi, Delhi\nBackground and Intended Use\nThe laptops are intended for departmental training rooms, administrative work, secure office productivity, document\nprocessing, online meetings, data analysis and general professional use.\nTransportation and Delivery\n(cid:127) Road transportation is the preferred mode.\n(cid:127) Delivery shall be Free at Destination to DDLI Central Stores, New Delhi.\n(cid:127) Supplier shall provide delivery challan, packing list, serial-number list and invoice.\n(cid:127) Goods shall be protected against transit damage and moisture.\n(cid:127) Installation/configuration shall be completed after physical delivery.\nIncidental Works and Services\n(cid:127) Unpacking and physical installation.\n(cid:127) Operating system activation/configuration.\n(cid:127) Basic device naming and configuration according to DDLI instructions.\n(cid:127) Asset tagging and serial-number recording.\n(cid:127) Administrator orientation and handover documentation.\nDDLI/PROC/GOODS/2026-27/014 | FICTIONAL TRAINING DOCUMENT Page 10",
+        "text": "",
         "tables": [
             [
                 [
-                    "Schedule",
-                    "Item",
-                    "HSN",
-                    "Description",
-                    "Qty",
-                    "Unit",
-                    "Delivery",
-                    "Destination"
-                ],
+                    "",
+                    ""
+                ]
+            ],
+            [
                 [
-                    "1",
-                    "1.1",
-                    "8471",
-                    "Business laptop computer set",
-                    "50",
-                    "Set",
-                    "60 days",
-                    "New Delhi, Delhi"
-                ],
-                [
-                    "1",
-                    "1.2",
-                    "8473",
-                    "Wireless optical mouse",
-                    "50",
-                    "Nos.",
-                    "With laptops",
-                    "New Delhi, Delhi"
-                ],
-                [
-                    "1",
-                    "1.3",
-                    "4202",
-                    "Laptop carry bag",
-                    "50",
-                    "Nos.",
-                    "With laptops",
-                    "New Delhi, Delhi"
+                    "",
+                    ""
                 ]
             ]
         ]
     },
     {
         "page": 11,
-        "text": "Section VII: Technical Specifications and Quality Assurance\nSl. Parameter Minimum Requirement\n1 Processor Intel Core i5 12th Gen or equivalent current-generation processor; minimum 4 performance cores or equivalent capability.\n2 Memory 16 GB DDR4/DDR5 RAM, expandable preferred.\n3 Storage 512 GB NVMe SSD or higher.\n4 Display 14-inch or larger, Full HD (1920×1080) or higher, anti-glare.\n5 Operating system Genuine Windows 11 Pro 64-bit, properly licensed.\n6 Wireless Wi-Fi 6 (802.11ax) or better.\n7 Bluetooth Bluetooth 5.0 or better.\n8 Camera Integrated HD webcam with microphone.\n9 Ports At least 2 USB-A, 1 USB-C, HDMI or equivalent external display output, audio combo jack.\n10 Keyboard Full-size business keyboard, spill-resistant preferred; English layout.\n11 Power Genuine manufacturer power adapter supplied with each laptop.\n12 Warranty Minimum 3 years comprehensive onsite warranty.\n13 Accessories Laptop bag and wireless optical mouse for each laptop.\n14 Documentation User manual, warranty information and serial-number/asset list.\n15 Condition Brand-new, unused, genuine and free from manufacturing defects.\nDDLI/PROC/GOODS/2026-27/014 | FICTIONAL TRAINING DOCUMENT Page 11",
-        "tables": [
-            [
-                [
-                    "Sl.",
-                    "Parameter",
-                    "Minimum Requirement"
-                ],
-                [
-                    "1",
-                    "Processor",
-                    "Intel Core i5 12th Gen or equivalent current-generation processor; minimum 4 performance cores or equivalent ca"
-                ],
-                [
-                    "2",
-                    "Memory",
-                    "16 GB DDR4/DDR5 RAM, expandable preferred."
-                ],
-                [
-                    "3",
-                    "Storage",
-                    "512 GB NVMe SSD or higher."
-                ],
-                [
-                    "4",
-                    "Display",
-                    "14-inch or larger, Full HD (1920×1080) or higher, anti-glare."
-                ],
-                [
-                    "5",
-                    "Operating system",
-                    "Genuine Windows 11 Pro 64-bit, properly licensed."
-                ],
-                [
-                    "6",
-                    "Wireless",
-                    "Wi-Fi 6 (802.11ax) or better."
-                ],
-                [
-                    "7",
-                    "Bluetooth",
-                    "Bluetooth 5.0 or better."
-                ],
-                [
-                    "8",
-                    "Camera",
-                    "Integrated HD webcam with microphone."
-                ],
-                [
-                    "9",
-                    "Ports",
-                    "At least 2 USB-A, 1 USB-C, HDMI or equivalent external display output, audio combo jack."
-                ],
-                [
-                    "10",
-                    "Keyboard",
-                    "Full-size business keyboard, spill-resistant preferred; English layout."
-                ],
-                [
-                    "11",
-                    "Power",
-                    "Genuine manufacturer power adapter supplied with each laptop."
-                ],
-                [
-                    "12",
-                    "Warranty",
-                    "Minimum 3 years comprehensive onsite warranty."
-                ],
-                [
-                    "13",
-                    "Accessories",
-                    "Laptop bag and wireless optical mouse for each laptop."
-                ],
-                [
-                    "14",
-                    "Documentation",
-                    "User manual, warranty information and serial-number/asset list."
-                ],
-                [
-                    "15",
-                    "Condition",
-                    "Brand-new, unused, genuine and free from manufacturing defects."
-                ]
-            ]
-        ]
+        "text": "",
+        "tables": []
     },
     {
         "page": 12,
-        "text": "Section VII: Quality Assurance, Inspection and Acceptance\n1. Quality Assurance\n(cid:127) Manufacturer/OEM serial numbers shall be traceable to the supplied units.\n(cid:127) Software licenses shall be genuine and correspond to the supplied devices.\n(cid:127) Technical datasheets submitted with the bid shall identify the proposed make/model.\n(cid:127) DDLI may verify key parameters against manufacturer documentation.\n(cid:127) Any discrepancy between the quoted model and supplied model may be treated as a material deviation.\n2. Pre-dispatch Inspection\nDDLI may inspect a representative sample at the supplier's premises before dispatch. The supplier shall provide access\nto the offered model, serial-number information and relevant manufacturer documentation.\n3. Delivery Acceptance\nFinal acceptance will be based on quantity, physical condition, serial-number verification, technical conformity,\ninstallation/configuration and satisfactory demonstration of the specified operating environment.\n4. Warranty Service Levels\nService Requirement\nComplaint acknowledgement Within 1 business day\nOnsite visit for hardware issue Within 2 business days where onsite service is required\nResolution/replacement target Within 5 business days, subject to part availability\nEscalation contact Named OEM/supplier service manager to be provided at handover\nDDLI/PROC/GOODS/2026-27/014 | FICTIONAL TRAINING DOCUMENT Page 12",
-        "tables": [
-            [
-                [
-                    "Service",
-                    "Requirement"
-                ],
-                [
-                    "Complaint acknowledgement",
-                    "Within 1 business day"
-                ],
-                [
-                    "Onsite visit for hardware issue",
-                    "Within 2 business days where onsite service is required"
-                ],
-                [
-                    "Resolution/replacement target",
-                    "Within 5 business days, subject to part availability"
-                ],
-                [
-                    "Escalation contact",
-                    "Named OEM/supplier service manager to be provided at handover"
-                ]
-            ]
-        ]
+        "text": "",
+        "tables": []
     },
     {
         "page": 13,
-        "text": "Section VIII: Qualification Criteria\nQualification criteria are intended to establish whether the bidder has the capability and experience required for the\nprocurement. The MTD states that bidders should attach statements/documents supporting qualification and submit Form\n4 and Form 4.1. nfilecitenturn6file8nL650-L683n\nID Qualification requirement Evidence expected\nQ1 Bidder has been in the business of supply of IT/laptop/computer equipmeCnet rftoifri caatt ele aosf ti n3c oyerpaorsra.tion/registration plus business evidence.\nQ2 Average annual turnover of at least INR 5 crore during FY 2023-24, 2024A-2u5d iatendd f2in0a2n5c-i2a6l .statements and/or CA-certified turnover certificate.\nQ3 At least 3 completed or substantially completed similar laptop/computer sPuuprpclhya osred eorrsd edrusr/icnogn tthraec ltass pt l5u sy ecaorms,p eleatciohn v/daelulievedr ay/ta ncocte lpetsasn tchea env IiNdeRn 2c5e .lakh.\nQ4 Bidder has required service capability for warranty support in Delhi/NCR.Service centre details and support declaration.\nQ5 Bidder is manufacturer or authorised dealer/distributor of the offered OEMO.EM authorisation letter or manufacturer declaration.\nQ6 No blacklisting/debarment affecting eligibility. Signed eligibility/non-blacklisting declaration.\nQ7 No material conflict of interest with another bidder in this tender. Signed conflict-of-interest declaration.\nDDLI/PROC/GOODS/2026-27/014 | FICTIONAL TRAINING DOCUMENT Page 13",
-        "tables": [
-            [
-                [
-                    "ID",
-                    "Qualification requirement",
-                    "Evidence expected"
-                ],
-                [
-                    "Q1",
-                    "Bidder has been in the business of supply of IT/laptop/computer equipm",
-                    "eCnet rftoifri caatt ele aosf ti n3c oyerpaorsra.tion/registration plus business evidence."
-                ],
-                [
-                    "Q2",
-                    "Average annual turnover of at least INR 5 crore during FY 2023-24, 202",
-                    "4A-2u5d iatendd f2in0a2n5c-i2a6l .statements and/or CA-certified turnover certificate."
-                ],
-                [
-                    "Q3",
-                    "At least 3 completed or substantially completed similar laptop/computer",
-                    "sPuuprpclhya osred eorrsd edrusr/icnogn tthraec ltass pt l5u sy ecaorms,p eleatciohn v/daelulievedr ay/ta ncocte lpetsasn tchea env IiNdeRn 2c5e"
-                ],
-                [
-                    "Q4",
-                    "Bidder has required service capability for warranty support in Delhi/NC",
-                    "R.Service centre details and support declaration."
-                ],
-                [
-                    "Q5",
-                    "Bidder is manufacturer or authorised dealer/distributor of the offered OE",
-                    "MO.EM authorisation letter or manufacturer declaration."
-                ],
-                [
-                    "Q6",
-                    "No blacklisting/debarment affecting eligibility.",
-                    "Signed eligibility/non-blacklisting declaration."
-                ],
-                [
-                    "Q7",
-                    "No material conflict of interest with another bidder in this tender.",
-                    "Signed conflict-of-interest declaration."
-                ]
-            ]
-        ]
+        "text": "",
+        "tables": []
     },
     {
         "page": 14,
-        "text": "BIDDING FORMS\nForm 1: Bid Form (Covering Letter)\nTo: The President of India, through Head of Procurement, Department of Digital Learning Infrastructure (DDLI)\nRef: DDLI/PROC/GOODS/2026-27/014 | Tender Title: Open Tender for Supply, Installation and Support of Laptop\nComputers\nWe, the undersigned, having examined the Tender Document, submit our techno-commercial and financial bid for the\nsupply of the Goods and incidental services in conformity with the Tender Document.\nWe certify that the bidder meets the eligibility and qualification requirements, that the information submitted is true to the\nbest of our knowledge, and that the bid shall remain valid for 120 days from tender opening.\nBidder name Apex Office Systems Pvt. Ltd. (Mock Bidder)\nRegistered address 18 Technology Park, Gurugram, Haryana – 122018\nAuthorised signatory Rohan Mehta, Director – Government Business\nBidder reference AOS/DDLI/2026/091\nDate 04 October 2026\nSignature: ____________________ Name: Rohan Mehta Designation: Director – Government Business\nDDLI/PROC/GOODS/2026-27/014 | FICTIONAL TRAINING DOCUMENT Page 14",
-        "tables": [
-            [
-                [
-                    "Bidder name",
-                    "Apex Office Systems Pvt. Ltd. (Mock Bidder)"
-                ],
-                [
-                    "Registered address",
-                    "18 Technology Park, Gurugram, Haryana – 122018"
-                ],
-                [
-                    "Authorised signatory",
-                    "Rohan Mehta, Director – Government Business"
-                ],
-                [
-                    "Bidder reference",
-                    "AOS/DDLI/2026/091"
-                ],
-                [
-                    "Date",
-                    "04 October 2026"
-                ]
-            ]
-        ]
+        "text": "",
+        "tables": []
     },
     {
         "page": 15,
-        "text": "Form 1.1: Bidder Information\nField Mock bidder information\nLegal name Apex Office Systems Pvt. Ltd.\nConstitution Private Limited Company\nCountry of incorporation India\nRegistered office 18 Technology Park, Gurugram, Haryana – 122018\nPAN AAECA1234K (mock identifier)\nGSTIN 06AAECA1234K1ZX (mock identifier)\nAuthorised representative Rohan Mehta, Director – Government Business\nEmail tenders@apexoffice.example\nTelephone +91-11-4000-1200\nOEM proposed NovaTech Systems India Pvt. Ltd. (fictional OEM)\nAll identifiers in this mock bidder profile are fictional and must not be used for real-world verification.\nForm 1.2: Eligibility Declarations\n(cid:127) We are not insolvent, bankrupt, under receivership or being wound up.\n(cid:127) We are not blacklisted, banned or debarred in a manner that makes us ineligible for this tender.\n(cid:127) We have no material conflict of interest with another bidder.\n(cid:127) We shall maintain eligibility until award of contract.\n(cid:127) We have disclosed all information required by the tender.\nDDLI/PROC/GOODS/2026-27/014 | FICTIONAL TRAINING DOCUMENT Page 15",
-        "tables": [
-            [
-                [
-                    "Field",
-                    "Mock bidder information"
-                ],
-                [
-                    "Legal name",
-                    "Apex Office Systems Pvt. Ltd."
-                ],
-                [
-                    "Constitution",
-                    "Private Limited Company"
-                ],
-                [
-                    "Country of incorporation",
-                    "India"
-                ],
-                [
-                    "Registered office",
-                    "18 Technology Park, Gurugram, Haryana – 122018"
-                ],
-                [
-                    "PAN",
-                    "AAECA1234K (mock identifier)"
-                ],
-                [
-                    "GSTIN",
-                    "06AAECA1234K1ZX (mock identifier)"
-                ],
-                [
-                    "Authorised representative",
-                    "Rohan Mehta, Director – Government Business"
-                ],
-                [
-                    "Email",
-                    "tenders@apexoffice.example"
-                ],
-                [
-                    "Telephone",
-                    "+91-11-4000-1200"
-                ],
-                [
-                    "OEM proposed",
-                    "NovaTech Systems India Pvt. Ltd. (fictional OEM)"
-                ]
-            ]
-        ]
+        "text": "",
+        "tables": []
     },
     {
         "page": 16,
-        "text": "Form 1.3: OEM Authorization\nTo: DDLI Procurement Division\nNovaTech Systems India Pvt. Ltd. (fictional OEM) authorises Apex Office Systems Pvt. Ltd. to quote, supply, install and\nprovide warranty support for NovaTech Model NTB-14P laptops against Tender Ref. DDLI/PROC/GOODS/2026-27/014.\nAuthorisation validity: From 10 September 2026 to completion of the resulting contract. The OEM confirms that the\noffered model will be supported through the stated warranty period.\nAuthorised OEM representative: Priya Nair, Head – Institutional Sales (mock).\nForm 2: Schedule of Requirements – Compliance\nItem Required Bidder offer Status\n1.1 Laptop computer se5t0, 5s0e tssets NovaTech NTB-14P, 50 sets Comply\n1.2 Wireless optical mo5u0s eN, o5s0. NovaTech WM-200, 50 Nos. Comply\n1.3 Laptop bag, 50 50 Nos. NovaTech NB-14, 50 Nos. Comply\nDelivery 60 days 55 days offered Comply\nDestination DDLI Central Stores, New Delhi Accepted Comply\nDDLI/PROC/GOODS/2026-27/014 | FICTIONAL TRAINING DOCUMENT Page 16",
-        "tables": [
-            [
-                [
-                    "Item",
-                    "Required",
-                    "Bidder offer",
-                    "Status"
-                ],
-                [
-                    "1.1 Laptop computer",
-                    "se5t0, 5s0e tssets",
-                    "NovaTech NTB-14P, 50 sets",
-                    "Comply"
-                ],
-                [
-                    "1.2 Wireless optical m",
-                    "o5u0s eN, o5s0.",
-                    "NovaTech WM-200, 50 Nos.",
-                    "Comply"
-                ],
-                [
-                    "1.3 Laptop bag, 50",
-                    "50 Nos.",
-                    "NovaTech NB-14, 50 Nos.",
-                    "Comply"
-                ],
-                [
-                    "Delivery",
-                    "60 days",
-                    "55 days offered",
-                    "Comply"
-                ],
-                [
-                    "Destination",
-                    "DDLI Central Stores, New Delhi",
-                    "Accepted",
-                    "Comply"
-                ]
-            ]
-        ]
+        "text": "",
+        "tables": []
     },
     {
         "page": 17,
-        "text": "Form 3: Technical Specifications and Quality Assurance –\nCompliance\nSl. Requirement Bidder's offered specification Status\n1 Processor: i5 12th Gen or equivalent Intel Core i5-1245U Comply\n2 RAM: minimum 16 GB 16 GB DDR5 Comply\n3 Storage: minimum 512 GB NVMe 512 GB NVMe SSD Comply\n4 Display: 14-inch FHD or higher 14-inch FHD anti-glare Comply\n5 Windows 11 Pro Windows 11 Pro 64-bit Comply\n6 Wi-Fi 6 Wi-Fi 6 Comply\n7 Bluetooth 5.0+ Bluetooth 5.3 Comply\n8 HD webcam 1080p webcam Comply\n9 3-year onsite warranty 3-year comprehensive onsite Comply\nSupporting documents: OEM datasheet NTB-14P, warranty declaration, product brochure and model-specific technical\ncompliance sheet.\nDDLI/PROC/GOODS/2026-27/014 | FICTIONAL TRAINING DOCUMENT Page 17",
-        "tables": [
-            [
-                [
-                    "Sl.",
-                    "Requirement",
-                    "Bidder's offered specification",
-                    "Status"
-                ],
-                [
-                    "1",
-                    "Processor: i5 12th Gen or equivalent",
-                    "Intel Core i5-1245U",
-                    "Comply"
-                ],
-                [
-                    "2",
-                    "RAM: minimum 16 GB",
-                    "16 GB DDR5",
-                    "Comply"
-                ],
-                [
-                    "3",
-                    "Storage: minimum 512 GB NVMe",
-                    "512 GB NVMe SSD",
-                    "Comply"
-                ],
-                [
-                    "4",
-                    "Display: 14-inch FHD or higher",
-                    "14-inch FHD anti-glare",
-                    "Comply"
-                ],
-                [
-                    "5",
-                    "Windows 11 Pro",
-                    "Windows 11 Pro 64-bit",
-                    "Comply"
-                ],
-                [
-                    "6",
-                    "Wi-Fi 6",
-                    "Wi-Fi 6",
-                    "Comply"
-                ],
-                [
-                    "7",
-                    "Bluetooth 5.0+",
-                    "Bluetooth 5.3",
-                    "Comply"
-                ],
-                [
-                    "8",
-                    "HD webcam",
-                    "1080p webcam",
-                    "Comply"
-                ],
-                [
-                    "9",
-                    "3-year onsite warranty",
-                    "3-year comprehensive onsite",
-                    "Comply"
-                ]
-            ]
-        ]
+        "text": "",
+        "tables": []
     },
     {
         "page": 18,
-        "text": "Form 4: Qualification Criteria – Compliance\nID Criterion Bidder declaration Evidence\nQ1 3 years relevant business Comply – 7 years Company registration + business profile\nQ2 Turnover ‡ INR 5 crore average Comply – average INR 8.4 crore Audited financials + CA certificate\nQ3 3 similar orders ‡ INR 25 lakh each Comply – 4 orders POs + completion certificates\nQ4 Delhi/NCR support capability Comply Service centre declaration\nQ5 OEM authorisation Comply Tender-specific OEM letter\nQ6 Non-blacklisting Comply Signed declaration\nQ7 Conflict of interest Comply Signed declaration\nDDLI/PROC/GOODS/2026-27/014 | FICTIONAL TRAINING DOCUMENT Page 18",
-        "tables": [
-            [
-                [
-                    "ID",
-                    "Criterion",
-                    "Bidder declaration",
-                    "Evidence"
-                ],
-                [
-                    "Q1",
-                    "3 years relevant business",
-                    "Comply – 7 years",
-                    "Company registration + business profile"
-                ],
-                [
-                    "Q2",
-                    "Turnover ‡ INR 5 crore average",
-                    "Comply – average INR 8.4 crore",
-                    "Audited financials + CA certificate"
-                ],
-                [
-                    "Q3",
-                    "3 similar orders ‡ INR 25 lakh each",
-                    "Comply – 4 orders",
-                    "POs + completion certificates"
-                ],
-                [
-                    "Q4",
-                    "Delhi/NCR support capability",
-                    "Comply",
-                    "Service centre declaration"
-                ],
-                [
-                    "Q5",
-                    "OEM authorisation",
-                    "Comply",
-                    "Tender-specific OEM letter"
-                ],
-                [
-                    "Q6",
-                    "Non-blacklisting",
-                    "Comply",
-                    "Signed declaration"
-                ],
-                [
-                    "Q7",
-                    "Conflict of interest",
-                    "Comply",
-                    "Signed declaration"
-                ]
-            ]
-        ]
+        "text": "",
+        "tables": []
     },
     {
         "page": 19,
-        "text": "Form 4.1: Performance Statement\nCustomer Order No./Date Qty Order value Status\nState Training Institute (mock) STI/IT/2022/118 – 12.11.2022 40 n32,00,000 Completed\nDistrict e-Governance Office (mock) DEGO/COMP/2023/44 – 19.06.2023 60 n51,00,000 Completed\nPublic Skills Centre (mock) PSC/ICT/2024/07 – 08.08.2024 75 n68,25,000 Completed\nResearch Administration Board (mock) RAB/LAP/2025/31 – 17.09.2025 50 n46,50,000 Completed\nPerformance evidence attached: copies of purchase orders, delivery challans and completion/acceptance certificates. All\ncustomer names and references above are fictional.\nDDLI/PROC/GOODS/2026-27/014 | FICTIONAL TRAINING DOCUMENT Page 19",
-        "tables": [
-            [
-                [
-                    "Customer",
-                    "Order No./Date",
-                    "Qty",
-                    "Order value",
-                    "Status"
-                ],
-                [
-                    "State Training Institute (mock)",
-                    "STI/IT/2022/118 – 12.11.2022",
-                    "40",
-                    "n32,00,000",
-                    "Completed"
-                ],
-                [
-                    "District e-Governance Office (mock)",
-                    "DEGO/COMP/2023/44 – 19.06.2023",
-                    "60",
-                    "n51,00,000",
-                    "Completed"
-                ],
-                [
-                    "Public Skills Centre (mock)",
-                    "PSC/ICT/2024/07 – 08.08.2024",
-                    "75",
-                    "n68,25,000",
-                    "Completed"
-                ],
-                [
-                    "Research Administration Board (mock)",
-                    "RAB/LAP/2025/31 – 17.09.2025",
-                    "50",
-                    "n46,50,000",
-                    "Completed"
-                ]
-            ]
-        ]
+        "text": "",
+        "tables": []
     },
     {
         "page": 20,
-        "text": "Form 5: Terms and Conditions – Compliance\nClause Subject Bidder response\nSCC-01 New and unused goods Accepted without deviation\nSCC-02 Three-year onsite warranty Accepted without deviation\nSCC-03 60-day delivery 55 days offered\nSCC-04 Delivery to New Delhi Accepted\nSCC-05 Installation/configuration included Accepted\nSCC-06 Serial-number asset list Accepted\nSCC-08 Firm prices Accepted\nGCC payment Payment after delivery, acceptance and invoice Accepted\nGCC performance securit3y% of accepted contract value Accepted\nThe bidder confirms that no other document submitted with the bid contains a contradictory commercial condition.\nDDLI/PROC/GOODS/2026-27/014 | FICTIONAL TRAINING DOCUMENT Page 20",
-        "tables": [
-            [
-                [
-                    "Clause",
-                    "Subject",
-                    "Bidder response"
-                ],
-                [
-                    "SCC-01",
-                    "New and unused goods",
-                    "Accepted without deviation"
-                ],
-                [
-                    "SCC-02",
-                    "Three-year onsite warranty",
-                    "Accepted without deviation"
-                ],
-                [
-                    "SCC-03",
-                    "60-day delivery",
-                    "55 days offered"
-                ],
-                [
-                    "SCC-04",
-                    "Delivery to New Delhi",
-                    "Accepted"
-                ],
-                [
-                    "SCC-05",
-                    "Installation/configuration included",
-                    "Accepted"
-                ],
-                [
-                    "SCC-06",
-                    "Serial-number asset list",
-                    "Accepted"
-                ],
-                [
-                    "SCC-08",
-                    "Firm prices",
-                    "Accepted"
-                ],
-                [
-                    "GCC payment",
-                    "Payment after delivery, acceptance and invoice",
-                    "Accepted"
-                ],
-                [
-                    "GCC performance secu",
-                    "rit3y% of accepted contract value",
-                    "Accepted"
-                ]
-            ]
-        ]
+        "text": "",
+        "tables": []
     },
     {
         "page": 21,
-        "text": "Form 6: Checklist for Bidders\nNo. Document Submitted\n1 Form 1 – Bid Form YES\n2 Form 1.1 – Bidder Information YES\n3 PAN and GST registration YES\n4 Form 1.2 – Eligibility Declarations YES\n5 Form 1.3 – OEM Authorization YES\n6 Form 2 – Schedule Compliance YES\n7 Form 3 – Technical Compliance + Datasheet YES\n8 Form 4 – Qualification Compliance YES\n9 Form 4.1 – Performance Statement YES\n10 Form 5 – Terms & Conditions Compliance YES\n11 Form 6 – Checklist YES\n12 Form 7 – Bid Securing Declaration YES\n13 Financial BOQ YES\nThe MTD's checklist similarly includes registration certificates, PAN, GSTIN, OEM authorization where applicable, Forms\n2–7 and supporting documents. nfilecitenturn5file7nL496-L552n\nDDLI/PROC/GOODS/2026-27/014 | FICTIONAL TRAINING DOCUMENT Page 21",
-        "tables": [
-            [
-                [
-                    "No.",
-                    "Document",
-                    "Submitted"
-                ],
-                [
-                    "1",
-                    "Form 1 – Bid Form",
-                    "YES"
-                ],
-                [
-                    "2",
-                    "Form 1.1 – Bidder Information",
-                    "YES"
-                ],
-                [
-                    "3",
-                    "PAN and GST registration",
-                    "YES"
-                ],
-                [
-                    "4",
-                    "Form 1.2 – Eligibility Declarations",
-                    "YES"
-                ],
-                [
-                    "5",
-                    "Form 1.3 – OEM Authorization",
-                    "YES"
-                ],
-                [
-                    "6",
-                    "Form 2 – Schedule Compliance",
-                    "YES"
-                ],
-                [
-                    "7",
-                    "Form 3 – Technical Compliance + Datasheet",
-                    "YES"
-                ],
-                [
-                    "8",
-                    "Form 4 – Qualification Compliance",
-                    "YES"
-                ],
-                [
-                    "9",
-                    "Form 4.1 – Performance Statement",
-                    "YES"
-                ],
-                [
-                    "10",
-                    "Form 5 – Terms & Conditions Compliance",
-                    "YES"
-                ],
-                [
-                    "11",
-                    "Form 6 – Checklist",
-                    "YES"
-                ],
-                [
-                    "12",
-                    "Form 7 – Bid Securing Declaration",
-                    "YES"
-                ],
-                [
-                    "13",
-                    "Financial BOQ",
-                    "YES"
-                ]
-            ]
-        ]
+        "text": "",
+        "tables": []
     },
     {
         "page": 22,
-        "text": "Form 7: Bid Securing Declaration\nTender Reference: DDLI/PROC/GOODS/2026-27/014\nWe, Apex Office Systems Pvt. Ltd. (fictional bidder), declare that we understand that the bid must remain valid for the\nprescribed period and that we may be subject to applicable consequences if we withdraw the bid or fail to honour the\nobligations associated with the bid, in accordance with the Tender Document.\nAuthorised Signatory: Rohan Mehta\nDate: 04 October 2026\nDDLI/PROC/GOODS/2026-27/014 | FICTIONAL TRAINING DOCUMENT Page 22",
+        "text": "",
         "tables": []
     },
     {
         "page": 23,
-        "text": "Form 8: Integrity Pact – Mock Version\nThe bidder and the procuring entity commit to maintain integrity, transparency and fair competition throughout the\nprocurement process. Neither party shall offer, solicit or accept improper advantage in connection with the tender.\nFor this mock tender, no Independent External Monitor is appointed. The clause is included to provide a realistic\ndocument structure for NLP extraction and compliance testing.\nBidder: Apex Office Systems Pvt. Ltd. (fictional)\nAuthorised signatory: Rohan Mehta\nDDLI/PROC/GOODS/2026-27/014 | FICTIONAL TRAINING DOCUMENT Page 23",
+        "text": "",
         "tables": []
     },
     {
         "page": 24,
-        "text": "Formats and Annexures\nFormat 1: Contract Form – Key Particulars\nField Contract entry\nContract reference DDLI/CON/GOODS/2026-27/014\nSupplier Apex Office Systems Pvt. Ltd. (fictional)\nGoods 50 laptop computer sets with accessories\nDelivery period 60 calendar days\nWarranty 3 years comprehensive onsite\nPerformance security 3% of accepted contract value\nDestination DDLI Central Stores, New Delhi\nFormat 1.1: Performance Security – Key Particulars\nSecurity amount: 3% of accepted contract value. Beneficiary: Head of Procurement, DDLI. Validity: contractually\nprescribed period plus claim period.\nFormat 1.2: No Claim Certificate – Key Particulars\nSupplier shall certify, where applicable at contract closure, that all amounts due under the contract have been received\nand no further claim remains except claims expressly preserved under the contract.\nFormat 2: Pre-bid Conference Authorization\nNot applicable because no mandatory pre-bid conference is scheduled for this mock tender.\nDDLI/PROC/GOODS/2026-27/014 | FICTIONAL TRAINING DOCUMENT Page 24",
-        "tables": [
-            [
-                [
-                    "Field",
-                    "Contract entry"
-                ],
-                [
-                    "Contract reference",
-                    "DDLI/CON/GOODS/2026-27/014"
-                ],
-                [
-                    "Supplier",
-                    "Apex Office Systems Pvt. Ltd. (fictional)"
-                ],
-                [
-                    "Goods",
-                    "50 laptop computer sets with accessories"
-                ],
-                [
-                    "Delivery period",
-                    "60 calendar days"
-                ],
-                [
-                    "Warranty",
-                    "3 years comprehensive onsite"
-                ],
-                [
-                    "Performance security",
-                    "3% of accepted contract value"
-                ],
-                [
-                    "Destination",
-                    "DDLI Central Stores, New Delhi"
-                ]
-            ]
-        ]
+        "text": "",
+        "tables": []
     },
     {
         "page": 25,
-        "text": "Annexure A: Financial BOQ – Mock Structure\nItem Description Qty Unit rate (n) GST Total incl. GST (n)\n1 Laptop computer set 50 65,000 18% 38,35,000\n2 Wireless optical mouse 50 800 18% 47,200\n3 Laptop carry bag 50 1,200 18% 70,800\nSubtotal 39,53,000\nThe above values are fictional demonstration values only. The actual procurement system would use a portal-generated\nBOQ.\nAnnexure B: Evidence Document Index for B_Well Procurement MVP\nEvidence ID Expected document Supports requirements\nDOC-01 PAN certificate Eligibility\nDOC-02 GST registration Eligibility\nDOC-03 OEM authorization OEM authorization / technical\nDOC-04 Audited financial statements Turnover\nDOC-05 CA turnover certificate Turnover\nDOC-06 Purchase order + completion certificate Experience\nDOC-07 Technical datasheet Technical specifications\nDOC-08 Warranty declaration Warranty\nDOC-09 Non-blacklisting declaration Eligibility\nDOC-10 Bid securing declaration Bid security\nDOC-11 Price BOQ Commercial/financial\nDDLI/PROC/GOODS/2026-27/014 | FICTIONAL TRAINING DOCUMENT Page 25",
+        "text": "",
         "tables": [
             [
                 [
-                    "Item",
-                    "Description",
-                    "Qty",
-                    "Unit rate (n)",
-                    "GST",
-                    "Total incl. GST (n)"
-                ],
-                [
-                    "1",
-                    "Laptop computer set",
-                    "50",
-                    "65,000",
-                    "18%",
-                    "38,35,000"
-                ],
-                [
-                    "2",
-                    "Wireless optical mouse",
-                    "50",
-                    "800",
-                    "18%",
-                    "47,200"
-                ],
-                [
-                    "3",
-                    "Laptop carry bag",
-                    "50",
-                    "1,200",
-                    "18%",
-                    "70,800"
-                ],
-                [
                     "",
                     "",
-                    "",
-                    "",
-                    "Subtotal",
-                    "39,53,000"
-                ]
-            ],
-            [
-                [
-                    "Evidence ID",
-                    "Expected document",
-                    "Supports requirements"
-                ],
-                [
-                    "DOC-01",
-                    "PAN certificate",
-                    "Eligibility"
-                ],
-                [
-                    "DOC-02",
-                    "GST registration",
-                    "Eligibility"
-                ],
-                [
-                    "DOC-03",
-                    "OEM authorization",
-                    "OEM authorization / technical"
-                ],
-                [
-                    "DOC-04",
-                    "Audited financial statements",
-                    "Turnover"
-                ],
-                [
-                    "DOC-05",
-                    "CA turnover certificate",
-                    "Turnover"
-                ],
-                [
-                    "DOC-06",
-                    "Purchase order + completion certificate",
-                    "Experience"
-                ],
-                [
-                    "DOC-07",
-                    "Technical datasheet",
-                    "Technical specifications"
-                ],
-                [
-                    "DOC-08",
-                    "Warranty declaration",
-                    "Warranty"
-                ],
-                [
-                    "DOC-09",
-                    "Non-blacklisting declaration",
-                    "Eligibility"
-                ],
-                [
-                    "DOC-10",
-                    "Bid securing declaration",
-                    "Bid security"
-                ],
-                [
-                    "DOC-11",
-                    "Price BOQ",
-                    "Commercial/financial"
+                    ""
                 ]
             ]
         ]
     },
     {
         "page": 26,
-        "text": "Annexure C: Mock Tender Requirement Register\nReq ID Category Requirement Mandatory Source\nREQ-001 ELIGIBILITY Valid PAN registration Yes NIT 3\nREQ-002 ELIGIBILITY Valid GST registration Yes NIT 3\nREQ-003 ELIGIBILITY Not blacklisted/debarred Yes NIT 3\nREQ-004 EXPERIENCE 3 similar orders in last 5 years, each ‡ n25 lakh Yes Section VIII Q3\nREQ-005 FINANCIAL Average annual turnover ‡ n5 crore for FY23-24 to FY25-26 Yes Section VIII Q2\nREQ-006 TECHNICAL Processor i5 12th Gen or equivalent Yes Section VII 1\nREQ-007 TECHNICAL RAM ‡ 16 GB Yes Section VII 2\nREQ-008 TECHNICAL SSD ‡ 512 GB NVMe Yes Section VII 3\nREQ-009 TECHNICAL Windows 11 Pro Yes Section VII 5\nREQ-010 CERTIFICATION / QUALITYGenuine manufacturer goods and traceable serial numbers Yes Section VII\nREQ-011 OEM / AUTHORIZATION Tender-specific OEM authorization if dealer Yes if applicable NIT / Form 1.3\nREQ-012 DELIVERY Delivery within 60 days Yes SCC-03\nREQ-013 WARRANTY 3-year comprehensive onsite warranty Yes SCC-02\nREQ-014 COMMERCIAL Firm prices; taxes shown separately Yes GCC/SCC\nREQ-015 FINANCIAL Bid Securing Declaration Yes Form 7\nDDLI/PROC/GOODS/2026-27/014 | FICTIONAL TRAINING DOCUMENT Page 26",
-        "tables": [
-            [
-                [
-                    "Req ID",
-                    "Category",
-                    "Requirement",
-                    "Mandatory",
-                    "Source"
-                ],
-                [
-                    "REQ-001",
-                    "ELIGIBILITY",
-                    "Valid PAN registration",
-                    "Yes",
-                    "NIT 3"
-                ],
-                [
-                    "REQ-002",
-                    "ELIGIBILITY",
-                    "Valid GST registration",
-                    "Yes",
-                    "NIT 3"
-                ],
-                [
-                    "REQ-003",
-                    "ELIGIBILITY",
-                    "Not blacklisted/debarred",
-                    "Yes",
-                    "NIT 3"
-                ],
-                [
-                    "REQ-004",
-                    "EXPERIENCE",
-                    "3 similar orders in last 5 years, each ‡ n25 lakh",
-                    "Yes",
-                    "Section VIII Q3"
-                ],
-                [
-                    "REQ-005",
-                    "FINANCIAL",
-                    "Average annual turnover ‡ n5 crore for FY23-24 to FY25-26",
-                    "Yes",
-                    "Section VIII Q2"
-                ],
-                [
-                    "REQ-006",
-                    "TECHNICAL",
-                    "Processor i5 12th Gen or equivalent",
-                    "Yes",
-                    "Section VII 1"
-                ],
-                [
-                    "REQ-007",
-                    "TECHNICAL",
-                    "RAM ‡ 16 GB",
-                    "Yes",
-                    "Section VII 2"
-                ],
-                [
-                    "REQ-008",
-                    "TECHNICAL",
-                    "SSD ‡ 512 GB NVMe",
-                    "Yes",
-                    "Section VII 3"
-                ],
-                [
-                    "REQ-009",
-                    "TECHNICAL",
-                    "Windows 11 Pro",
-                    "Yes",
-                    "Section VII 5"
-                ],
-                [
-                    "REQ-010",
-                    "CERTIFICATION / QUALI",
-                    "TYGenuine manufacturer goods and traceable serial numbers",
-                    "Yes",
-                    "Section VII"
-                ],
-                [
-                    "REQ-011",
-                    "OEM / AUTHORIZATION",
-                    "Tender-specific OEM authorization if dealer",
-                    "Yes if applicable",
-                    "NIT / Form 1.3"
-                ],
-                [
-                    "REQ-012",
-                    "DELIVERY",
-                    "Delivery within 60 days",
-                    "Yes",
-                    "SCC-03"
-                ],
-                [
-                    "REQ-013",
-                    "WARRANTY",
-                    "3-year comprehensive onsite warranty",
-                    "Yes",
-                    "SCC-02"
-                ],
-                [
-                    "REQ-014",
-                    "COMMERCIAL",
-                    "Firm prices; taxes shown separately",
-                    "Yes",
-                    "GCC/SCC"
-                ],
-                [
-                    "REQ-015",
-                    "FINANCIAL",
-                    "Bid Securing Declaration",
-                    "Yes",
-                    "Form 7"
-                ]
-            ]
-        ]
+        "text": "",
+        "tables": []
     },
     {
         "page": 27,
-        "text": "Annexure D: Document Classification Test Set\nThis annexure is intentionally included to make the tender useful for the planned document-classification and RAG\npipeline. A bidder package can contain a single combined PDF; the system should classify pages/documents, preserve\npage numbers and then map evidence to requirements.\nPage span (mock) Document type Broad category\n1–2 PAN + GST certificates Legal / Statutory\n3–4 Non-blacklisting declaration Eligibility / Declaration\n5–7 Audited financial statements Financial\n8 CA turnover certificate Financial\n9–14 Purchase orders Experience / Qualification\n15–18 Completion certificates Experience / Qualification\n19–22 OEM authorization OEM / Authorization\n23–29 Product technical datasheet Technical\n30 Warranty declaration Certification / Quality\n31 Bid Securing Declaration Bid Security / Security\n32–34 Price BOQ Commercial / Price\nFor the MVP, these are expected evidence types rather than a requirement that every bidder submit every document.\nThe tender itself determines which evidence is required.\nDDLI/PROC/GOODS/2026-27/014 | FICTIONAL TRAINING DOCUMENT Page 27",
+        "text": "",
+        "tables": []
+    },
+    {
+        "page": 28,
+        "text": "",
+        "tables": []
+    },
+    {
+        "page": 29,
+        "text": "",
+        "tables": []
+    },
+    {
+        "page": 30,
+        "text": "",
+        "tables": []
+    },
+    {
+        "page": 31,
+        "text": "",
+        "tables": []
+    },
+    {
+        "page": 32,
+        "text": "",
+        "tables": []
+    },
+    {
+        "page": 33,
+        "text": "",
+        "tables": []
+    },
+    {
+        "page": 34,
+        "text": "",
+        "tables": []
+    },
+    {
+        "page": 35,
+        "text": "",
+        "tables": []
+    },
+    {
+        "page": 36,
+        "text": "",
+        "tables": []
+    },
+    {
+        "page": 37,
+        "text": "",
+        "tables": []
+    },
+    {
+        "page": 38,
+        "text": "",
+        "tables": []
+    },
+    {
+        "page": 39,
+        "text": "",
         "tables": [
             [
                 [
-                    "Page span (mock)",
-                    "Document type",
-                    "Broad category"
+                    ""
                 ],
                 [
-                    "1–2",
-                    "PAN + GST certificates",
-                    "Legal / Statutory"
+                    ""
                 ],
                 [
-                    "3–4",
-                    "Non-blacklisting declaration",
-                    "Eligibility / Declaration"
+                    ""
                 ],
                 [
-                    "5–7",
-                    "Audited financial statements",
-                    "Financial"
+                    ""
                 ],
                 [
-                    "8",
-                    "CA turnover certificate",
-                    "Financial"
+                    ""
                 ],
                 [
-                    "9–14",
-                    "Purchase orders",
-                    "Experience / Qualification"
+                    ""
                 ],
                 [
-                    "15–18",
-                    "Completion certificates",
-                    "Experience / Qualification"
+                    ""
                 ],
                 [
-                    "19–22",
-                    "OEM authorization",
-                    "OEM / Authorization"
+                    ""
                 ],
                 [
-                    "23–29",
-                    "Product technical datasheet",
-                    "Technical"
+                    ""
                 ],
                 [
-                    "30",
-                    "Warranty declaration",
-                    "Certification / Quality"
+                    ""
                 ],
                 [
-                    "31",
-                    "Bid Securing Declaration",
-                    "Bid Security / Security"
+                    ""
                 ],
                 [
-                    "32–34",
-                    "Price BOQ",
-                    "Commercial / Price"
+                    ""
+                ],
+                [
+                    ""
+                ],
+                [
+                    ""
+                ],
+                [
+                    ""
+                ],
+                [
+                    ""
+                ],
+                [
+                    ""
                 ]
             ]
         ]
     },
     {
-        "page": 28,
-        "text": "Mock Tender – End of Document\nDocument reference: DDLI/PROC/GOODS/2026-27/014\nPrepared for software-development and NLP/RAG testing only.\nFictional procuring organisation: Department of Digital Learning Infrastructure (DDLI).\nFictional bidder information, identifiers, URLs, prices, officials and OEM names in this document are synthetic.\nNo government seal, signature, portal record or legal validity is claimed.\nThe uploaded MTD explicitly describes itself as a template intended to be customised by procuring organisations; this\nmock follows that customisation concept while remaining clearly fictional. nfilecitenturn4file0nL25-L40n\nDDLI/PROC/GOODS/2026-27/014 | FICTIONAL TRAINING DOCUMENT Page 28",
+        "page": 40,
+        "text": "",
+        "tables": []
+    },
+    {
+        "page": 41,
+        "text": "",
+        "tables": []
+    },
+    {
+        "page": 42,
+        "text": "",
+        "tables": [
+            [
+                [
+                    "",
+                    ""
+                ],
+                [
+                    "",
+                    ""
+                ],
+                [
+                    "",
+                    ""
+                ]
+            ]
+        ]
+    },
+    {
+        "page": 43,
+        "text": "ELIGIBILITY CRITERIA\nSL. NO CRITERIA DOCUMENTS REQUIRED FOR\nCONFIRMATION\n1 Bidder (sole)/Lead Consortium Partner/Original For (a):\nEquipment Manufacturer (OEM) - Certificate of Incorporation\na) Should have been established and operating for issued by the Registrars of\na period of at least 05 years prior to the date of Companies “OR”\nTender. - Certificate of Registration by\nRegistrar of Firms “OR” GST\nRegistration in case of proprietary\nfirms “OR”\n-Relevant\nRegistration/Incorporation\nCertificate issued by Concerned\nState authorities in case of\nForeign Firms with proof of\naddress.\nNote: Bidders other than OEM,\nmust enclose proper\nauthorization certificate.\n2 Annual Turnover Audited annual accounts\nBidder (sole)/Lead Consortium Partner/Original\nEquipment Manufacturer\nShould have a minimum average annual turnover\nof 59,93,028/- for previous three financial years\nending 31-03-2023\n3 Bidder (sole)/All Consortium Partners a) Copy of registration certificates\nShould have PAN/ TAN/TIN/GST registration for Indian parties.\n4 Technical Experience: Copy of the Contract/Order &\nBidder (sole)/Lead Consortium Partner/Original other documentary evidence for\nEquipment Manufacturer successful supply &\nShould have supplied and commissioned at least commissioning to be submitted.\n02 similar type of works and same or higher\ncapacity in the last 05 years (ending on 31-10- List of order executed for similar\n2023) for minimum of 8.32 lakhs of project value. item indication order no. & date,\nname and full address of the\ncustomer, quantity, value, tax,\ndates of actual supply and\npreferable proof of satisfactory\nPerformance including after sales\nservice and maintenance support.\n5 Bidder (sole)/All Consortium Partners Self-certificated document to be\nUnconditional acceptance of all commercial terms submitted\nand conditions.",
+        "tables": [
+            [
+                [
+                    "SL. NO",
+                    "CRITERIA",
+                    "DOCUMENTS REQUIRED FOR\nCONFIRMATION"
+                ],
+                [
+                    "1",
+                    "Bidder (sole)/Lead Consortium Partner/Original\nEquipment Manufacturer (OEM)\na) Should have been established and operating for\na period of at least 05 years prior to the date of\nTender.",
+                    "For (a):\n- Certificate of Incorporation\nissued by the Registrars of\nCompanies “OR”\n- Certificate of Registration by\nRegistrar of Firms “OR” GST\nRegistration in case of proprietary\nfirms “OR”\n-Relevant\nRegistration/Incorporation\nCertificate issued by Concerned\nState authorities in case of\nForeign Firms with proof of\naddress.\nNote: Bidders other than OEM,\nmust enclose proper\nauthorization certificate."
+                ],
+                [
+                    "2",
+                    "Annual Turnover\nBidder (sole)/Lead Consortium Partner/Original\nEquipment Manufacturer\nShould have a minimum average annual turnover\nof 59,93,028/- for previous three financial years\nending 31-03-2023",
+                    "Audited annual accounts"
+                ],
+                [
+                    "3",
+                    "Bidder (sole)/All Consortium Partners\nShould have PAN/ TAN/TIN/GST registration",
+                    "a) Copy of registration certificates\nfor Indian parties."
+                ],
+                [
+                    "4",
+                    "Technical Experience:\nBidder (sole)/Lead Consortium Partner/Original\nEquipment Manufacturer\nShould have supplied and commissioned at least\n02 similar type of works and same or higher\ncapacity in the last 05 years (ending on 31-10-\n2023) for minimum of 8.32 lakhs of project value.",
+                    "Copy of the Contract/Order &\nother documentary evidence for\nsuccessful supply &\ncommissioning to be submitted.\nList of order executed for similar\nitem indication order no. & date,\nname and full address of the\ncustomer, quantity, value, tax,\ndates of actual supply and\npreferable proof of satisfactory\nPerformance including after sales\nservice and maintenance support."
+                ],
+                [
+                    "5",
+                    "Bidder (sole)/All Consortium Partners\nUnconditional acceptance of all commercial terms\nand conditions.",
+                    "Self-certificated document to be\nsubmitted"
+                ]
+            ]
+        ]
+    },
+    {
+        "page": 44,
+        "text": "BILL OF QUANTITIES\nDSR HSN DSR\nSL NO ANNEXURE Description Sub-description Unit Qty.\n2019 Code 2019\nPIPES AND ACCESSORIES\nSupply of 'C' class heavy duty MS Pipe conforming to IS 1239/3589 i/c fittings like elbows, tees, flanges, tapers, nuts bolts, gaskets etc. in\nITEM NO 1 6 ground including welding, excavation & providing cement concrete blocks as supports, anticorrosive treatment with coaltar/asphalt tape as per 7306 6.2 150 mm. Dia Metre 78\nIS 10221, refilling the trench etc. of following sizes complete as required. (MAKE: JINDAL (HISSAR), TATA, PRAKASH)\nITEM NO 2 7.1 25 mm dia RM 210\nITEM NO 3 7.2 32 mm dia RM 294\nITEM NO 4 7.3 40 mm dia RM 246\nSupply of 'C' class heavy duty MS pipe conforming to IS 3589/IS 1239 including Welding, fittings like elbows, tees, flanges, tapers, nuts bolts,\nITEM NO 5 7.4 50 mm dia RM 12\n7 gaskets etc. and fixing the pipe on the wall/ceiling with suitable clamp/support frame and painting with two or more coats of synthetic enamel 7306\nITEM NO 6 7.5 65 mm dia RM 12\npaint of required shade complete as required : (MAKE: JINDAL (HISSAR), TATA, PRAKASH)\nITEM NO 7 7.6 80 mm dia RM 24\nITEM NO 8 7.7 100 mm dia RM 48\nITEM NO 9 7.8 150 mm dia RM 126\nSupply Single headed external Internal hydrant valve with 1 No. 63 mm dia instantaneous FM Gunmetal/Stainless Steel coupling and cast iron\nSingle headed Stainless\nITEM NO 10 9 wheel, ISI marked, conforming to IS 5290 (type A) with blank Gunmetal/Stainless Steel cap and chain as required : (MAKE: SAVEMAX, 8481 9.2 RM 6\nsteel\nNEWAGE,OMEX)\nSupply single headed external yard hydrant valve with 1 No. 63 mm dia instantaneous FM Gunmetal/Stainless Steel coupling and cast iron\nSingle headed Stainless\nITEM NO 11 10 wheel, ISI marked, conforming to IS 5290 (type A) with blank Gunmetal/Stainless Steel cap and chain as required :(MAKE: SAVEMAX, 8481 10.2 RM 4\nsteel\nNEWAGE, OMEX)\nITEM NO 12 11.4 80 mm dia Set 10\nSupply of butterfly valve of PN 1.6 rating with bronze/gunmetal seat duly ISI marked complete with nuts, bolts, washers, gaskets conforming\n11 8481\nITEM NO 13 to IS 13095 of following sizes as required : 11.5 100 mm dia Set 2\nITEM NO 14 FIRE FIGHTING 11.6 150 mm dia Set 3\nWET RISER Supply of orifice plate made out of 6 mm thick stainless steel (Grade 304) with orifice of required size to be fitted between flange & landing\nITEM NO 15 HYDRANT & 13 valve of external and internal hydrants to reduce pressure at the outlet to the level of 3.5 kg/cm2 complete as required. (MAKE: SAVEMAX, 7307 Each 6\nSPRINKLE SYSTEM NEWAGE, OMEX)\n[ANNEXURE-I] Supply 63 mm dia, 15 m long RRL hose pipe with 63 mm dia male and female couplings duly bound with GI wire, rivets etc. conforming to IS Stainless Steel (Grade\nITEM NO 16 16 5909 16.2 Set 20\n636 (type-A) as required:(MAKE: SAVEMAX/OMEX/NEWAGE) 304)\nSupply first-aid Hose Reel with MS construction spray painted in post office red, conforming to IS 884 complete with the following as\nrequired. 20 mm nominal internal dia water hose thermoplastic (Textile reinforced) type -2 as per IS: 12585 20 mm nominal internal dia gun\nITEM NO 17 17 8424 17.1 30 m Set 4\nmetal globe valve & nozzle. Drum and brackets for fixing the equipments on wall. Connections from riser with 25 mm dia stop gun metal valve\n& M.S. Pipe and socket.(MAKE: SAVEMAX/OMEX/ NEWAGE)\nITEM NO 18 21.1 Pendent Sprinkler Each 40\n21 Supply 15mm dia quartzoid bulb type sprinklers of rating 68 degree centigrade with required accessories : 8424\nITEM NO 19 21.2 Upright Sprinkler Each 220\nSupply installation control valve of cast iron body, brass/bronze working parts comprising of water motor alarm, bronze seat clapper, clapper\narm and hydraulically driven mechanical gong bell to sound continuous alarm when the wet riser/sprinkler system activates, pressure gauges,\nITEM NO 20 24 8481 24.3 150mm dia Set 1\nemergency releases, strainer, pressure switch, cock valve complete with drain valve and bypass, test control box, ball valves, MS pipe of\nrequired size, flanges, orifice plate, gasket etc of following sizes as required :\nSupply sprinkler flexible pipe (UL Listed) of stainless steel complete with 15 NPT on reducer thread with maximum working pressure of 175\nITEM NO 21 25 PSI test pressure of 875 PSI (Burst) with branch line (Inlet) 25mm NPT male thread to sprinkler head (Outlet) 15mm NPT female thread with 8307 25.3 1200mm Set 40\nreducer, nipple, 2 side brackets, centre bracket, stockbar of following sizes complete as required.\nITEM NO 22 29 Supply adustable rosette plate for 15mm dia in white finish UL Listed or FM approved complete as required. 7907 Each 40\nSupply gun metal ball valve suitable for pressure 15 Kg/Cm2 and confirming to IS: 778 of the following size including providing necessary\nITEM NO 23 1 8481 a) 25 mm dia NOS 4\nunion / flange.\nSupply weather proof cabinet of size not less than 0.75 x 0.6 x 0.25 mtr made out of M.S. sheet not less than 1.5 mm thick having central\nopening and 4 mm thick glazed glass doors (Two nos.) suitably marked on the outside 'with the letters \"FIRE HOSE\" including necessary\nITEM NO 24 5 7310 NOS 6\nlocking arrangement and painting in red colour suitable to accommodate, external yard hydrant valve, 2 nos 15 mtr long Hose pipe, branch\npipe, nozzle and fire man's axe. It shall be mounted on boundary wall complete as required.\nDSR items\nITEM NO 25 INTELLIGENT 17.2.4 Supply intelligent analog addressable photothermal detector complete with mounting base complete as required. 8531 Each 12\nITEM NO 26 ADDRESSABLE FIRE 17.2.14 Supply addressable manual call point complete as required. 8531 Each 4\nITEM NO 27 DETECTION & 17.2.15 Supply addressable horn cum strobe complete as required. 8531 Each 4\nALARM Supply 2x1.5 sqmm Fire alarm armoured cable, 600/1000V rated with annealed copper conductor having XLPE insulation, steel wire\nITEM NO 28 17.5.2 8544 Metre 800\n[ANNEXURE-II] armouring & FRLS outer sheath complete as required.",
+        "tables": [
+            [
+                [
+                    "BILL OF QUANTITIES",
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null
+                ],
+                [
+                    "SL NO",
+                    "ANNEXURE",
+                    "DSR\n2019",
+                    "Description",
+                    "HSN\nCode",
+                    "DSR\n2019",
+                    "Sub-description",
+                    "Unit",
+                    "Qty."
+                ],
+                [
+                    "",
+                    "",
+                    "",
+                    "PIPES AND ACCESSORIES",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "ITEM NO 1",
+                    "FIRE FIGHTING\nWET RISER\nHYDRANT &\nSPRINKLE SYSTEM\n[ANNEXURE-I]",
+                    "6",
+                    "Supply of 'C' class heavy duty MS Pipe conforming to IS 1239/3589 i/c fittings like elbows, tees, flanges, tapers, nuts bolts, gaskets etc. in\nground including welding, excavation & providing cement concrete blocks as supports, anticorrosive treatment with coaltar/asphalt tape as per\nIS 10221, refilling the trench etc. of following sizes complete as required. (MAKE: JINDAL (HISSAR), TATA, PRAKASH)",
+                    "7306",
+                    "6.2",
+                    "150 mm. Dia",
+                    "Metre",
+                    "78"
+                ],
+                [
+                    "ITEM NO 2",
+                    null,
+                    "7",
+                    "Supply of 'C' class heavy duty MS pipe conforming to IS 3589/IS 1239 including Welding, fittings like elbows, tees, flanges, tapers, nuts bolts,\ngaskets etc. and fixing the pipe on the wall/ceiling with suitable clamp/support frame and painting with two or more coats of synthetic enamel\npaint of required shade complete as required : (MAKE: JINDAL (HISSAR), TATA, PRAKASH)",
+                    "7306",
+                    "7.1",
+                    "25 mm dia",
+                    "RM",
+                    "210"
+                ],
+                [
+                    "ITEM NO 3",
+                    null,
+                    null,
+                    null,
+                    null,
+                    "7.2",
+                    "32 mm dia",
+                    "RM",
+                    "294"
+                ],
+                [
+                    "ITEM NO 4",
+                    null,
+                    null,
+                    null,
+                    null,
+                    "7.3",
+                    "40 mm dia",
+                    "RM",
+                    "246"
+                ],
+                [
+                    "ITEM NO 5",
+                    null,
+                    null,
+                    null,
+                    null,
+                    "7.4",
+                    "50 mm dia",
+                    "RM",
+                    "12"
+                ],
+                [
+                    "ITEM NO 6",
+                    null,
+                    null,
+                    null,
+                    null,
+                    "7.5",
+                    "65 mm dia",
+                    "RM",
+                    "12"
+                ],
+                [
+                    "ITEM NO 7",
+                    null,
+                    null,
+                    null,
+                    null,
+                    "7.6",
+                    "80 mm dia",
+                    "RM",
+                    "24"
+                ],
+                [
+                    "ITEM NO 8",
+                    null,
+                    null,
+                    null,
+                    null,
+                    "7.7",
+                    "100 mm dia",
+                    "RM",
+                    "48"
+                ],
+                [
+                    "ITEM NO 9",
+                    null,
+                    null,
+                    null,
+                    null,
+                    "7.8",
+                    "150 mm dia",
+                    "RM",
+                    "126"
+                ],
+                [
+                    "ITEM NO 10",
+                    null,
+                    "9",
+                    "Supply Single headed external Internal hydrant valve with 1 No. 63 mm dia instantaneous FM Gunmetal/Stainless Steel coupling and cast iron\nwheel, ISI marked, conforming to IS 5290 (type A) with blank Gunmetal/Stainless Steel cap and chain as required : (MAKE: SAVEMAX,\nNEWAGE,OMEX)",
+                    "8481",
+                    "9.2",
+                    "Single headed Stainless\nsteel",
+                    "RM",
+                    "6"
+                ],
+                [
+                    "ITEM NO 11",
+                    null,
+                    "10",
+                    "Supply single headed external yard hydrant valve with 1 No. 63 mm dia instantaneous FM Gunmetal/Stainless Steel coupling and cast iron\nwheel, ISI marked, conforming to IS 5290 (type A) with blank Gunmetal/Stainless Steel cap and chain as required :(MAKE: SAVEMAX,\nNEWAGE, OMEX)",
+                    "8481",
+                    "10.2",
+                    "Single headed Stainless\nsteel",
+                    "RM",
+                    "4"
+                ],
+                [
+                    "ITEM NO 12",
+                    null,
+                    "11",
+                    "Supply of butterfly valve of PN 1.6 rating with bronze/gunmetal seat duly ISI marked complete with nuts, bolts, washers, gaskets conforming\nto IS 13095 of following sizes as required :",
+                    "8481",
+                    "11.4",
+                    "80 mm dia",
+                    "Set",
+                    "10"
+                ],
+                [
+                    "ITEM NO 13",
+                    null,
+                    null,
+                    null,
+                    null,
+                    "11.5",
+                    "100 mm dia",
+                    "Set",
+                    "2"
+                ],
+                [
+                    "ITEM NO 14",
+                    null,
+                    null,
+                    null,
+                    null,
+                    "11.6",
+                    "150 mm dia",
+                    "Set",
+                    "3"
+                ],
+                [
+                    "ITEM NO 15",
+                    null,
+                    "13",
+                    "Supply of orifice plate made out of 6 mm thick stainless steel (Grade 304) with orifice of required size to be fitted between flange & landing\nvalve of external and internal hydrants to reduce pressure at the outlet to the level of 3.5 kg/cm2 complete as required. (MAKE: SAVEMAX,\nNEWAGE, OMEX)",
+                    "7307",
+                    "",
+                    "",
+                    "Each",
+                    "6"
+                ],
+                [
+                    "ITEM NO 16",
+                    null,
+                    "16",
+                    "Supply 63 mm dia, 15 m long RRL hose pipe with 63 mm dia male and female couplings duly bound with GI wire, rivets etc. conforming to IS\n636 (type-A) as required:(MAKE: SAVEMAX/OMEX/NEWAGE)",
+                    "5909",
+                    "16.2",
+                    "Stainless Steel (Grade\n304)",
+                    "Set",
+                    "20"
+                ],
+                [
+                    "ITEM NO 17",
+                    null,
+                    "17",
+                    "Supply first-aid Hose Reel with MS construction spray painted in post office red, conforming to IS 884 complete with the following as\nrequired. 20 mm nominal internal dia water hose thermoplastic (Textile reinforced) type -2 as per IS: 12585 20 mm nominal internal dia gun\nmetal globe valve & nozzle. Drum and brackets for fixing the equipments on wall. Connections from riser with 25 mm dia stop gun metal valve\n& M.S. Pipe and socket.(MAKE: SAVEMAX/OMEX/ NEWAGE)",
+                    "8424",
+                    "17.1",
+                    "30 m",
+                    "Set",
+                    "4"
+                ],
+                [
+                    "ITEM NO 18",
+                    null,
+                    "21",
+                    "Supply 15mm dia quartzoid bulb type sprinklers of rating 68 degree centigrade with required accessories :",
+                    "8424",
+                    "21.1",
+                    "Pendent Sprinkler",
+                    "Each",
+                    "40"
+                ],
+                [
+                    "ITEM NO 19",
+                    null,
+                    null,
+                    null,
+                    null,
+                    "21.2",
+                    "Upright Sprinkler",
+                    "Each",
+                    "220"
+                ],
+                [
+                    "ITEM NO 20",
+                    null,
+                    "24",
+                    "Supply installation control valve of cast iron body, brass/bronze working parts comprising of water motor alarm, bronze seat clapper, clapper\narm and hydraulically driven mechanical gong bell to sound continuous alarm when the wet riser/sprinkler system activates, pressure gauges,\nemergency releases, strainer, pressure switch, cock valve complete with drain valve and bypass, test control box, ball valves, MS pipe of\nrequired size, flanges, orifice plate, gasket etc of following sizes as required :",
+                    "8481",
+                    "24.3",
+                    "150mm dia",
+                    "Set",
+                    "1"
+                ],
+                [
+                    "ITEM NO 21",
+                    null,
+                    "25",
+                    "Supply sprinkler flexible pipe (UL Listed) of stainless steel complete with 15 NPT on reducer thread with maximum working pressure of 175\nPSI test pressure of 875 PSI (Burst) with branch line (Inlet) 25mm NPT male thread to sprinkler head (Outlet) 15mm NPT female thread with\nreducer, nipple, 2 side brackets, centre bracket, stockbar of following sizes complete as required.",
+                    "8307",
+                    "25.3",
+                    "1200mm",
+                    "Set",
+                    "40"
+                ],
+                [
+                    "ITEM NO 22",
+                    null,
+                    "29",
+                    "Supply adustable rosette plate for 15mm dia in white finish UL Listed or FM approved complete as required.",
+                    "7907",
+                    "",
+                    "",
+                    "Each",
+                    "40"
+                ],
+                [
+                    "ITEM NO 23",
+                    null,
+                    "1",
+                    "Supply gun metal ball valve suitable for pressure 15 Kg/Cm2 and confirming to IS: 778 of the following size including providing necessary\nunion / flange.",
+                    "8481",
+                    "a)",
+                    "25 mm dia",
+                    "NOS",
+                    "4"
+                ],
+                [
+                    "ITEM NO 24",
+                    null,
+                    "5",
+                    "Supply weather proof cabinet of size not less than 0.75 x 0.6 x 0.25 mtr made out of M.S. sheet not less than 1.5 mm thick having central\nopening and 4 mm thick glazed glass doors (Two nos.) suitably marked on the outside 'with the letters \"FIRE HOSE\" including necessary\nlocking arrangement and painting in red colour suitable to accommodate, external yard hydrant valve, 2 nos 15 mtr long Hose pipe, branch\npipe, nozzle and fire man's axe. It shall be mounted on boundary wall complete as required.",
+                    "7310",
+                    "",
+                    "",
+                    "NOS",
+                    "6"
+                ],
+                [
+                    "",
+                    "",
+                    "",
+                    "DSR items",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "ITEM NO 25",
+                    "INTELLIGENT\nADDRESSABLE FIRE\nDETECTION &\nALARM\n[ANNEXURE-II]",
+                    "17.2.4",
+                    "Supply intelligent analog addressable photothermal detector complete with mounting base complete as required.",
+                    "8531",
+                    "",
+                    "",
+                    "Each",
+                    "12"
+                ],
+                [
+                    "ITEM NO 26",
+                    null,
+                    "17.2.14",
+                    "Supply addressable manual call point complete as required.",
+                    "8531",
+                    "",
+                    "",
+                    "Each",
+                    "4"
+                ],
+                [
+                    "ITEM NO 27",
+                    null,
+                    "17.2.15",
+                    "Supply addressable horn cum strobe complete as required.",
+                    "8531",
+                    "",
+                    "",
+                    "Each",
+                    "4"
+                ],
+                [
+                    "ITEM NO 28",
+                    null,
+                    "17.5.2",
+                    "Supply 2x1.5 sqmm Fire alarm armoured cable, 600/1000V rated with annealed copper conductor having XLPE insulation, steel wire\narmouring & FRLS outer sheath complete as required.",
+                    "8544",
+                    "",
+                    "",
+                    "Metre",
+                    "800"
+                ]
+            ]
+        ]
+    },
+    {
+        "page": 45,
+        "text": "Emergency Exit Light\nSupply wall mounting / ceiling hung type, self contained Rechargeable LED Emergency Egress Routes maintained type Signage/ Escape\nRoute/ Directional Light with LED lamp having multi LED illumination on normal as well as mains failure on self contained battery source\ncomplete with G.I. chain, brackets, hardwares etc. as required for fixing. ON resumption of mains supply, the lamp switches back to the mains\nITEM NO 29 automatically and simultaneously starts recharging the battery to the required level. The Signage Fitting shall be fabricated from 22SWG 9405 Each 4\nC.R.C.A.steel, Epoxy polyester powder coating, White in colour, 2 m.m. thick milky acrylic with vinyl pasted on it, complete with\nrechargeable Ni-Cd / Ni-Mh battery for 3 Hours backup, 16 to 24 hours recharging period with constant current charger. Input - 230V, 50 HZ,\nEMERGENCY EXIT\nconfirms to IS: 10322. (Ref PROLITE Autoglo Model -PEL LED Wall Mounted A.D. or equivalent).\nSIGNAGE\nSupply wall mounting / ceiling hung type, self contained Rechargeable LED Emergency Egress Routes maintained type Signage/ Escape\n[ANNEXURE-III]\nRoute/ Directional Light with LED lamp having multi LED illumination on normal as well as mains failure on self contained battery source\ncomplete with G.I. chain, brackets, hardwares etc. as required for fixing. ON resumption of mains supply, the lamp switches back to the mains\nITEM NO 30 automatically and simultaneously starts recharging the battery to the required level. The Signage Fitting shall be fabricated from 22SWG 9405 Each 2\nC.R.C.A.steel, Epoxy polyester powder coating, White in colour, 2 m.m. thick milky acrylic with vinyl pasted on it, complete with\nrechargeable Ni-Cd / Ni-Mh battery for 3 Hours backup, 16 to 24 hours recharging period with constant current charger. Input - 230V, 50 HZ,\nconfirms to IS: 10322. (Ref PROLITE Autoglo Model -PEL LED Wall Mounted A.D. or equivalent).\nITEM NO 31 SERVICE Installation, Commissioning & Testing of the complete firefighting Systems Lum 1",
+        "tables": [
+            [
+                [
+                    "",
+                    "",
+                    "",
+                    "Emergency Exit Light",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "ITEM NO 29",
+                    "EMERGENCY EXIT\nSIGNAGE\n[ANNEXURE-III]",
+                    "",
+                    "Supply wall mounting / ceiling hung type, self contained Rechargeable LED Emergency Egress Routes maintained type Signage/ Escape\nRoute/ Directional Light with LED lamp having multi LED illumination on normal as well as mains failure on self contained battery source\ncomplete with G.I. chain, brackets, hardwares etc. as required for fixing. ON resumption of mains supply, the lamp switches back to the mains\nautomatically and simultaneously starts recharging the battery to the required level. The Signage Fitting shall be fabricated from 22SWG\nC.R.C.A.steel, Epoxy polyester powder coating, White in colour, 2 m.m. thick milky acrylic with vinyl pasted on it, complete with\nrechargeable Ni-Cd / Ni-Mh battery for 3 Hours backup, 16 to 24 hours recharging period with constant current charger. Input - 230V, 50 HZ,\nconfirms to IS: 10322. (Ref PROLITE Autoglo Model -PEL LED Wall Mounted A.D. or equivalent).",
+                    "9405",
+                    "",
+                    "",
+                    "Each",
+                    "4"
+                ],
+                [
+                    "ITEM NO 30",
+                    null,
+                    "",
+                    "Supply wall mounting / ceiling hung type, self contained Rechargeable LED Emergency Egress Routes maintained type Signage/ Escape\nRoute/ Directional Light with LED lamp having multi LED illumination on normal as well as mains failure on self contained battery source\ncomplete with G.I. chain, brackets, hardwares etc. as required for fixing. ON resumption of mains supply, the lamp switches back to the mains\nautomatically and simultaneously starts recharging the battery to the required level. The Signage Fitting shall be fabricated from 22SWG\nC.R.C.A.steel, Epoxy polyester powder coating, White in colour, 2 m.m. thick milky acrylic with vinyl pasted on it, complete with\nrechargeable Ni-Cd / Ni-Mh battery for 3 Hours backup, 16 to 24 hours recharging period with constant current charger. Input - 230V, 50 HZ,\nconfirms to IS: 10322. (Ref PROLITE Autoglo Model -PEL LED Wall Mounted A.D. or equivalent).",
+                    "9405",
+                    "",
+                    "",
+                    "Each",
+                    "2"
+                ],
+                [
+                    "ITEM NO 31",
+                    "SERVICE",
+                    "",
+                    "Installation, Commissioning & Testing of the complete firefighting Systems",
+                    "",
+                    "",
+                    "",
+                    "Lum",
+                    "1"
+                ]
+            ]
+        ]
+    },
+    {
+        "page": 46,
+        "text": "Bidder Security Declaration\nDate:\nFrom:\nTo: Mishra Dhatu Nigam Limited\nTender Reference Number:\nBid No. (If any):\nWe, the undersigned, declare that: We understand that, according to Midhani tender terms and\nconditions, bids must be supported by a Bid-Security Declaration. We accept that we will automatically\nbe suspended from being eligible for bidding in any contract with Midhani for the period of time of 2\nyears without prejudice to Midhani right to take any other action as deemed fit in case we withdraw or\nchange /amend our Bid during the period of bid validity .\nWe understand this Bid-Securing Declaration shall expire if we are not the successful Bidder.\nSignature and seal:\nName:\nIn the capacity of:\nDate:\nNote: In case of a Joint Venture, the Bid-Securing Declaration must be signed by all partners to the Joint\nVenture that submits the bid.",
+        "tables": []
+    },
+    {
+        "page": 47,
+        "text": "DECLARATION TO BE GIVEN BY VENDORS ALONG WITH BID (MANDATORY) ON THEIR LETTER HEAD\nIN CASE THE VALUE OF PROCUREMENT IS MORE THAN 5 LAKHS\nTender Ref No: With reference to the above mentioned RFP/Tender, we hear by confirm that we\nhave read the Public Procurement (Preference to Make in India) Order No. P-45021/2/2017-PP (BE-\nII) revision dated 16/9/2020 and the updates and the percentage of local (Indian) content in the\noffered items/service is _______________ and the place/places of value addition done is/are\n________________.\nSignature with seal\nNote: In cases of procurement for value in excess of 10 Crores the Class-I /Class-II local supplier shall\nbe required to provide a certificate from statutory auditor or cost auditor (In case of companies)or\nfrom a practicing cost accountant or practicing charted accountant (In respect of suppliers other\nthan companies) giving the percentage of local content.",
+        "tables": []
+    },
+    {
+        "page": 48,
+        "text": "CAPITAL\nGENERAL TERMS AND CONDITIONS FOR INDEGENOUS SOURCES\n1. DEFINITIONS:\nPURCHASER:\nThe term \"Purchaser\" as used herein shall mean Mishra Dhatu Nigam Limited,\nincorporated under the Companies Act, 1956, and having its registered office at P.O.\nKanchanbagh, Hyderabad - 500 058, India, and shall include its successors and\nassigns.\nTENDERER:\nThe term \"Tenderer\" shall mean the person, firm or corporation submitting a tender\nagainst the Invitation to tender and shall include his/its heirs, executors,\nadministrators, legal representatives, successors and assigns.\nSUCCESSFUL TENDERER/SUPPLIER/CONTRACTOR:\nThe term “Successful Tenderer/Supplier/Contractor\" shall mean the Tenderer whose\ntender has been accepted and shall include his/its heirs, executors, administrators,\nlegal representatives, successors and assigns approved by the Purchaser.\n2. The Tenderer shall indicate/furnish the following in his offer (if applicable):\na. Manufacturer’s Name & Address.\nb. Country of origin of goods.\nc. Delivery period.\nd. Mode of packing.\ne. Net weight and Gross weight.\nf. Technical Literature / Catalogue/Specifications.\ng. Details of Shelf life, if any, applicable for the goods offered.\nh. Your Banker’s Name, Address & Details.\ni. A confirmation that the price quoted is your lowest export price and is the\nsame as you would normally quote to Government department and other\nfavored customers.\nj. HSN Code for all the Items quoted along with applicable GST Rates.\nk. TARIFF HEAD UNDER H. S. (HARMONISED SYSTEM).\n3. Any Order resulting from this invitation to tender shall be governed by our General\nTerms and Conditions of Contract and the supplier quoting against this enquiry\nShall be deemed / to have read and understood the same.\n4. Where counter terms and conditions have been offered by the Tenderer, the\npurchaser shall not be governed by these unless specific acceptances have been\ngiven in writing in the order by the Purchaser\n5. The offer should be complete in all respects. Full particulars and descriptive\nliterature and drawings should be forwarded along with the quotation. The make of\nthe items offered should be clearly specified. Materials should be offered strictly\nconfirming to our specifications. The deviations if any, should be clearly indicated in\nthe quotation. Test certificates must be produced, wherever required where\nstipulated samples should be forwarded along with the quotation. Material\nconfirming to IS will be preferred.\n6. PRICES:\nPrice Basis: FOR Midhani, Hyderabad basis shall be quoted. The prices must be unit\nshown inclusive of packing, forwarding, insurance, Octroi duty and delivery\ncharges and should be on FOR destination basis. Offers from local suppliers\nshould be for free delivery at our stores\nPage 1 of 8",
+        "tables": []
+    },
+    {
+        "page": 49,
+        "text": "CAPITAL\nGENERAL TERMS AND CONDITIONS FOR INDEGENOUS SOURCES\n7. TAXES:\nThe Tenderer shall indicate their GST Number & date in the quotation. Taxes payable\nhave to be clearly indicated in the quotation. The nature of duties and applicable\npercentages thereof and the items on which such taxes are leviable along with\napplicable HSN code shall be indicated in the Offer. Payment of taxes shall be as\napplicable at the time of supply and on production of documentary evidence.\nStatutory variation in the rate of Taxes during the delivery period shall be\naccepted.\n8. RIGHT OF ACCEPTANCE:\nThe purchaser does not bind himself to accept the lowest or any other tender and\nreserves the right of accepting the whole or any part of the tender or portion of the\nquantity offered. Within a period of six months from the date of completion of the\norder, the Purchaser further reserves the right to place order on the successful\ntenderer for an additional upto 100% of the original ordered quantity.\n9. INSPECTION:\nThe Purchaser reserves the right to get the Stores inspected before\ncommencement of supplier/ or on arrival at our factory by an inspecting officer\nauthorized by the Purchaser. The Tenderer should be in a position show and/ or\nsend samples of material on demand.\n10. PACKING:\nThe stores should be securely packed and properly marked to avoid loss or\ndamage in Transit by Rail /Road.\n11. TO RECOVER LIQUIDATED DAMAGES:\nLiquidated Damages shall be levied against Suppliers/Contractors in the event of\nunsatisfactory, delayed or non supply of materials/execution of Contract beyond the\ndate of delivery/completion of job. LD is leviable at the rate of 1% of the total\norder/contract prices per week or part there of subject to a maximum 10% of the\norder/contract prices including taxes & duties without prejudice to the right of the\npurchaser to take any other action. The amount shall also be recoverable from any\nother contract on account of the supplier. The payment or deduction of such\ndamages shall not relieve the contractor from his obligations to complete the\nwork or from any other of his obligations and liabilities under the contract. MIDHANI\nshall issue GST Invoice/Debit Note for the LD deducted on the name of\nSupplier/Contractor against which GST credit may be availed, if applicable\n12. RISK PURCHASE:\nThe supply of all items must be completed satisfactory and within the specified\nperiod in the order failing which, the Purchaser reserves the right to purchase\nstores from other sources at the suppliers cost and risk.\n13. GUARANTEE:\nThe supplier shall guarantee the store supplied in respect of good design, quality\nand workmanships for a period of 12 months from the commissioning or 18 months\nfrom the date of supply whichever is earlier.\n14. VALIDITY:\nThe offer should be valid for a minimum period of 180 days from the date of\nopening of tender.\nPage 2 of 8",
+        "tables": []
+    },
+    {
+        "page": 50,
+        "text": "CAPITAL\nGENERAL TERMS AND CONDITIONS FOR INDEGENOUS SOURCES\n15. ADDENDA TO TENDER DOCUMENTS:\nThe Purchaser reserves the right to issue addenda to the tender documents to\nclarify, modify, supplement or delete any of the condition, clause or items stated in\nthe tender documents issued with this invitation to Tender. Each addendum issued\nwill be distributed to each tenderer or his authorized representative and the\naddendum so issued shall form a part of the original tender documents to be\nreviewed as required.\n16. In case the item offered is covered by DGS & D Rae Contract, the rate should\nbe as per R/C and a copy of R/C should be enclosed with the offer.\n17. EARNEST MONEY DEPOSIT (EMD):\nTenderer/Bidder are required to furnish EMD of amount specified in tender (NIT)\nThrough Online or in the form Bank Guarantee (BG) is acceptable.\nAll Bidders are requested to Submit the “EMD & Security Deposit “online through the\nbelow Link: http://ebs.in/midhani/public/ (or)\nVisit Midhani website http://www.midhani-india.in > Purchase > Tenders > TENDER\nFEE, EMD FEE(EARNEST MONEY DEPOSIT) AND SECURITY DEPOSIT - ONLINE\nPAYMENT\nIn case of EMD/SD in the form of Bank Guarantee(BG), bidder shall submit BG as\nper format in the tender document,\ni. In Indian Currency – from a Nationalized Bank or Scheduled Bank\nencashable in India.\nii. In Foreign Currency – from SBI, Frankfurt/ SBI, New York / any\nNationalized Bank or Scheduled Bank encashable in India.\niii. EMD Bank guarantee shall be valid for a period of 90 days.\niv. Security Deposit Bank guarantee shall be valid till material is received and\naccepted at Midhani.\nEMD Exemption:\n(I) As per Public Procurement Policy(PPP) for Micro & Small Enterprises (MSEs)\norder,2012 vide Gazette notification dated 23.03.2012 by Ministry of Micro, Small and\nMedium Enterprises of Govt of India, the following benefits will be extended to the\nMSEs.\nEMD is exempted for Micro & Small Enterprises(MSEs ) registered with\nDIC/NSIC/KVIC/Udyog Aadhar Memorandum (UAM)issued by MoMSME or any other\nbody specified by Ministry of MSME.\nPurchase Preference: The following Purchase preference procedure is followed as\nper Ministry guidelines for award of quantity/order\nType of Tender Price quoted by MSE Finalization of tender\n(i) If tender can be split L-1 Full order on MSE\n(ii)If tender can be Split Not L-1 but with in L1+15% 20% order on MSE subject\nto matching with L-1 price\n(iii)If tender cannot be L-1 Full order on MSE\nsplit\n(iv)If tender cannot be Not L-1 but within Full order on MSE subject\nsplit L-1 to matching with L-1 Price\n+15%\nPage 3 of 8",
+        "tables": [
+            [
+                [
+                    null,
+                    "TENDER"
+                ],
+                [
+                    "FEE, EMD FEE(EARNEST MONEY DEPOSIT) AND SECURITY DEPOSIT - ONLINE",
+                    null
+                ],
+                [
+                    "PAYMENT",
+                    null
+                ]
+            ],
+            [
+                [
+                    "Type of Tender",
+                    "Price quoted by MSE",
+                    "Finalization of tender"
+                ],
+                [
+                    "(i) If tender can be split",
+                    "L-1",
+                    "Full order on MSE"
+                ],
+                [
+                    "(ii)If tender can be Split",
+                    "Not L-1 but with in L1+15%",
+                    "20% order on MSE subject\nto matching with L-1 price"
+                ],
+                [
+                    "(iii)If tender cannot be\nsplit",
+                    "L-1",
+                    "Full order on MSE"
+                ],
+                [
+                    "(iv)If tender cannot be\nsplit",
+                    "Not L-1 but within\nL-1\n+15%",
+                    "Full order on MSE subject\nto matching with L-1 Price"
+                ]
+            ]
+        ]
+    },
+    {
+        "page": 51,
+        "text": "CAPITAL\nGENERAL TERMS AND CONDITIONS FOR INDEGENOUS SOURCES\nNote:\n(i) In case more than one MSE enterprise quotes same price, the supply/order\nshall shared proportionally (to tender quantity) if tender can be split.\n(ii) If the MSE who have quoted lowest rate among the MSEs in the price band of\nL-1\n+ 15% do not agree to match the rate of L-1 of the tender, then the next ranked MSE\nbidder who has quoted within the price band of L1+15% in order shall be given\nchance to match the rate of L-1 for award of the quantity/order.\n(ii) All Central PSU’s & Government departments / Authorities as well as Original\nRaw Material Manufacturers may be exempt from submission of EMD in all\ntenders.\n18. SECURITY DEPOSIT (SD):\nThe successful tenderer/Bidder shall be required to furnish SD as specified in tender\n(NIT) within 21 days from the date of Purchase Order. In case Security Deposit is not\nsubmitted within the stipulated time as above, interest @ 12% p.a. shall be levied for\nthe period of delay beyond the stipulated time. Interest as above may be either\ndeposited by the supplier / contractor or recovered from any amounts due to the\nsupplier / contractor.\nThe security deposit shall be for the due and faithful performance of the contract and\nshall remain binding not withstanding such variations, alterations or extensions of\ntime as it may be made, given, conceded or agreed to between the\nSupplier/Contractor and Purchaser.\nThe Security Deposit furnished by the successful tenderer will be subject to the\nTerms & Conditions of the order/contract finally concluded between the parties and\nthe Purchaser will not be liable for payment of any interest on the security\ndeposit or any depreciation thereof.\nThe Security Deposit shall be refunded on application by the contractor after\nexpiry of the contract period and after he has discharges all his obligations under\nthe contract and produced a ceritificate from the Purchaser’s authorized\nrepresentatives certifying the due completion & acceptance of the work.\nAll Government Departments and Central PSUs are exempted from payment of\nSecurity Deposit. In all cases where SD is exempted, in case of failure of the\nbidder to accept / execute the contract as per agreed terms, the bidder shall not\nbe permitted to participate in the re-tender for the same item. Suitable penal action\nin accordance with other provisions of the Tender shall also be applicable.\n19. MAKE IN INDIA:\nPublic Procurement (Preference to Make in India) Clause:\nPurchase preference will be granted as per Public Procurement (Preference to\nMake in India), Order-2017 as amended, issued by DPIIT/Ministry of Commerce\nand Industry.\nThis tender notice/RFP complies with Public Procurement (Preference to Make in\nIndia), Order 2017 by Department of Industrial Policy and Promotion, Ministry of\nCommerce and Industry Government of India issued vide letter No. P-45021/2/2017-\nB.E-II dated: 15th June’2017 and as amended. (For latest updates refer to\nwww.dpiit.gov.in).The following is add-on information. However it is mandatory to\nrefer website www.dpiit.gov.in for latest update prior to responding for this tender.\nBrief of recent amendment issued vide letter No: P-45021/2/2017-PP (BE-II) dated:\n16th Sept’2020 is given below.\nPage 4 of 8",
+        "tables": []
+    },
+    {
+        "page": 52,
+        "text": "CAPITAL\nGENERAL TERMS AND CONDITIONS FOR INDEGENOUS SOURCES\n(a) Types of Suppliers:\nClass – I Local Supplier : Local content = 50% Minimum\nClass – II Local Supplier : Local content = 20% Minimum and less\nthan 50%\nNon-Local Supplier : Local content = Less than 20%\n(b) Margin of purchase preference = 20%\n(c) Preference (s):\ni. “Class-I Local Supplier” is only eligible to bid irrespective of bid value for\nwhich Nodal ministry has declared there is sufficient local capacity available\nfor the tendered stores/service.\nii. “Class-I Local” Supplier and “Class-II Local Supplier” as defined under the\norder shall be eligible to bid for procurements except when Global tender\nenquiry has been issued. In Global tender enquiries, non local suppliers shall\nalso be eligible to bid along with ‘Class-I Local Supplier’ and “Class-II Local\nSuppliers’.\niii. Works includes Engineering, procurement and construction (EPC) contracts\nand services include system integrator (SI) contracts\n(d) L1-Declaration Methodology for divisible goods or works:\ni. Among all qualified bids, Lowest bid is termed as L1\nii. If L1 = Class-I Local Supplier, full quantity will be awarded to L1;\niii. If L1 bid is not Class-I local supplier, 50% of the order quantity shall be\nawarded to L1 and balance 50% quantity will be awarded to the lowest bidder\namong the “Class-I Local Suppliers” to match the L1 price and subject to his\nquoted price falling within 20% of L1 price; If fails to match, the same will be\noffered to next higher bidder among Class-I Local Suppliers and so on. In\ncase some quantity left uncovered on class-I local suppliers, such balance\nquantity shall be awarded to L1.\n(e) L1-Declaration Methodology for non-divisible goods or works:\ni. Among all qualified bids, Lowest bid is termed as L1\nii. If L1 = Class-I Local Supplier, order will be awarded to L1\niii. If L1 = Not a Class-I Local Supplier then order will be awarded to the lowest\nbidder among the “Class-I Local Suppliers” to match the L1 price subject to\nhis quoted price falling within 20% of L1 price.\niv. If fails to match, the same will be offered to next higher bidder among Class-I\nLocal Suppliers and so on.\nv. In case none of the Class-I Local Suppliers matches the L1 Price, then order\nshall be awarded to L1.\n(f) Verification of Local Content:\ni. The Class-I Local Supplier / Class-II Local Supplier need to provide\npercentage of local content, location(s) of value addition and self-\ncertification to this effect along with their technical bidding document.\nii. For procurement value more than Rs. 10 Crores, the Class -I Local Supplier /\nClass-II Local Supplier need to provide percentage of local content,\nlocation(s) of value addition and certification to this effect obtained from\nStatutory Auditor / Cost Auditor (for companies) or from Practicing Cost\nAccountant or Practicing Charted Accountant (for other than companies)\nalong with their technical bidding document.\niii. In case any Bidder provides false certification with respect to local contents\netc, bidder or their successor(s) can be debarred up to two years as per\nPage 5 of 8",
+        "tables": []
+    },
+    {
+        "page": 53,
+        "text": "CAPITAL\nGENERAL TERMS AND CONDITIONS FOR INDEGENOUS SOURCES\nprovisions of GFR along with such other actions as may be permissible\nunder law.\nNote: For complete details, please refer Public Procurement (Preference to Make in\nIndia) Order 2017 P-45021/2/217-PP (BE-II) revision dated: 16th Sept’2020 (Enclosed)\n20. NO CLAIM OR COMPENSATION FOR SUBMISSION OF TENDER:\nThe tenderers whose tenders are not accepted shall not be entitled to claim any\ncosts, charges and expenses of the tender, incidental to or incurred by them,\nthrough or in connection with their submission of tenders even though the\nPurchaser may elect to withdraw the invitation to tender.\n21. LOWEST TENDER NOT NECESSARY TO BE ACCEPTED:\nThe Purchaser is not bound to accept the lowest or any tender or to assign\nreasons for its non-acceptance. The Purchaser also reserves the right to accept the\ntender either in whole or in part.\n22. PRICE NEGOTIATIONS:\nPrice negotiations as such shall not be held, except in the case of negotiations\nwith the lowest tenderer and accordingly, the tenderers shall have to submit their\nbest commercial bids.\n23. LOADING IN CASE OF COMMERCIAL DEVIATIONS:\nIn case of any acceptable commercial deviation, MIDHANI may evaluate the prices\nwith appropriate loading at One year MCLR rate + 0.5% of SBI prevailing on the\ndate of Technical bid opening.\nThe comparative assessment of offers received would be made on equal footing\ntaking into account the financial implications for the deviations in terms and\nconditions. Conditional discounts offered by the tenderers for coverage within a\nshorter period for early inspection / payment etc., shall not be considered at the\ntime of evaluation of tenders.\n24. ARBITRATION:\nAny dispute(s) or difference(s) whatsoever arises under or out of or in connection\nwith the EOI/contract, or in respect of any defined legal relationship associated\ntherewith or derived there from, shall be resolved/settled amicably, through mutual\nnegotiation; failing which the differences shall be resolved by way of arbitration in\naccordance with the International Centre for Alternative Dispute Resolution (ICADR)\nArbitration Rules 1996. The authority to appoint the arbitrator(s) shall be the\nInternational Centre for Alternative Dispute Resolution (ICADR). And will provide\nadministrative services in accordance with ICADR Arbitration Rules 1996. The\nseat of arbitration shall be India. The language of the arbitration proceeding shall be\nEnglish. The place of arbitration proceedings shall be Hyderabad, Telangana, India.\nIn case of PSU/Government organization DPE guidelines in force or as amended\nfrom time to time shall be applicable. In the event of any dispute or difference\nrelating to the interpretation and application of the provisions of commercial\ncontract(s) between Central Public Sector Enterprises (CPSEs)/Port Trusts inter se\nand also between CPSEs and Government dept./Organizations (Excluding disputes\nconcerning Railways, Income Tax, Customs & Excise Dept.), such disputes or\ndifferences shall be taken up by either party for resolution through AMRCD as\nmentioned in DPE OM No. 4(1)/ 2013- DPE(GM)/FTS-1835 dated 22/5/2018 or the\nlatest DPE Guidelines issued from time to time.\nPage 6 of 8",
+        "tables": []
+    },
+    {
+        "page": 54,
+        "text": "CAPITAL\nGENERAL TERMS AND CONDITIONS FOR INDEGENOUS SOURCES\n25. JURISDICTION:\nAll questions, disputes or differences arising under, out of or in connection with the\ncontract shall be subject to the exclusive jurisdiction of court within local limits of\nHyderabad, India.\n26. BANKRUPTCY ETC.:\nIf the Supplier/Contractor shall become bankrupt or insolvent or cause or suffer any\nreceiver to be appointed of his business or any asset thereof or compound with his\ncreditors, or being a corporation commence to be wound up, or carry on its business\nunder a Receiver for the benefits of its creditors or any of them, the Purchaser\nshall be at liberty:\na. To terminate the contract forthwith upon coming to know of the happening of any\nsuch event as aforesaid by notice in writing to the Contractor or to the receiver /\nliquidator.\nOR\nb. To give such receiver, liquidator or other person the option of carrying out the\ncontract subject to his providing guarantee up to an amount to be agreed for the\ndue and faithful performance of the Contract.\n27. CANCELLATION / SHORT CLOSURE OF PURCHASE ORDER:\nThe purchaser may, without prejudice to any other remedy for breach of Contract,\nby written notice of default sent to the supplier, terminate the contract in whole or\nin part:\na) If the supplier fails to deliver any or all of the stores within the time\nperiod(s) specified in the contract, or any extension thereof granted by the\nPurchaser.\nb) If the supplier fails to perform any other obligation under the contract within the\nperiod specified in the contract or any extension thereof granted by the\npurchaser.\nc) Purchaser reserves the right to cancel the Purchase Order/ contract on its\nown under exceptional circumstances.\nOn receipt of notice for short closure, the contractor shall cease all further work,\nexcept for such work as may be specified in the notice for the sole purpose of\nprotecting that part of the stores already executed. Further, the liability of\nMIDHANI in such cases will be limited to the extent of the cost as assessed by\nMIDHANI, in its opinion, till the point of short closure\n28. REJECTED GOODS:\nThe rejected goods at MIDHANI premises will lie at the risk of the Vendor. They\nshould be replaced immediately on receipt of intimation regarding rejection from\nMidhani. In case the rejected goods are not replaced within six weeks from the\ndate of receipt of the inspection memo, MIDHANI is not responsible for any loss,\ndamage and theft, and in addition, MIDHANI reserves the right to recover such\namount as may be assessed on account of storage and incidentals or any other\ncharges MIDHANI may have incurred.\nThe vendor has to lift the rejected material from MIDHANI within 6 months from\nthe date of receipt of intimation. In case of rejected goods are in MIDHANI for\nmore than 6 months, MIDHANI reserves the right to dispose of the same and Vendor\nshall not have any right for claiming the goods or damages thereof.\n29. Only one vertical (Company) from a group of companies will be eligible to\nparticipate in the tender. MIDHANI reserves the right to reject the bids of all such\nparties summarily, if it is found that verticals under the same organizations have\nparticipated.\n30. COO (Country Of Origin) certificate to be issued by chambers of commerce to avail\ndiscount in preferential custom duty amount in Indian customs.\nPage 7 of 8",
+        "tables": []
+    },
+    {
+        "page": 55,
+        "text": "CAPITAL\nGENERAL TERMS AND CONDITIONS FOR INDEGENOUS SOURCES\n31. COUNTERFEIT PARTS:\nMIDHANI requires its supplier to take steps to eliminate the counterfeit (or) suspect\ncounterfeit materials/ parts/ components. We define Counterfeit work as items that\nare, or contain, unlawful or unauthorized reproductions, substitutions or alterations\nthat have been knowingly mismarked, misidentified or otherwise misrepresented to\nbe an authentic, unmodified material/ parts/ component from the original\nmanufacturer. Unlawful or unauthorized substitution includes used items\nrepresented as new or the false identification of Grade, Serial number / Heat\nnumber, Lot number and date code or performance characteristics/Test\ncertificate/Coc / CoA. Suppliers of raw materials/ parts/ components are used\nfulfilling Purchase orders of MIDHANI LTD. Distributors shall only purchase\nmaterials/ components directly from original manufacturers.\n32. TRADE PRACTICES:\nSupplier will, at all times, refrain from engaging in any illegal, unfair or deceptive\ntrade practices or unethical business practices. Supplier shall at its expense obtain\nany and all permits, licences, authorizations, and/or certificates that may be\nrequired in any jurisdiction or by any regulatory or administrative agency in\nconnection with its activities hereunder. Supplier shall ensure that its employees\nare aware of:\n Their contribution to product or service conformity\n Their contribution to product safety, and\n Their contribution to the importance of ethical behaviour.\nIN CASE OF MIDHANI PROVIDES RAW MATERIAL, THE FOLLOWING CLAUSES SHALL APPLY:\nA. INDEMNITY BOND:\nThe successful tenderer shall submit Indemnity Bond covering the value of free issue\nmaterial as directed by the Purchaser. The value of the material will be furnished at the\ntime of placement of order.\nB. PROCESS LOSS:\nScrap generated shall be returned back to MIDHANI with suitable material accounting\nchallan wise. A maximum process loss 10% on generated scrap. If the process loss\nexceeds the allowed 10%, equivalent scrap cost for the exceeded scrap quantity shall be\nrecovered from party.\nC. REJECTIONS:\nThe processing has to be carried out as per Scope of Work. If the Material is rejected\ndue to faulty workmanship of supplier, machining charges shall not be paid and input\nraw material cost shall be recovered from party. The rejected material shall be\nreturned back to MIDHANI.\nD. INSURANCE:\nThe successful tenderer shall take an Insurance Policy, covering all risks, for the value\nof material issued by Midhani during transit & lying at his works.\nPage 8 of 8",
+        "tables": []
+    },
+    {
+        "page": 56,
+        "text": "",
+        "tables": []
+    },
+    {
+        "page": 57,
+        "text": "",
+        "tables": []
+    },
+    {
+        "page": 58,
+        "text": "",
+        "tables": []
+    },
+    {
+        "page": 59,
+        "text": "",
+        "tables": []
+    },
+    {
+        "page": 60,
+        "text": "",
+        "tables": []
+    },
+    {
+        "page": 61,
+        "text": "",
+        "tables": []
+    },
+    {
+        "page": 62,
+        "text": "",
+        "tables": []
+    },
+    {
+        "page": 63,
+        "text": "",
+        "tables": []
+    },
+    {
+        "page": 64,
+        "text": "",
+        "tables": []
+    },
+    {
+        "page": 65,
+        "text": "COMMERCIAL OFFER (UN-PRICED)\n(Compliance for submitting bids for listed items below:\nTo be submitted as a part of techno-commercial bid)\nFIRE FIGHTING SYSTEMS FOR SHED-4 & ADMIN BUILDING\nSL. DESCRIPTION QTY APPLICABLE HSN QUOTED\nNO. GST RATES YES NO\n1 Design and Supply of materials for Fire 01 SET\nFighting Systems for Shed-4 & Admin\nBuilding at Rohtak plant as per\n(Annexure-I, II, III)\n2 Installation, Erection, Commissioning & 01\nTesting of the above systems as per LUMPSUM\ntender",
+        "tables": [
+            [
+                [
+                    "SL.\nNO.",
+                    "DESCRIPTION",
+                    "QTY",
+                    "APPLICABLE\nGST RATES",
+                    "HSN",
+                    "QUOTED",
+                    null
+                ],
+                [
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    "YES",
+                    "NO"
+                ],
+                [
+                    "1",
+                    "Design and Supply of materials for Fire\nFighting Systems for Shed-4 & Admin\nBuilding at Rohtak plant as per\n(Annexure-I, II, III)",
+                    "01 SET",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "2",
+                    "Installation, Erection, Commissioning &\nTesting of the above systems as per\ntender",
+                    "01\nLUMPSUM",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            ]
+        ]
+    },
+    {
+        "page": 66,
+        "text": "BILL OF QUANTITIES\n(Price Break up to be submitted strictly in Price Bid/Cover-II only)\nSL NO ANNEXURE D 20 S 1 R 9 Description C H o S d N e D 20 S 1 R 9 Sub-description Unit Qty. Basic i n U R ni s t . Price S un G it S i T n p R e s r . C un S i G t i T n p R e s r . I u G ni S t T in p R er s G T S o T t a p l e A r m un o i u t t i n in R cl s . T i o n t c a l l o A f m G o S u T nt\nPIPES AND ACCESSORIES\nSupply of 'C' class heavy duty MS Pipe conforming to IS 1239/3589 i/c fittings like elbows, tees, flanges, tapers, nuts bolts, gaskets etc. in\nITEM NO 1 6 ground including welding, excavation & providing cement concrete blocks as supports, anticorrosive treatment with coaltar/asphalt tape as per 7306 6.2 150 mm. Dia Metre 78\nIS 10221, refilling the trench etc. of following sizes complete as required. (MAKE: JINDAL (HISSAR), TATA, PRAKASH)\nITEM NO 2 7.1 25 mm dia RM 210\nITEM NO 3 7.2 32 mm dia RM 294\nITEM NO 4 Supply of 'C' class heavy duty MS pipe conforming to IS 3589/IS 1239 including Welding, fittings like elbows, tees, flanges, tapers, nuts bolts, 7.3 40 mm dia RM 246\nITEM NO 5 7 gaskets etc. and fixing the pipe on the wall/ceiling with suitable clamp/support frame and painting with two or more coats of synthetic enamel 7306 7.4 50 mm dia RM 12\nITEM NO 6 paint of required shade complete as required : (MAKE: JINDAL (HISSAR), TATA, PRAKASH) 7.5 65 mm dia RM 12\nITEM NO 7 7.6 80 mm dia RM 24\nITEM NO 8 7.7 100 mm dia RM 48\nITEM NO 9 7.8 150 mm dia RM 126\nITEM NO 10 9 S w N u h E p e W p e l l A y , I G S S i E I n g , m O le a M r h k E e e a X d d , ) e c d o n e f x o t r e m rn i a n l g I n to te I r S n a 5 l 2 h 9 y 0 d r ( a ty n p t e v a A lv ) e w w it i h th b 1 la n N k o G . 6 u 3 n m m e m ta l d /S ia t a in in s l t e a s n s t a S n t e e o e u l s c a F p M a n G d u c n h m a e in ta a l/ s S r t e a q in u l i e r s e s d S : t ( e M el A co K u E p : l i S n A g V an E d M ca A s X t i , r on 8481 9.2 S st i e n e g l le headed Stainless RM 6\nITEM NO 11 10 S w N u h E p e W p e l l A y , I G s S in E I g , m l O e a M r h k e e E a d d X , e ) c d o e n x fo te r r m n i a n l g y a to rd I S h y 5 d 2 r 9 a 0 n t ( v ty a p lv e e A w ) i w th i t 1 h N bl o a . n 6 k 3 G m un m m d e i t a a l i / n S s t t a a i n n t l a e n s e s o S u t s e e F l M ca G p u a n n m d e c t h a a l/ i S n t a a s in r l e e q ss u i S re te d e : l ( c M o A up K li E ng : S a A nd V c E a M st A ir X on , 8481 10.2 S st i e n e g l le headed Stainless RM 4\nI I T T E E M M N N O O 1 1 2 3 11 S IS u p 1 p 3 l 0 y 9 o 5 f o b f u f t o te l r lo fl w y i v n a g l v s e iz o es f P as N r e 1 q .6 u i r r a e t d in : g with bronze/gunmetal seat duly ISI marked complete with nuts, bolts, washers, gaskets conforming to 8481 1 1 1 1 . . 4 5 1 8 0 0 0 m m m m d d ia ia S S e e t t 1 2 0\nITEM NO 14 FIRE FIGHTING 11.6 150 mm dia Set 3\nWET RISER Supply of orifice plate made out of 6 mm thick stainless steel (Grade 304) with orifice of required size to be fitted between flange & landing\nITEM NO 15 HYDRANT & 13 valve of external and internal hydrants to reduce pressure at the outlet to the level of 3.5 kg/cm2 complete as required. (MAKE: SAVEMAX, 7307 Each 6\nSPRINKLE SYSTEM NEWAGE, OMEX)\nITEM NO 16 [ANNEXURE-I] 16 S 63 u 6 p p ( l t y y p 6 e 3 - A m ) m a s d r ia e , q 1 u 5 ir e m d : l ( o M ng A K RR E: L S h A o V se E p M ip A e X w / i O th M 6 E 3 X m /N m E d W ia A m G a E le ) and female couplings duly bound with GI wire, rivets etc. conforming to IS 5909 16.2 S 30 ta 4 i ) nless Steel (Grade Set 20\nSupply first-aid Hose Reel with MS construction spray painted in post office red, conforming to IS 884 complete with the following as required.\nITEM NO 17 17 2 va 0 l v m e m & n n o o m z i z n l a e l . i D nt r e u r m na a l n d d ia b w ra a c t k e e r t h s o f s o e r t f h ix e i r n m g o t p h l e a s e t q ic u i ( p T m e e x n ti t l s e o r n e i w nf a o l r l c . e C d o ) n t n y e p c e t i - o 2 n s a s f r p o e m r I r S is : e 1 r 2 w 58 it 5 h 2 2 0 5 m m m m n d o ia m s i t n o a p l i g n u te n r n m a e l t d a i l a v g a u lv n e m & e t M al . g S l . o P b i e p e 8424 17.1 30 m Set 4\nand socket.(MAKE: SAVEMAX/OMEX/ NEWAGE)\nITEM NO 18 21 Supply 15mm dia quartzoid bulb type sprinklers of rating 68 degree centigrade with required accessories : 8424 21.1 Pendent Sprinkler Each 40\nITEM NO 19 21.2 Upright Sprinkler Each 220\nSupply installation control valve of cast iron body, brass/bronze working parts comprising of water motor alarm, bronze seat clapper, clapper\nITEM NO 20 24 a e r m m e r a g n e d n c h y y d re ra le u a li s c e a s l , l y s t d ra ri i v ne en r, m pr e e c s h s a u n re ic s a w l g it o c n h g , c b o e c ll k t o v a s l o v u e n c d o c m o p n l t e in te u o w u i s t h a l d a r r a m in w v h a e lv n e t h an e d w b e y t p r a is s e s r , / t s e p s r t i n c k o l n e t r r o s l y b st o e x m , b a a c l t l i v v a a t l e v s e , s p , r M es S s u p r i e p e g a o u f g es, 8481 24.3 150mm dia Set 1\nrequired size, flanges, orifice plate, gasket etc of following sizes as required :\nSupply sprinkler flexible pipe (UL Listed) of stainless steel complete with 15 NPT on reducer thread with maximum working pressure of 175\nITEM NO 21 25 PSI test pressure of 875 PSI (Burst) with branch line (Inlet) 25mm NPT male thread to sprinkler head (Outlet) 15mm NPT female thread with 8307 25.3 1200mm Set 40\nreducer, nipple, 2 side brackets, centre bracket, stockbar of following sizes complete as required.\nITEM NO 22 29 Supply adustable rosette plate for 15mm dia in white finish UL Listed or FM approved complete as required. 7907 Each 40\nITEM NO 23 1 S / f u l p a p ng ly e . gun metal ball valve suitable for pressure 15 Kg/Cm2 and confirming to IS: 778 of the following size including providing necessary union 8481 a) 25 mm dia NOS 4\nSupply weather proof cabinet of size not less than 0.75 x 0.6 x 0.25 mtr made out of M.S. sheet not less than 1.5 mm thick having central\nITEM NO 24 5 o lo p c e k n i i n n g g a a r n r d an 4 g e m m m e n t t h a ic n k d g p l a a i z n e t d in g g l i a n s s r e d d o c o o rs lo ( u T r w su o i t n a o b s l . e ) t s o u i a ta c b co ly m m m a o r d k a e t d e , o e n x t t h e e r n o a u l t y si a d r e d ' h w y i d th r a t n h t e v l a e l t v te e r , s 2 \" n F o IR s E 15 H m O t S r E lo \" n g in c H lu o d se in p g i p ne e c , e b s r s a a n r c y h pipe, 7310 NOS 6\nnozzle and fire man's axe. It shall be mounted on boundary wall complete as required.\nDSR items\nITEM NO 25 INTELLIGENT 17.2.4 Supply intelligent analog addressable photothermal detector complete with mounting base complete as required. 8531 Each 12\nITEM NO 26 ADDRESSABLE FIRE 17.2.14 Supply addressable manual call point complete as required. 8531 Each 4\nITEM NO 27 DETECTION & 17.2.15 Supply addressable horn cum strobe complete as required. 8531 Each 4\nITEM NO 28 [ANN A E L X A U R R M E-II] 17.5.2 S & u F pp R l L y S 2 x o 1 u . t 5 e r s q sh m e m at h F i c r o e m al p a l r e m te a a r s m r o e u q r u e ir d e c d a . ble, 600/1000V rated with annealed copper conductor having XLPE insulation, steel wire armouring 8544 Metre 800\nEmergency Exit Light\nSupply wall mounting / ceiling hung type, self contained Rechargeable LED Emergency Egress Routes maintained type Signage/ Escape Route/\nDirectional Light with LED lamp having multi LED illumination on normal as well as mains failure on self contained battery source complete\nwith G.I. chain, brackets, hardwares etc. as required for fixing. ON resumption of mains supply, the lamp switches back to the mains\nITEM NO 29 automatically and simultaneously starts recharging the battery to the required level. The Signage Fitting shall be fabricated from 22SWG 9405 Each 4\nC.R.C.A.steel, Epoxy polyester powder coating, White in colour, 2 m.m. thick milky acrylic with vinyl pasted on it, complete with rechargeable\nEMER SI G G E N N A C G Y E EXIT N IS i : - C 10 d 3 / 2 N 2. i - ( M Re h f b P a R tte O r L y I f T o E r 3 A H ut o o u g r l s o b M ac o k d u e p l , - P 16 E L to L 2 E 4 D h o W ur a s l l r e M ch o a u r n g te in d g A p . e D ri . o o d r w eq it u h i v c a o l n e s n t t a ). nt current charger. Input - 230V, 50 HZ, confirms to\n[ANNEXURE-III] Supply wall mounting / ceiling hung type, self contained Rechargeable LED Emergency Egress Routes maintained type Signage/ Escape Route/\nDirectional Light with LED lamp having multi LED illumination on normal as well as mains failure on self contained battery source complete\nwith G.I. chain, brackets, hardwares etc. as required for fixing. ON resumption of mains supply, the lamp switches back to the mains\nITEM NO 30 automatically and simultaneously starts recharging the battery to the required level. The Signage Fitting shall be fabricated from 22SWG 9405 Each 2\nC.R.C.A.steel, Epoxy polyester powder coating, White in colour, 2 m.m. thick milky acrylic with vinyl pasted on it, complete with rechargeable\nNi-Cd / Ni-Mh battery for 3 Hours backup, 16 to 24 hours recharging period with constant current charger. Input - 230V, 50 HZ, confirms to\nIS: 10322. (Ref PROLITE Autoglo Model -PEL LED Wall Mounted A.D. or equivalent).\nITEM NO 31 SERVICE Installation, Commissioning & Testing of the complete firefighting Systems Lum 1\nTOTAL AMOUNT INCLUSIVE OF GST",
+        "tables": [
+            [
+                [
+                    "BILL OF QUANTITIES\n(Price Break up to be submitted strictly in Price Bid/Cover-II only)",
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null
+                ],
+                [
+                    "SL NO",
+                    "ANNEXURE",
+                    "DSR\n2019",
+                    "Description",
+                    "HSN\nCode",
+                    "DSR\n2019",
+                    "Sub-description",
+                    "Unit",
+                    "Qty.",
+                    "Basic Unit Price\nin Rs.",
+                    "SGST per\nunit in Rs.",
+                    "CSGT per\nunit in Rs.",
+                    "IGST per\nunit in Rs",
+                    "Total Amout incl\nGST per unit in Rs.",
+                    "Total Amount\nincl of GST"
+                ],
+                [
+                    "",
+                    "",
+                    "",
+                    "PIPES AND ACCESSORIES",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "ITEM NO 1",
+                    "FIRE FIGHTING\nWET RISER\nHYDRANT &\nSPRINKLE SYSTEM\n[ANNEXURE-I]",
+                    "6",
+                    "Supply of 'C' class heavy duty MS Pipe conforming to IS 1239/3589 i/c fittings like elbows, tees, flanges, tapers, nuts bolts, gaskets etc. in\nground including welding, excavation & providing cement concrete blocks as supports, anticorrosive treatment with coaltar/asphalt tape as per\nIS 10221, refilling the trench etc. of following sizes complete as required. (MAKE: JINDAL (HISSAR), TATA, PRAKASH)",
+                    "7306",
+                    "6.2",
+                    "150 mm. Dia",
+                    "Metre",
+                    "78",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "ITEM NO 2",
+                    null,
+                    "7",
+                    "Supply of 'C' class heavy duty MS pipe conforming to IS 3589/IS 1239 including Welding, fittings like elbows, tees, flanges, tapers, nuts bolts,\ngaskets etc. and fixing the pipe on the wall/ceiling with suitable clamp/support frame and painting with two or more coats of synthetic enamel\npaint of required shade complete as required : (MAKE: JINDAL (HISSAR), TATA, PRAKASH)",
+                    "7306",
+                    "7.1",
+                    "25 mm dia",
+                    "RM",
+                    "210",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "ITEM NO 3",
+                    null,
+                    null,
+                    null,
+                    null,
+                    "7.2",
+                    "32 mm dia",
+                    "RM",
+                    "294",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "ITEM NO 4",
+                    null,
+                    null,
+                    null,
+                    null,
+                    "7.3",
+                    "40 mm dia",
+                    "RM",
+                    "246",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "ITEM NO 5",
+                    null,
+                    null,
+                    null,
+                    null,
+                    "7.4",
+                    "50 mm dia",
+                    "RM",
+                    "12",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "ITEM NO 6",
+                    null,
+                    null,
+                    null,
+                    null,
+                    "7.5",
+                    "65 mm dia",
+                    "RM",
+                    "12",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "ITEM NO 7",
+                    null,
+                    null,
+                    null,
+                    null,
+                    "7.6",
+                    "80 mm dia",
+                    "RM",
+                    "24",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "ITEM NO 8",
+                    null,
+                    null,
+                    null,
+                    null,
+                    "7.7",
+                    "100 mm dia",
+                    "RM",
+                    "48",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "ITEM NO 9",
+                    null,
+                    null,
+                    null,
+                    null,
+                    "7.8",
+                    "150 mm dia",
+                    "RM",
+                    "126",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "ITEM NO 10",
+                    null,
+                    "9",
+                    "Supply Single headed external Internal hydrant valve with 1 No. 63 mm dia instantaneous FM Gunmetal/Stainless Steel coupling and cast iron\nwheel, ISI marked, conforming to IS 5290 (type A) with blank Gunmetal/Stainless Steel cap and chain as required : (MAKE: SAVEMAX,\nNEWAGE,OMEX)",
+                    "8481",
+                    "9.2",
+                    "Single headed Stainless\nsteel",
+                    "RM",
+                    "6",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "ITEM NO 11",
+                    null,
+                    "10",
+                    "Supply single headed external yard hydrant valve with 1 No. 63 mm dia instantaneous FM Gunmetal/Stainless Steel coupling and cast iron\nwheel, ISI marked, conforming to IS 5290 (type A) with blank Gunmetal/Stainless Steel cap and chain as required :(MAKE: SAVEMAX,\nNEWAGE, OMEX)",
+                    "8481",
+                    "10.2",
+                    "Single headed Stainless\nsteel",
+                    "RM",
+                    "4",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "ITEM NO 12",
+                    null,
+                    "11",
+                    "Supply of butterfly valve of PN 1.6 rating with bronze/gunmetal seat duly ISI marked complete with nuts, bolts, washers, gaskets conforming to\nIS 13095 of following sizes as required :",
+                    "8481",
+                    "11.4",
+                    "80 mm dia",
+                    "Set",
+                    "10",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "ITEM NO 13",
+                    null,
+                    null,
+                    null,
+                    null,
+                    "11.5",
+                    "100 mm dia",
+                    "Set",
+                    "2",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "ITEM NO 14",
+                    null,
+                    null,
+                    null,
+                    null,
+                    "11.6",
+                    "150 mm dia",
+                    "Set",
+                    "3",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "ITEM NO 15",
+                    null,
+                    "13",
+                    "Supply of orifice plate made out of 6 mm thick stainless steel (Grade 304) with orifice of required size to be fitted between flange & landing\nvalve of external and internal hydrants to reduce pressure at the outlet to the level of 3.5 kg/cm2 complete as required. (MAKE: SAVEMAX,\nNEWAGE, OMEX)",
+                    "7307",
+                    "",
+                    "",
+                    "Each",
+                    "6",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "ITEM NO 16",
+                    null,
+                    "16",
+                    "Supply 63 mm dia, 15 m long RRL hose pipe with 63 mm dia male and female couplings duly bound with GI wire, rivets etc. conforming to IS\n636 (type-A) as required:(MAKE: SAVEMAX/OMEX/NEWAGE)",
+                    "5909",
+                    "16.2",
+                    "Stainless Steel (Grade\n304)",
+                    "Set",
+                    "20",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "ITEM NO 17",
+                    null,
+                    "17",
+                    "Supply first-aid Hose Reel with MS construction spray painted in post office red, conforming to IS 884 complete with the following as required.\n20 mm nominal internal dia water hose thermoplastic (Textile reinforced) type -2 as per IS: 12585 20 mm nominal internal dia gun metal globe\nvalve & nozzle. Drum and brackets for fixing the equipments on wall. Connections from riser with 25 mm dia stop gun metal valve & M.S. Pipe\nand socket.(MAKE: SAVEMAX/OMEX/ NEWAGE)",
+                    "8424",
+                    "17.1",
+                    "30 m",
+                    "Set",
+                    "4",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "ITEM NO 18",
+                    null,
+                    "21",
+                    "Supply 15mm dia quartzoid bulb type sprinklers of rating 68 degree centigrade with required accessories :",
+                    "8424",
+                    "21.1",
+                    "Pendent Sprinkler",
+                    "Each",
+                    "40",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "ITEM NO 19",
+                    null,
+                    null,
+                    null,
+                    null,
+                    "21.2",
+                    "Upright Sprinkler",
+                    "Each",
+                    "220",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "ITEM NO 20",
+                    null,
+                    "24",
+                    "Supply installation control valve of cast iron body, brass/bronze working parts comprising of water motor alarm, bronze seat clapper, clapper\narm and hydraulically driven mechanical gong bell to sound continuous alarm when the wet riser/sprinkler system activates, pressure gauges,\nemergency releases, strainer, pressure switch, cock valve complete with drain valve and bypass, test control box, ball valves, MS pipe of\nrequired size, flanges, orifice plate, gasket etc of following sizes as required :",
+                    "8481",
+                    "24.3",
+                    "150mm dia",
+                    "Set",
+                    "1",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "ITEM NO 21",
+                    null,
+                    "25",
+                    "Supply sprinkler flexible pipe (UL Listed) of stainless steel complete with 15 NPT on reducer thread with maximum working pressure of 175\nPSI test pressure of 875 PSI (Burst) with branch line (Inlet) 25mm NPT male thread to sprinkler head (Outlet) 15mm NPT female thread with\nreducer, nipple, 2 side brackets, centre bracket, stockbar of following sizes complete as required.",
+                    "8307",
+                    "25.3",
+                    "1200mm",
+                    "Set",
+                    "40",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "ITEM NO 22",
+                    null,
+                    "29",
+                    "Supply adustable rosette plate for 15mm dia in white finish UL Listed or FM approved complete as required.",
+                    "7907",
+                    "",
+                    "",
+                    "Each",
+                    "40",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "ITEM NO 23",
+                    null,
+                    "1",
+                    "Supply gun metal ball valve suitable for pressure 15 Kg/Cm2 and confirming to IS: 778 of the following size including providing necessary union\n/ flange.",
+                    "8481",
+                    "a)",
+                    "25 mm dia",
+                    "NOS",
+                    "4",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "ITEM NO 24",
+                    null,
+                    "5",
+                    "Supply weather proof cabinet of size not less than 0.75 x 0.6 x 0.25 mtr made out of M.S. sheet not less than 1.5 mm thick having central\nopening and 4 mm thick glazed glass doors (Two nos.) suitably marked on the outside 'with the letters \"FIRE HOSE\" including necessary\nlocking arrangement and painting in red colour suitable to accommodate, external yard hydrant valve, 2 nos 15 mtr long Hose pipe, branch pipe,\nnozzle and fire man's axe. It shall be mounted on boundary wall complete as required.",
+                    "7310",
+                    "",
+                    "",
+                    "NOS",
+                    "6",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "",
+                    "",
+                    "",
+                    "DSR items",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "ITEM NO 25",
+                    "INTELLIGENT\nADDRESSABLE FIRE\nDETECTION &\nALARM\n[ANNEXURE-II]",
+                    "17.2.4",
+                    "Supply intelligent analog addressable photothermal detector complete with mounting base complete as required.",
+                    "8531",
+                    "",
+                    "",
+                    "Each",
+                    "12",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "ITEM NO 26",
+                    null,
+                    "17.2.14",
+                    "Supply addressable manual call point complete as required.",
+                    "8531",
+                    "",
+                    "",
+                    "Each",
+                    "4",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "ITEM NO 27",
+                    null,
+                    "17.2.15",
+                    "Supply addressable horn cum strobe complete as required.",
+                    "8531",
+                    "",
+                    "",
+                    "Each",
+                    "4",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "ITEM NO 28",
+                    null,
+                    "17.5.2",
+                    "Supply 2x1.5 sqmm Fire alarm armoured cable, 600/1000V rated with annealed copper conductor having XLPE insulation, steel wire armouring\n& FRLS outer sheath complete as required.",
+                    "8544",
+                    "",
+                    "",
+                    "Metre",
+                    "800",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "",
+                    "",
+                    "",
+                    "Emergency Exit Light",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "ITEM NO 29",
+                    "EMERGENCY EXIT\nSIGNAGE\n[ANNEXURE-III]",
+                    "",
+                    "Supply wall mounting / ceiling hung type, self contained Rechargeable LED Emergency Egress Routes maintained type Signage/ Escape Route/\nDirectional Light with LED lamp having multi LED illumination on normal as well as mains failure on self contained battery source complete\nwith G.I. chain, brackets, hardwares etc. as required for fixing. ON resumption of mains supply, the lamp switches back to the mains\nautomatically and simultaneously starts recharging the battery to the required level. The Signage Fitting shall be fabricated from 22SWG\nC.R.C.A.steel, Epoxy polyester powder coating, White in colour, 2 m.m. thick milky acrylic with vinyl pasted on it, complete with rechargeable\nNi-Cd / Ni-Mh battery for 3 Hours backup, 16 to 24 hours recharging period with constant current charger. Input - 230V, 50 HZ, confirms to\nIS: 10322. (Ref PROLITE Autoglo Model -PEL LED Wall Mounted A.D. or equivalent).",
+                    "9405",
+                    "",
+                    "",
+                    "Each",
+                    "4",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "ITEM NO 30",
+                    null,
+                    "",
+                    "Supply wall mounting / ceiling hung type, self contained Rechargeable LED Emergency Egress Routes maintained type Signage/ Escape Route/\nDirectional Light with LED lamp having multi LED illumination on normal as well as mains failure on self contained battery source complete\nwith G.I. chain, brackets, hardwares etc. as required for fixing. ON resumption of mains supply, the lamp switches back to the mains\nautomatically and simultaneously starts recharging the battery to the required level. The Signage Fitting shall be fabricated from 22SWG\nC.R.C.A.steel, Epoxy polyester powder coating, White in colour, 2 m.m. thick milky acrylic with vinyl pasted on it, complete with rechargeable\nNi-Cd / Ni-Mh battery for 3 Hours backup, 16 to 24 hours recharging period with constant current charger. Input - 230V, 50 HZ, confirms to\nIS: 10322. (Ref PROLITE Autoglo Model -PEL LED Wall Mounted A.D. or equivalent).",
+                    "9405",
+                    "",
+                    "",
+                    "Each",
+                    "2",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "ITEM NO 31",
+                    "SERVICE",
+                    "",
+                    "Installation, Commissioning & Testing of the complete firefighting Systems",
+                    "",
+                    "",
+                    "",
+                    "Lum",
+                    "1",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "TOTAL AMOUNT INCLUSIVE OF GST",
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    ""
+                ]
+            ]
+        ]
+    },
+    {
+        "page": 67,
+        "text": "PRICE BID FORMAT\nFIRE FIGHTING SYSTEMS FOR SHED-4 & ADMIN BUILDING\nSL. DESCRIPTION QTY UOM BASIC UNIT GST TOTAL\nNO. PRICE (in Rs) AMOUNT\n(in Rs) (in Rs)\n1 Design and Supply of 01 SET To be quoted & To be quoted To be quoted\nsubmitted in Price & submitted & submitted\nmaterials for Fire Fighting\nCover in Price Cover in Price\nSystems for Shed-4 & Admin Cover\nBuilding at Rohtak plant as per\n(Annexure-I, II, III)\n2 Installation, Erection, 01 LUMPSUM To be quoted & To be quoted To be quoted\nsubmitted in Price & submitted & submitted\nCommissioning & Testing of\nCover in Price Cover in Price\nthe above systems as per Cover\ntender\nNote: Price Break up of the Design & Supply of materials as per Annexure-I, II & III in the price bid\ncover as per attached format",
+        "tables": [
+            [
+                [
+                    "SL.\nNO.",
+                    "DESCRIPTION",
+                    "QTY",
+                    "UOM",
+                    "BASIC UNIT\nPRICE\n(in Rs)",
+                    "GST\n(in Rs)",
+                    "TOTAL\nAMOUNT\n(in Rs)"
+                ],
+                [
+                    "1",
+                    "Design and Supply of\nmaterials for Fire Fighting\nSystems for Shed-4 & Admin\nBuilding at Rohtak plant as per\n(Annexure-I, II, III)",
+                    "01",
+                    "SET",
+                    "To be quoted &\nsubmitted in Price\nCover",
+                    "To be quoted\n& submitted\nin Price Cover",
+                    "To be quoted\n& submitted\nin Price\nCover"
+                ],
+                [
+                    "2",
+                    "Installation, Erection,\nCommissioning & Testing of\nthe above systems as per\ntender",
+                    "01",
+                    "LUMPSUM",
+                    "To be quoted &\nsubmitted in Price\nCover",
+                    "To be quoted\n& submitted\nin Price Cover",
+                    "To be quoted\n& submitted\nin Price\nCover"
+                ]
+            ]
+        ]
+    },
+    {
+        "page": 68,
+        "text": "",
+        "tables": []
+    },
+    {
+        "page": 69,
+        "text": "",
+        "tables": []
+    },
+    {
+        "page": 70,
+        "text": "",
+        "tables": []
+    },
+    {
+        "page": 71,
+        "text": "",
         "tables": []
     }
 ]

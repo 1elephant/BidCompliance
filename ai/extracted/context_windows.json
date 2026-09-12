@@ -1,0 +1,833 @@
+[
+    {
+        "context_id": "CTX_0001",
+        "page": 1,
+        "start_char": 0,
+        "end_char": 716,
+        "anchors": [
+            {
+                "anchor": "technical specification",
+                "position": 175,
+                "strength": "STRONG"
+            },
+            {
+                "anchor": "technical specifications",
+                "position": 175,
+                "strength": "STRONG"
+            },
+            {
+                "anchor": "technical",
+                "position": 175,
+                "strength": "WEAK"
+            },
+            {
+                "anchor": "specification",
+                "position": 185,
+                "strength": "WEAK"
+            },
+            {
+                "anchor": "specifications",
+                "position": 185,
+                "strength": "WEAK"
+            },
+            {
+                "anchor": "eligibility",
+                "position": 234,
+                "strength": "WEAK"
+            },
+            {
+                "anchor": "bid security",
+                "position": 296,
+                "strength": "STRONG"
+            },
+            {
+                "anchor": "declaration",
+                "position": 309,
+                "strength": "WEAK"
+            },
+            {
+                "anchor": "declaration",
+                "position": 332,
+                "strength": "WEAK"
+            },
+            {
+                "anchor": "mandatory",
+                "position": 371,
+                "strength": "WEAK"
+            },
+            {
+                "anchor": "price",
+                "position": 562,
+                "strength": "WEAK"
+            },
+            {
+                "anchor": "price",
+                "position": 582,
+                "strength": "WEAK"
+            },
+            {
+                "anchor": "submit",
+                "position": 607,
+                "strength": "WEAK"
+            },
+            {
+                "anchor": "price",
+                "position": 629,
+                "strength": "WEAK"
+            },
+            {
+                "anchor": "price",
+                "position": 652,
+                "strength": "WEAK"
+            }
+        ],
+        "text": "CHECKLIST OF TENDER DOCUMENTS\nSL. DESCRIPTION OF TENDER DOCUMENTS NO OF\nNO PAGES\n1 GeM Tender Notice 02 Pages\n2 Agree Terms and Conditions 03 Pages\n3 Scope of Work 03 Pages\n4 Technical Specifications (Annexure-I, II & III) 33 Pages\n5 Eligibility Criteria 01 Pages\n6 Bill of Quantities 02 Pages\n7 Bid Security Declaration 01 Pages\n8 Declaration by Vendors along with Bid (Mandatory) on their Letter 01 Pages\nHead in Case the value of Procurement Is more than 5 Lakhs\n9 General Terms and Conditions 08 Pages\n10 Make In India Order 09 Pages\n11 Commercial Offer (Un-priced) 01 Pages\n12 Price Breakup BOQ (to be submitted in Cover-II/Price Bid) 01 Pages\n13 Price Bid Format 01 Pages\n14 Formats of Bank Guarantees 04 Pages"
+    },
+    {
+        "context_id": "CTX_0002",
+        "page": 2,
+        "start_char": 0,
+        "end_char": 2016,
+        "anchors": [
+            {
+                "anchor": "eligible bidder",
+                "position": 294,
+                "strength": "STRONG"
+            },
+            {
+                "anchor": "eligible bidders",
+                "position": 294,
+                "strength": "STRONG"
+            },
+            {
+                "anchor": "material",
+                "position": 405,
+                "strength": "WEAK"
+            },
+            {
+                "anchor": "specification",
+                "position": 450,
+                "strength": "WEAK"
+            },
+            {
+                "anchor": "material",
+                "position": 498,
+                "strength": "WEAK"
+            },
+            {
+                "anchor": "specification",
+                "position": 710,
+                "strength": "WEAK"
+            },
+            {
+                "anchor": "material",
+                "position": 751,
+                "strength": "WEAK"
+            },
+            {
+                "anchor": "delivery",
+                "position": 815,
+                "strength": "WEAK"
+            },
+            {
+                "anchor": "required",
+                "position": 824,
+                "strength": "WEAK"
+            },
+            {
+                "anchor": "material",
+                "position": 1034,
+                "strength": "WEAK"
+            },
+            {
+                "anchor": "certification",
+                "position": 1174,
+                "strength": "WEAK"
+            },
+            {
+                "anchor": "shall",
+                "position": 1253,
+                "strength": "WEAK"
+            },
+            {
+                "anchor": "material",
+                "position": 1291,
+                "strength": "WEAK"
+            },
+            {
+                "anchor": "performance",
+                "position": 1363,
+                "strength": "WEAK"
+            },
+            {
+                "anchor": "warranty period",
+                "position": 1440,
+                "strength": "STRONG"
+            },
+            {
+                "anchor": "warranty",
+                "position": 1440,
+                "strength": "WEAK"
+            },
+            {
+                "anchor": "specification",
+                "position": 1601,
+                "strength": "WEAK"
+            },
+            {
+                "anchor": "earnest money",
+                "position": 1634,
+                "strength": "STRONG"
+            },
+            {
+                "anchor": "earnest money deposit",
+                "position": 1634,
+                "strength": "STRONG"
+            },
+            {
+                "anchor": "emd",
+                "position": 1657,
+                "strength": "WEAK"
+            },
+            {
+                "anchor": "bidder shall",
+                "position": 1687,
+                "strength": "STRONG"
+            },
+            {
+                "anchor": "shall furnish",
+                "position": 1694,
+                "strength": "STRONG"
+            },
+            {
+                "anchor": "shall",
+                "position": 1694,
+                "strength": "WEAK"
+            },
+            {
+                "anchor": "furnish",
+                "position": 1700,
+                "strength": "WEAK"
+            },
+            {
+                "anchor": "emd",
+                "position": 1708,
+                "strength": "WEAK"
+            },
+            {
+                "anchor": "emd",
+                "position": 1846,
+                "strength": "WEAK"
+            }
+        ],
+        "text": "NIT DOCUMENT\nMISHRA DHATU NIGAM LIMITED\n(Government of India Enterprise)\nIMT Rohtak, Haryana\nWebsite: www.midhani-india.in\nEmail ID: h.manali@midhani-india.in\nvikram.c@midhani-india.in / subhadip.g@midhani-india.in\nGEM-TENDER NOTICE\nTenders (online bid) are invited through GeM portal from the eligible bidders from any agency\nauthorized by Controller of Certifying Authority (CCA), Govt of India.\nSl. No MATERIAL Estimated\nRequirement\nDescription & Specification\nQTY Units\n1. Design and Supply of materials for Fire Fighting Systems for 01 SET\nShed-4 & Admin Building at Rohtak plant as per (Annexure-\nI,II,III)\n2. Installation, Erection, Commissioning & Testing of the above 01 LUMPSUM\nsystems as per tender\nSpecification As per Annexure-I, II, III\nMaterial Supply within 60 days from the date of receipt of PO &\nDelivery Required By Installation, Erection and Commissioning within 60 days from the\ndate of site clearance.\nFOR Supply: 90% payment along with 100% taxes, within 30 days from\nthe date of receipt and acceptance of the material at MIDHANI.\nFor Service: 90% payment along with 100% taxes, within 30 days from\nthe date of erection & commissioning on Indenter’s certification.\nTerms of Payment\nBalance 10% payment of both supply and service shall be done after\nacceptance of the material at our end, successful commissioning and\nagainst submission of Performance Bank Guarantee for 10% value of\nthe order valid till Guarantee / Warranty Period.\nThe offer should be valid for a minimum period of 180 Days from\nValidity of the offer\nthe date of opening of tender.\nAcceptance Criteria As per Specification and Scope of Work.\nEARNEST MONEY DEPOSIT (EMD AMOUNT):-NIL\nThe tenderer/bidder shall furnish EMD, as mentioned below at the time of submission of bid.\nFor complete details, refer GENERAL TERMS AND CONDITIONS document clause No. 17\nEMD Exemption: Procurement under this bid is reserved for purchase from Micro and Small\nEnterprises, whose credentials are validated online through Udyog Aadhaar for that"
+    },
+    {
+        "context_id": "CTX_0003",
+        "page": 3,
+        "start_char": 0,
+        "end_char": 1842,
+        "anchors": [
+            {
+                "anchor": "bidder must",
+                "position": 97,
+                "strength": "STRONG"
+            },
+            {
+                "anchor": "must",
+                "position": 104,
+                "strength": "WEAK"
+            },
+            {
+                "anchor": "shall",
+                "position": 333,
+                "strength": "WEAK"
+            },
+            {
+                "anchor": "upload",
+                "position": 342,
+                "strength": "WEAK"
+            },
+            {
+                "anchor": "bidder shall",
+                "position": 463,
+                "strength": "STRONG"
+            },
+            {
+                "anchor": "shall",
+                "position": 470,
+                "strength": "WEAK"
+            },
+            {
+                "anchor": "required",
+                "position": 479,
+                "strength": "WEAK"
+            },
+            {
+                "anchor": "furnish",
+                "position": 491,
+                "strength": "WEAK"
+            },
+            {
+                "anchor": "submit",
+                "position": 789,
+                "strength": "WEAK"
+            },
+            {
+                "anchor": "shall",
+                "position": 839,
+                "strength": "WEAK"
+            },
+            {
+                "anchor": "submit",
+                "position": 925,
+                "strength": "WEAK"
+            },
+            {
+                "anchor": "shall",
+                "position": 984,
+                "strength": "WEAK"
+            },
+            {
+                "anchor": "technical",
+                "position": 1064,
+                "strength": "WEAK"
+            },
+            {
+                "anchor": "material",
+                "position": 1280,
+                "strength": "WEAK"
+            },
+            {
+                "anchor": "specification",
+                "position": 1523,
+                "strength": "WEAK"
+            },
+            {
+                "anchor": "shall",
+                "position": 1731,
+                "strength": "WEAK"
+            },
+            {
+                "anchor": "gst",
+                "position": 1770,
+                "strength": "WEAK"
+            },
+            {
+                "anchor": "gst",
+                "position": 1780,
+                "strength": "WEAK"
+            },
+            {
+                "anchor": "gst",
+                "position": 1825,
+                "strength": "WEAK"
+            }
+        ],
+        "text": "NIT DOCUMENT\nproduct/service category. If the bidder wants to avail the reservation benefit, the bidder must be\nthe manufacturer of the offered product in case of bid for supply of goods. Traders are excluded\nfrom the purview of Public Procurement Policy for Micro and Small Enterprises. Relevant\ndocumentary evidence in this regard shall be uploaded along with the bid in respect of the offered\nproduct or service.\nSECURITY DEPOSIT (SD): The successful tenderer/Bidder shall be required to furnish SD amount\nof 10% of purchase order value within 21 days from the date of Purchase Order.\nFor complete details, refer GENERAL TERMS AND CONDITIONS document clause No. 18\nSD Exemption: All Central PSU and Govt. departments may be exempt from submission of SD in\nall tenders.\nNote: If you are submitting Bank Guarantee (BG) in Place of SD, BG shall have a claim period of\none year from the date of its expiry. In case, SD is not submitted within 21 days from the date of\nPO, interest@12% shall be levied for the period of delay beyond 21 days.\nCONTACT DETAILS For any Technical Clarifications:\nMr Mallareddy Marri, Ph:040-2418 4525\nFor Commercial and Tender Related Clarifications:\nShri Raj Kumar (DGM-Purchase) Ph:040-2418 4578\nE-mail: rajkumar@midhani-india.in\nDiptimoy Mohanty (AM-Materials)\nE-mail: diptimoy.mohanty@midhani-india.in\nContact-7013952395\nFor Make In India & Vendor Registration Clarifications:\nShri Raj Kumar (DGM-Purchase) Ph:040-2418 4578\nEmail: rajkumar@midhani-india.in\nNote:\n1. Please refer for complete specification, tender terms & conditions and other additional\ndocuments under work item section.\n2. MIDHANI Reserves the right to conduct discovery through OLSB or OLSB Submission,\nfollowed by RAP\n3. Payment shall be released only after filing of GSTR1 and GSTR3B including availability of\ninvoices in GSTR2A of MIDHANI"
+    },
+    {
+        "context_id": "CTX_0004",
+        "page": 4,
+        "start_char": 16,
+        "end_char": 663,
+        "anchors": [
+            {
+                "anchor": "material",
+                "position": 316,
+                "strength": "WEAK"
+            },
+            {
+                "anchor": "specification",
+                "position": 367,
+                "strength": "WEAK"
+            },
+            {
+                "anchor": "price",
+                "position": 529,
+                "strength": "WEAK"
+            }
+        ],
+        "text": "ONDITIONS (ATC)\nDesign, Supply, Erection, Commissioning and Testing of Fire Fighting Systems for 4th Shed & Admin building at\nTENDER TITLE\nRohtak plant per Annexure-I, II & III\nBidder Name:\nVendor’s\nconfirmation\nS.NO. Tender Requirement REMARKS in Max 500 Characters\n(ARGREE\n/DISAGREE)\n*1 Supply the material as per MIDHANI Tender Quantity and Select\nSpecification without any deviation.\n*2 Specify Agree/Disagree of GEM Tender Notice Inviting Select\nTender (NIT) All the Terms and Conditions.\n*3 Basis of quoted prices. Select\nFOR (FREE ON RAIL/ROAD) MIDHANI, ROHTAK-124001\n*4 Payment Terms as per NIT Select\n*5 Validity of Quote- 180 days Select"
+    },
+    {
+        "context_id": "CTX_0005",
+        "page": 5,
+        "start_char": 0,
+        "end_char": 941,
+        "anchors": [
+            {
+                "anchor": "delivery schedule",
+                "position": 3,
+                "strength": "STRONG"
+            },
+            {
+                "anchor": "delivery",
+                "position": 3,
+                "strength": "WEAK"
+            },
+            {
+                "anchor": "class-i local supplier",
+                "position": 173,
+                "strength": "STRONG"
+            },
+            {
+                "anchor": "class-ii local supplier",
+                "position": 200,
+                "strength": "STRONG"
+            },
+            {
+                "anchor": "provide",
+                "position": 231,
+                "strength": "WEAK"
+            },
+            {
+                "anchor": "pan",
+                "position": 274,
+                "strength": "WEAK"
+            },
+            {
+                "anchor": "local content",
+                "position": 406,
+                "strength": "STRONG"
+            },
+            {
+                "anchor": "bidder shall",
+                "position": 436,
+                "strength": "STRONG"
+            },
+            {
+                "anchor": "shall furnish",
+                "position": 443,
+                "strength": "STRONG"
+            },
+            {
+                "anchor": "shall",
+                "position": 443,
+                "strength": "WEAK"
+            },
+            {
+                "anchor": "furnish",
+                "position": 449,
+                "strength": "WEAK"
+            },
+            {
+                "anchor": "earnest money",
+                "position": 457,
+                "strength": "STRONG"
+            },
+            {
+                "anchor": "earnest money deposit",
+                "position": 457,
+                "strength": "STRONG"
+            },
+            {
+                "anchor": "emd",
+                "position": 480,
+                "strength": "WEAK"
+            },
+            {
+                "anchor": "undertaking",
+                "position": 532,
+                "strength": "WEAK"
+            },
+            {
+                "anchor": "upload",
+                "position": 695,
+                "strength": "WEAK"
+            },
+            {
+                "anchor": "specification",
+                "position": 928,
+                "strength": "WEAK"
+            }
+        ],
+        "text": "*6 Delivery Schedule as per NIT Select\n*7 Bidder are informed to comply the \"Make In India\" (MII) Select\nGeneral Terms & Conditions (GTC) Clause No.19. As per\nGTC 19(f) the Class-I Local Supplier and Class-II Local\nSupplier has to provide the following details in bidder\ncompany letter head with the authorized sign and stamp of\nthe organization.\n(i) Tender Reference No______Date______\n(ii) Percentage of Local Content.------------\n*8 Bidder shall furnish Earnest Money Deposit (EMD) as per Select\nNIT\n*9 Integrity Pact along with Undertaking form has to be sign Select\n& stamped by the respective bidder by mentioning the\ntender reference number & date details and the same\ndocument has to be uploaded in the e-tenderng portal.\n*10 Bidder has to comply all the General Terms & Conditions Select\n(GTC) of the document.\n*11 Unconditional acceptance of all commercial terms & Select\nConditions\n*12 SPECIFY OFFER MAKE and\nPRODUCT SPECIFICATION"
+    },
+    {
+        "context_id": "CTX_0006",
+        "page": 6,
+        "start_char": 0,
+        "end_char": 853,
+        "anchors": [
+            {
+                "anchor": "gst",
+                "position": 42,
+                "strength": "WEAK"
+            },
+            {
+                "anchor": "must",
+                "position": 400,
+                "strength": "WEAK"
+            },
+            {
+                "anchor": "specification",
+                "position": 449,
+                "strength": "WEAK"
+            },
+            {
+                "anchor": "specifications",
+                "position": 449,
+                "strength": "WEAK"
+            },
+            {
+                "anchor": "specification",
+                "position": 555,
+                "strength": "WEAK"
+            },
+            {
+                "anchor": "specifications",
+                "position": 555,
+                "strength": "WEAK"
+            },
+            {
+                "anchor": "must",
+                "position": 594,
+                "strength": "WEAK"
+            },
+            {
+                "anchor": "technical",
+                "position": 633,
+                "strength": "WEAK"
+            },
+            {
+                "anchor": "shall",
+                "position": 680,
+                "strength": "WEAK"
+            },
+            {
+                "anchor": "furnish",
+                "position": 689,
+                "strength": "WEAK"
+            },
+            {
+                "anchor": "shall",
+                "position": 802,
+                "strength": "WEAK"
+            }
+        ],
+        "text": "*13 Indicate PO Address (to be released), GST NO. No. & HSN &\nSAC Code (Item Wise)\n*14 Indicate Taxes and Duties applicable with rate percentage.\n*15 Any Other Terms / Deviations (If Any).\n*Confirm your acceptance of our terms (S.NO. 1 to 10) by selecting AGREE option , if DISAGREE enter your remarks in respective cell.\n** For Sl no 11 to 15 enter only remarks in respective cell.\nTenderer’s offer must conform in all respects with the applicable specifications and terms and conditions(T&C) of the tender. In case of,\ndeviation if any, from the tender specifications or terms and conditions must be clearly and explicitly stated. Technical deviations and\nCommercial deviations shall be furnished at SNO.15 (Above) Only along with reasons for taking such deviations. Deviation(s) mentioned\nelsewhere shall not be accepted. T&C agreed at ATC are final."
+    },
+    {
+        "context_id": "CTX_0007",
+        "page": 7,
+        "start_char": 0,
+        "end_char": 1928,
+        "anchors": [
+            {
+                "anchor": "technical specification",
+                "position": 230,
+                "strength": "STRONG"
+            },
+            {
+                "anchor": "technical",
+                "position": 230,
+                "strength": "WEAK"
+            },
+            {
+                "anchor": "specification",
+                "position": 240,
+                "strength": "WEAK"
+            },
+            {
+                "anchor": "material",
+                "position": 267,
+                "strength": "WEAK"
+            },
+            {
+                "anchor": "pan",
+                "position": 453,
+                "strength": "WEAK"
+            },
+            {
+                "anchor": "technical specification",
+                "position": 589,
+                "strength": "STRONG"
+            },
+            {
+                "anchor": "technical specifications",
+                "position": 589,
+                "strength": "STRONG"
+            },
+            {
+                "anchor": "technical",
+                "position": 589,
+                "strength": "WEAK"
+            },
+            {
+                "anchor": "specification",
+                "position": 599,
+                "strength": "WEAK"
+            },
+            {
+                "anchor": "specifications",
+                "position": 599,
+                "strength": "WEAK"
+            },
+            {
+                "anchor": "material",
+                "position": 681,
+                "strength": "WEAK"
+            },
+            {
+                "anchor": "shall",
+                "position": 934,
+                "strength": "WEAK"
+            },
+            {
+                "anchor": "shall",
+                "position": 1079,
+                "strength": "WEAK"
+            },
+            {
+                "anchor": "shall",
+                "position": 1218,
+                "strength": "WEAK"
+            },
+            {
+                "anchor": "price",
+                "position": 1341,
+                "strength": "WEAK"
+            },
+            {
+                "anchor": "shall",
+                "position": 1397,
+                "strength": "WEAK"
+            },
+            {
+                "anchor": "required",
+                "position": 1440,
+                "strength": "WEAK"
+            },
+            {
+                "anchor": "shall",
+                "position": 1688,
+                "strength": "WEAK"
+            },
+            {
+                "anchor": "performance",
+                "position": 1709,
+                "strength": "WEAK"
+            },
+            {
+                "anchor": "performance",
+                "position": 1734,
+                "strength": "WEAK"
+            },
+            {
+                "anchor": "shall",
+                "position": 1775,
+                "strength": "WEAK"
+            }
+        ],
+        "text": "MISHRA DHATU NIGAM LIMITED:\nROHTAK\nFIRE FIGHTING SYSTEMS FOR 4th SHED & ADMIN BUIDLING\nSCOPE OF WORK\nSupply, installation, testing, commissioning of Fire Fighting Systems for 4th Shed & Admin\nbuilding 1st and 2nd floor as per the technical specification.\n Location: Material should be installed at Midhani at Rohtak Plant, Haryana State\n For all items mentioned in CPR- the order will be placed on overall Lowest (L1)\nbidder only.\n This system to be paneled/connected to the existing Fire Fighting systems available in\nother sheds and also connected to centralized Fire control room.\n Technical Specifications is as per the Annexure-I, II & III\nI. COMPLETION PERIOD\nSupply the material within 60 days from the date of P.O & Installation and Commissioning\nwithin 60 days from the date of site clearance.\nII. INSTALLATION, COMMISSIONING & TRAINING\nThe installation, testing and commissioning of the equipment/fire protection system shall be\ncarried out by competent engineers/technicians of the Tenderer at the work site. After\ncommissioning, the party’s engineer / technician shall impart necessary training to Owner’s\npersonnel in operating and maintaining the installed fire protection system. No separate\ncharge shall be payable by the Owner for the purpose.\nIII. QUANITITY VARIATION\nThe quantity as mentioned in the Schedule of Work/ Price Bid is indicative. The selected\nbidder/Contractor shall however ascertain the exact quantity required at site and supply and\ninstall accordingly. As the work progresses, it is possible that there will be quantity\nvariations to any extent & omission of items. Under all such circumstances, the rates should\nbe firm. The quantity of tolerance shall be +/-10%.\nIV. PERFORMANCE GUARANTEE:\n1 Performance Guarantee:\na) The Contractor shall guarantee that the equipment and workmanship of work done and\nany fittings designed / manufactured / supplied by him are as specified in the tender"
+    },
+    {
+        "context_id": "CTX_0008",
+        "page": 8,
+        "start_char": 0,
+        "end_char": 2686,
+        "anchors": [
+            {
+                "anchor": "shall",
+                "position": 62,
+                "strength": "WEAK"
+            },
+            {
+                "anchor": "required",
+                "position": 122,
+                "strength": "WEAK"
+            },
+            {
+                "anchor": "shall",
+                "position": 170,
+                "strength": "WEAK"
+            },
+            {
+                "anchor": "shall",
+                "position": 269,
+                "strength": "WEAK"
+            },
+            {
+                "anchor": "warranty",
+                "position": 364,
+                "strength": "WEAK"
+            },
+            {
+                "anchor": "shall",
+                "position": 483,
+                "strength": "WEAK"
+            },
+            {
+                "anchor": "provide",
+                "position": 601,
+                "strength": "WEAK"
+            },
+            {
+                "anchor": "warranty",
+                "position": 617,
+                "strength": "WEAK"
+            },
+            {
+                "anchor": "must",
+                "position": 915,
+                "strength": "WEAK"
+            },
+            {
+                "anchor": "authorization",
+                "position": 935,
+                "strength": "WEAK"
+            },
+            {
+                "anchor": "certificate",
+                "position": 949,
+                "strength": "WEAK"
+            },
+            {
+                "anchor": "provide",
+                "position": 980,
+                "strength": "WEAK"
+            },
+            {
+                "anchor": "technical",
+                "position": 1006,
+                "strength": "WEAK"
+            },
+            {
+                "anchor": "technical",
+                "position": 1334,
+                "strength": "WEAK"
+            },
+            {
+                "anchor": "warranty",
+                "position": 1352,
+                "strength": "WEAK"
+            },
+            {
+                "anchor": "must",
+                "position": 1386,
+                "strength": "WEAK"
+            },
+            {
+                "anchor": "material",
+                "position": 1635,
+                "strength": "WEAK"
+            },
+            {
+                "anchor": "shall",
+                "position": 1688,
+                "strength": "WEAK"
+            },
+            {
+                "anchor": "shall",
+                "position": 1837,
+                "strength": "WEAK"
+            },
+            {
+                "anchor": "material",
+                "position": 1985,
+                "strength": "WEAK"
+            },
+            {
+                "anchor": "shall",
+                "position": 1994,
+                "strength": "WEAK"
+            },
+            {
+                "anchor": "specification",
+                "position": 2233,
+                "strength": "WEAK"
+            },
+            {
+                "anchor": "specifications",
+                "position": 2233,
+                "strength": "WEAK"
+            },
+            {
+                "anchor": "certificate",
+                "position": 2307,
+                "strength": "WEAK"
+            },
+            {
+                "anchor": "shall",
+                "position": 2336,
+                "strength": "WEAK"
+            },
+            {
+                "anchor": "delivery",
+                "position": 2374,
+                "strength": "WEAK"
+            },
+            {
+                "anchor": "material",
+                "position": 2386,
+                "strength": "WEAK"
+            },
+            {
+                "anchor": "must",
+                "position": 2466,
+                "strength": "WEAK"
+            },
+            {
+                "anchor": "shall",
+                "position": 2515,
+                "strength": "WEAK"
+            }
+        ],
+        "text": "schedule and wherever there is nothing specifically mentioned shall correspond to the best\navailable grade and quality as required for the application.\nb) The Contractor shall also guarantee that the work done and any fittings designed,\nmanufactured, supplied, erected shall be as per prevailing relevant standard, codes and\nstatutory practices / stipulations.\n2. Warranty:\nThe Contractor will repair and/or replace all defective parts, components / fittings,\naccessories etc. which shall be notified to them in writing within the Defect Liability Period\nPromptly at free of cost. The Contractor will provide similar warranty on the parts,\ncomponents, fittings, accessories etc. repaired and/ or replaced.\n3. General Notes for Bidders:\n(Bidders should confirm each & every point clearly. Deviations, if any, should be\nhighlighted in the quotation.)\n1.0 Bidders other than the Original Equipment Manufacturer (OEM), must enclose proper\nauthorization certificate.\n2.0 The bidder to provide 3 (three) sets of technical literature for operation, maintenance &\nrepair indicating all components with schematic drawings, part number etc. along with\noffer.\n2.1 Three (3) sets of instruction cum operation manual, recommended parts list etc are to be\nsupplied along with the supply in the event of order. Bidder has to confirm the same in the\ntechnical bid.\n4. Warranty / Guarantee:\nThe Systems must be under guarantee / warrantee by the bidder for a minimum period of\nnot less than 18 months from the date of dispatch or 12 months from the date of successful\ncommissioning of the complete unit at site, whichever is earlier. Defective goods / materials\nor parts notified by Midhani to the Seller shall be replaced immediately by the Seller on\nF.O.R destination basis including payment of all taxes and duties at Seller's expense. This\nguarantee shall survive and hold good not-withstanding inspection, payment for and\nacceptance of the goods.\n5. Pre-dispatch Inspection & Testing Charges:\nThe material shall be inspected by Midhani deputed engineer at manufacturers’ works /\nfactory prior to dispatch. However, such inspection will not relieve the supplier of his\nresponsibility to ensure that the equipment supplied conforms to the correct specifications\nand is free from manufacturing and all other defects. Test certificates and controllers shall\nhave to be forwarded along with delivery of material.\n6. Installation & Commissioning:\nInstallation & Commissioning charges must be quoted separately on lumpsum basis which\nshall be considered for evaluation of the offers. While quoting Installation &\ncommissioning charges, bidders should take into account all charges including to & fro fare,"
+    },
+    {
+        "context_id": "CTX_0009",
+        "page": 9,
+        "start_char": 0,
+        "end_char": 1480,
+        "anchors": [
+            {
+                "anchor": "shall",
+                "position": 129,
+                "strength": "WEAK"
+            },
+            {
+                "anchor": "shall",
+                "position": 271,
+                "strength": "WEAK"
+            },
+            {
+                "anchor": "shall",
+                "position": 486,
+                "strength": "WEAK"
+            },
+            {
+                "anchor": "shall",
+                "position": 655,
+                "strength": "WEAK"
+            },
+            {
+                "anchor": "qualification",
+                "position": 768,
+                "strength": "WEAK"
+            },
+            {
+                "anchor": "qualification criteria",
+                "position": 768,
+                "strength": "STRONG"
+            },
+            {
+                "anchor": "bidder should",
+                "position": 799,
+                "strength": "STRONG"
+            },
+            {
+                "anchor": "shall",
+                "position": 1122,
+                "strength": "WEAK"
+            },
+            {
+                "anchor": "performance",
+                "position": 1270,
+                "strength": "WEAK"
+            }
+        ],
+        "text": "boarding / lodging, local transport at Rohtak and other daily expenses of the commissioning\npersonnel.\n7. Care of building:\nCare shall be taken while handling and installing the equipment to avoid damage to the\nbuilding. On completion of the installation, the contractor shall arrange to repair all\ndamages to the building caused during installation so as to bring to the original condition.\n8. Painting and protection:\nMetal work of all equipment to be supplied (except the detectors) shall be given the final\ncoat of paint over the primer after necessary treatment at the works before dispatch. All\ndamages to painting during transport and installation shall be set right or repainted to the\nentire satisfaction of the Engineer-in-Charge before handing over.\n9. PRE-QUALIFICATION CRITERIA:\n1. The bidder should have supplied /taken up minimum two installations of similar type\nof works within 5 years with minimum of Rs. 8.32 lakhs.\n2. The parties should give the details of the works taken up with full details of the\ncontact persons along with telephone nos. Supporting documents for successful\ncompletion of the work shall be enclosed along with offers.\n3. Midhani has the right to disqualify any supplier depending on the supporting\ndocuments/ after assessing the performance of systems supplied.\n4. Midhani may depute their Engineers to those installations to assess the work done,\nand the party has to arrange the visit. Expenses for visits if any will be borne by\nMidhani"
+    }
+]

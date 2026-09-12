@@ -2,7 +2,7 @@ import pdfplumber
 import json
 import os
 
-pdf_path = "data/sample_tender.pdf"
+pdf_path = "data/tender.pdf"
 output_path = "extracted/tender_pages.json"
 
 pages = []
