@@ -1,0 +1,55 @@
+{
+  "summary": {
+    "raw_requirements": 12,
+    "final_requirements": 8,
+    "removed_requirements": 4,
+    "merged_requirements": 0
+  },
+  "removed": [
+    {
+      "original_index": 4,
+      "reason": "Likely hallucinated EMD requirement",
+      "requirement": {
+        "category": "FINANCIAL",
+        "requirement": "The bidder shall furnish EMD.",
+        "requirement_type": "MANDATORY",
+        "_context_id": "CTX_0007",
+        "_page": 7
+      }
+    },
+    {
+      "original_index": 5,
+      "reason": "Likely hallucinated EMD requirement",
+      "requirement": {
+        "category": "FINANCIAL",
+        "requirement": "The bidder shall furnish EMD.",
+        "requirement_type": "MANDATORY",
+        "_context_id": "CTX_0008",
+        "_page": 8
+      }
+    },
+    {
+      "original_index": 9,
+      "reason": "Likely hallucinated EMD requirement",
+      "requirement": {
+        "category": "FINANCIAL",
+        "requirement": "The bidder shall furnish EMD.",
+        "requirement_type": "MANDATORY",
+        "_context_id": "CTX_0009",
+        "_page": 9
+      }
+    },
+    {
+      "original_index": 11,
+      "reason": "Purchaser/authority right, not bidder requirement",
+      "requirement": {
+        "category": "CERTIFICATION / QUALITY",
+        "requirement": "Midhani has the right to disqualify any supplier depending on the supporting documents/ after assessing the performance of systems supplied.",
+        "requirement_type": "MANDATORY",
+        "_context_id": "CTX_0009",
+        "_page": 9
+      }
+    }
+  ],
+  "merged": []
+}
